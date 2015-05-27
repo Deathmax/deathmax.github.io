@@ -25,6 +25,8 @@ author :
 #
 production_url : https://jscheah.me
 
+paginate: 5
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -72,8 +74,6 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
-
-  paginate: 5
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
