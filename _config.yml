@@ -73,6 +73,8 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
+  paginate: 5
+
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
