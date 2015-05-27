@@ -57,12 +57,14 @@ category: bravefrontier
 ![Banner Image](http://i.imgur.com/0oIt3DS.png)
 
 ---
+
 #Achievement Store
 
 * Updates to data. (Addition of end dates for challenges and several changes to the type of challenges)
 * All data now fixed and in the format the game expects.
 
 ---
+
 #Aaron Batch
 
 ##Data has been added.
