@@ -11,3 +11,5 @@ category: bravefrontier
 ![Gate Image](http://i.imgur.com/hFfnUvw.png)
 
 ##Release time: **25th May, 0700 PST**
+
+<!--more-->
