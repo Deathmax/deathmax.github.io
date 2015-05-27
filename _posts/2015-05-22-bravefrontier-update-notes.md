@@ -22,7 +22,7 @@ category: bravefrontier
 
 ![5* Illustration](http://i.imgur.com/e4pXxTE.png)
 
-* Stats (L): 5490 HP / 1410 ATK / 1560 DEF / 1625 REC | Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
+* Stats (L): 5490 HP / 1410 ATK / 1560 DEF / 1625 REC, Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
 * LS: Negates all status ailments & 15% boost to max Def and Rec for all Units
 * BB (21 cost): Gradually recovers HP for 3 turns (1600-1800 + 10% REC) & all status ailments removed and negated for 3 turns
 * *Aurelia of the Light, as some called her. A demi-god born on the first light of the first day. Aurelia encompassed the kindness and humanity that Athensphere so sorely needed. There were those who wielded power, might, and intellect for the sake of the lands, but she held a gentleness that charmed every warrior's soul, bringing them in touch with their own humanity. She was the 'mother' that all young-demi-gods went to in times of need for comfort and advice. When the Augmentation Wars broke out, Aurelia was appointed Grand Healer by Zedus. Together with a pair of twinborn cupids who were in her service, they attended to the casualties of the war. But as the war raged on, Aurelia was forced to fight the enemies who started breaching the region.*
@@ -40,7 +40,7 @@ category: bravefrontier
 ###Turbo Stormwing 5*
 ![5* Illustration](http://i.imgur.com/8exFssh.png)
 
-* Stats (L): 5075 HP / 1585 ATK / 1360 DEF / 1490 REC | Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
+* Stats (L): 5075 HP / 1585 ATK / 1360 DEF / 1490 REC, Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
 * LS: 15% boost to critical hit rate & boost to HC and BC drop rate (15%)
 * BB (23 cost): 10 combo powerful Light attack on all enemies (200% + 100 flat) & boosts Def relative to Rec for all allies (60%)
 * *Stormwings are augmented aero machines infused with the extracted souls of Harpies. They were one of the first experimental creations by Gazia in the light of the Augmentation Wars which eventually caused the fall of Athensphere. Their sharp claws and mechanical bodies allow these highly intelligent souls to take more damage and punishment than their original bodies. They can reach hazardous areas or pursue enemies at unmatched speeds, making them a highly lethal opponent on the battlefield. Created to self-preserve and evolve, Stormwings salvage the battlefields for parts to upgrade themselves in order to improve their abilities and power.*
