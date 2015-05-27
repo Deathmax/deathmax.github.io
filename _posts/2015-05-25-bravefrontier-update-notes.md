@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave Frontier - Update Notes - Mon May 25 2015 | Aaron Batch - First Half
-category: Brave Frontier
+category: bravefrontier
 ---
 
 {% include JB/setup %}
