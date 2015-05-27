@@ -10,7 +10,7 @@ category: bravefrontier
 
 ![6* Illustration](http://i.imgur.com/7JcC4Sv.png)
 
-* Stats (L): 6535 HP / 1725 ATK / 1930 DEF / 2095 REC | Imps: 750 HP / 300 ATK / 300 DEF / 300 REC
+* Stats (L): 6535 HP / 1725 ATK / 1930 DEF / 2095 REC, Imps: 750 HP / 300 ATK / 300 DEF / 300 REC
 * LS: Negates all status ailments, 20% boost to max Def and Rec for all Units & boost to HC and BC drop rate (20%)
 * BB (21 cost): Gradually recovers HP for 3 turns (1800-2100 +10% rec) & all status ailments removed and negated for 3 turns
 * SBB (26 cost): 14 combo powerful Light attack on all enemies (450% + 100 flat), greatly recovers HP (4000-4500 + 22.5% REC) & boosts Def relative to Rec for all allies (70%) (14 bc gen)
