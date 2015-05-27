@@ -7,7 +7,7 @@ title: JS Cheah's Blog
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">Published on {{ post.date }}</span>
+    <span class="date">Published on {{ post.date | date: "%B %e, %Y" }}</span>
   </p>
   <div class="content">
     {{ post.excerpt }}
