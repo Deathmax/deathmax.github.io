@@ -26,6 +26,7 @@ author :
 production_url : https://jscheah.me
 
 paginate: 5
+excerpt_separator: "<!--more-->"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
