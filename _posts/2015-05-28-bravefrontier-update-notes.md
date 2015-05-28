@@ -151,6 +151,9 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 
 This also brings about parade events, where Super versions require 1 key, and Mega versions require 3 keys.
 
+* SMP reduced from 40EN to 30EN
+* SJP reduced from 40EN to 30EN
+
 ---
 
 #Claire/Colt ES
