@@ -177,3 +177,9 @@ Partial data has been added (such as AI and spheres).
 ![Icon](//i.imgur.com/wblgjtf.png){: .img-responsive}
 
 Image assets translated.
+
+---
+
+#Server-side fixes
+
+Server time no longer jumps back and forward.
