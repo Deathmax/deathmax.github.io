@@ -124,9 +124,9 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 * 1000 XP/run
 * 3 stages
 * Encounters:
-* 1. Imp (Pakpak, Ganju, Fwahl, Molin)
-* 2. Elemental God
-* 3. Burst Frog
+*  * Imp (Pakpak, Ganju, Fwahl, Molin)
+*  * Elemental God
+*  * Burst Frog
 
 ---
 
