@@ -48,39 +48,39 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 |Name|ABP Required|Reward|
 |---|---|---|
-|Heavenly Judge|4200000|**Sky Orb** - +100% All Stats, +50% Crit Damage, +50% Spark Damage|
-|Calamity Host|4000000|**Sacred Staff** - +50% HP, Heal 1500-2000 (+ 20% REC) HP/turn, 33% Chance 15-20% HP Drain, Angel Idol Buff when HP below 20%. Recover 100% HP when revived.|
-|Celestial God|3840000|**Guardian Spirit** - +30% HP/DEF, 4 BC on Guard, 2 BC when hit while Guarding, 1 BC when hit|
-|Dark Destroyer|3692000|**Emperor Axe** - +100% Crit Damage, +30% Crit|
-|Gleaming God|3554000|**Gems x5**|
-|Hymn God|3425000|**Occult Treasure** - +40% All Stats|
-|Karma Killer|3303000|**Fury Core** - +75% BB Gauge Fill Rate|
-|Born Saint|3188000|**Wisdom Flower** - +150% Spark Damage|
-|Slumber God|3080000|**Gems x5**|
-|Cycle Cutter|2979000|**Sacred Dagger** - Hit Count +2, +25% BC/HC Drop Rate|
-|Ruling Star|2883000|**Monarch Sash** - 30% Chance Reduce Damage 50%|
-|Dark Finisher|2792000|**Thief Crown** - +20% BC/HC/Zel Drop Rate +15% Karma Drop Rate +5% Item Drop Rate|
-|Original God|2706000|**Gems x5**|
-|Wise Soul|2625000|**Divine Wings** - +200% ATK/DEF for First 2 Turns|
-|North Star|2547000|**Sky Helmet** - 40% Chance 20% Damage Reflect, 40% Chance 20% DMG to HP when hit|
-|Radiant Saint|2472000|**Dragon Earrings** - 10 BC On Attack|
+|Thanatos|4200000|**Sky Orb** - +100% All Stats, +50% Crit Damage, +50% Spark Damage|
+|Zeus|4000000|**Sacred Staff** - +50% HP, Heal 1500-2000 (+ 20% REC) HP/turn, 33% Chance 15-20% HP Drain, Angel Idol Buff when HP below 20%. Recover 100% HP when revived.|
+|Eris|3840000|**Guardian Spirit** - +30% HP/DEF, 4 BC on Guard, 2 BC when hit while Guarding, 1 BC when hit|
+|Coronides|3692000|**Emperor Axe** - +100% Crit Damage, +30% Crit|
+|Athena|3554000|**Gems x5**|
+|Erebus|3425000|**Occult Treasure** - +40% All Stats|
+|Aion|3303000|**Fury Core** - +75% BB Gauge Fill Rate|
+|Dionysus|3188000|**Wisdom Flower** - +150% Spark Damage|
+|Phoebus|3080000|**Gems x5**|
+|Perses|2979000|**Sacred Dagger** - Hit Count +2, +25% BC/HC Drop Rate|
+|Astraeus|2883000|**Monarch Sash** - 30% Chance Reduce Damage 50%|
+|Asteria|2792000|**Thief Crown** - +20% BC/HC/Zel Drop Rate +15% Karma Drop Rate +5% Item Drop Rate|
+|Ouranos|2706000|**Gems x5**|
+|Lightbringer|2625000|**Divine Wings** - +200% ATK/DEF for First 2 Turns|
+|Doombearer|2547000|**Sky Helmet** - 40% Chance 20% Damage Reflect, 40% Chance 20% DMG to HP when hit|
+|Daybreaker|2472000|**Dragon Earrings** - 10 BC On Attack|
 |Darkstalker|2400000|**Gems x5**|
-|Daybreaker|2294000|**God Lance** - 0-150% ATK depending on HP remaining, 0-200% DEF depending on HP lost|
-|Doombearer|2226000|**Star Flower** - +120% Spark Damage|
-|Lightbringer|2159000|**True Ore** - +60% BB Gauge Fill Rate|
-|Ouranos|2093000|**Gems x3**|
-|Asteria|2028000|**Buffer Jewel** - +35% All Stats|
-|Astraeus|1965000|**Summoner Key** - Reduce BB Cost 20%, 2 BC/turn|
-|Perses|1903000|**Astral Robe** - 30% Chance Reduce Damage 40%|
-|Phoebus|1842000|**Gems x3**|
-|Dionysus|1782000|**Soul Blade** - +100% ATK/DEF for First 4 Turns|
-|Aion|1724000|**War Crown** - 3-4 BC when hit|
-|Erebus|1667000|**Virtue Stone** - +20% BC/HC Drop Rate|
-|Athena|1611000|**Gems x3**|
-|Coronides|1556000|**Cured Glass** - Invalidate Status Ailments, Heal 500-800 (+ 10% REC) HP/turn|
-|Eris|1503000|**Dragon Edge** - 7 BC On Attack|
-|Zeus|1451000|**Lens Shield** - +200% DEF when HP is full|
-|Thanatos|1400000|**Gems x3**|
+|Radiant Saint|2294000|**God Lance** - 0-150% ATK depending on HP remaining, 0-200% DEF depending on HP lost|
+|North Star|2226000|**Star Flower** - +120% Spark Damage|
+|Wise Soul|2159000|**True Ore** - +60% BB Gauge Fill Rate|
+|Original God|2093000|**Gems x3**|
+|Dark Finisher|2028000|**Buffer Jewel** - +35% All Stats|
+|Ruling Star|1965000|**Summoner Key** - Reduce BB Cost 20%, 2 BC/turn|
+|Cycle Cutter|1903000|**Astral Robe** - 30% Chance Reduce Damage 40%|
+|Slumber God|1842000|**Gems x3**|
+|Born Saint|1782000|**Soul Blade** - +100% ATK/DEF for First 4 Turns|
+|Karma Killer|1724000|**War Crown** - 3-4 BC when hit|
+|Hymn God|1667000|**Virtue Stone** - +20% BC/HC Drop Rate|
+|Gleaming God|1611000|**Gems x3**|
+|Dark Destroyer|1556000|**Cured Glass** - Invalidate Status Ailments, Heal 500-800 (+ 10% REC) HP/turn|
+|Celestial God|1503000|**Dragon Edge** - 7 BC On Attack|
+|Calamity Host|1451000|**Lens Shield** - +200% DEF when HP is full|
+|Heavenly Judge|1400000|**Gems x3**|
 
 ###Random Rules
 
