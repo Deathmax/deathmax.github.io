@@ -108,9 +108,9 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 
 ##New Spheres
 
-* Holy Eight (from level 1) - +30% ATK/DEF, +50% Crit Damage
-* Scarlet Pin (from level 2) - +30% HP/ATK, +50% All Weakness Damage
-* Spirit Tiara (from level 3) - +75% ATK/DEF/REC when HP is above 50%, 1-3 BC when hit, 10-20% DMG to HP when hit
+* **Holy Eight** (from level 1) - +30% ATK/DEF, +50% Crit Damage
+* **Scarlet Pin** (from level 2) - +30% HP/ATK, +50% All Weakness Damage
+* **Spirit Tiara** (from level 3) - +75% ATK/DEF/REC when HP is above 50%, 1-3 BC when hit, 10-20% DMG to HP when hit
 
 ---
 
@@ -160,8 +160,8 @@ Partial data has been added (such as AI and spheres).
 
 ##New Spheres
 
-* White Armor - +30% ATK/DEF, Invalidate Status Ailments, 100% Base/Buffed Element Weakness Resist
-* DUEL Fragment - +30% HP/ATK & +20% Crit, 30% Chance Ignore Def, 4-6 BC On Crit
+* **White Armor** - +30% ATK/DEF, Invalidate Status Ailments, 100% Base/Buffed Element Weakness Resist
+* **DUEL Fragment** - +30% HP/ATK & +20% Crit, 30% Chance Ignore Def, 4-6 BC On Crit
 
 ---
 
