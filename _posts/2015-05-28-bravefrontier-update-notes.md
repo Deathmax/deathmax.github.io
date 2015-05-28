@@ -46,6 +46,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 ###New Ranks (After Skywalker - 1.3 million ABP)
 
+{: .table}
 |Name|ABP Required|Reward|
 |---|---|---|
 |Thanatos|4200000|**Sky Orb** - +100% All Stats, +50% Crit Damage, +50% Spark Damage|
