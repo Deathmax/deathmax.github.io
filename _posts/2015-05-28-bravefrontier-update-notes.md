@@ -83,6 +83,8 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 |Calamity Host|1451000|**Lens Shield** - +200% DEF when HP is full|
 |Heavenly Judge|1400000|**Gems x3**|
 
+*Ranks likely capped at Radiant Saint at 2.294 mil.*
+
 ###Random Rules
 
 * Empty BB Gauge Start
@@ -109,7 +111,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 ##Active now!
 
-Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-gaia-chronicles-guide-updated-sefia-kikuri.249909/#post-2003321) (courtesy of Hyperion)
+Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-gaia-chronicles-guide-updated-sefia-kikuri.249909/#post-2003321)
 
 ##New Spheres
 
