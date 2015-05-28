@@ -22,13 +22,13 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 * New Map: Bariura
 * New Arena Rank & Random Rule
 * Grand Gaia Chronicles: Kikuri & Sefia
-*  * Blades & Blossom
+  * Blades & Blossom
 * Metal Parade
-*  * Super Metal Parade: Minimum King
-*  * Mega Metal Parade: Minimum God
+  * Super Metal Parade: Minimum King
+  * Mega Metal Parade: Minimum God
 * Jewel Parade
-*  * Super Jewel Parade: Minimum king
-*  * Mega Jewel Parade: Minimum god
+  * Super Jewel Parade: Minimum king
+  * Mega Jewel Parade: Minimum god
 * Imp Parade
 
 ---
@@ -131,9 +131,9 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 * 1000 XP/run
 * 3 stages
 * Encounters:
-*  * Imp (Pakpak, Ganju, Fwahl, Molin)
-*  * Elemental God
-*  * Burst Frog
+  * Imp (Pakpak, Ganju, Fwahl, Molin)
+  * Elemental God
+  * Burst Frog
 
 ---
 
