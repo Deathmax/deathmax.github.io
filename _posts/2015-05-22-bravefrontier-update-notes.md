@@ -8,7 +8,7 @@ category: bravefrontier
 
 #New SBS Light Unit - Statuesque Aurelia
 
-![6* Illustration](//i.imgur.com/7JcC4Sv.png){: img-responsive}
+![6* Illustration](//i.imgur.com/7JcC4Sv.png){: .img-responsive}
 
 * Stats (L): 6535 HP / 1725 ATK / 1930 DEF / 2095 REC, Imps: 750 HP / 300 ATK / 300 DEF / 300 REC
 * LS: Negates all status ailments, 20% boost to max Def and Rec for all Units & boost to HC and BC drop rate (20%)
@@ -20,7 +20,7 @@ category: bravefrontier
 
 ###Elegant Aurelia 5*
 
-![5* Illustration](//i.imgur.com/e4pXxTE.png){: img-responsive}
+![5* Illustration](//i.imgur.com/e4pXxTE.png){: .img-responsive}
 
 * Stats (L): 5490 HP / 1410 ATK / 1560 DEF / 1625 REC, Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
 * LS: Negates all status ailments & 15% boost to max Def and Rec for all Units
@@ -29,7 +29,7 @@ category: bravefrontier
 
 ###Aurelia 4*
 
-![4* Illustration](//i.imgur.com/tVMaCg1.png){: img-responsive}
+![4* Illustration](//i.imgur.com/tVMaCg1.png){: .img-responsive}
 
 * LS: Negates all status ailments & 10% boost to max Def and Rec for all Units
 * BB (21 cost): Gradually recovers HP for 3 turns (1500-1600 + 10% REC) & all status ailments removed and negated for 3 turns
@@ -38,7 +38,7 @@ category: bravefrontier
 #Accompanying Evo Unit - Stormwing
 
 ###Turbo Stormwing 5*
-![5* Illustration](//i.imgur.com/8exFssh.png){: img-responsive}
+![5* Illustration](//i.imgur.com/8exFssh.png){: .img-responsive}
 
 * Stats (L): 5075 HP / 1585 ATK / 1360 DEF / 1490 REC, Imps: 500 HP / 200 ATK / 200 DEF / 200 REC
 * LS: 15% boost to critical hit rate & boost to HC and BC drop rate (15%)
@@ -46,7 +46,7 @@ category: bravefrontier
 * *Stormwings are augmented aero machines infused with the extracted souls of Harpies. They were one of the first experimental creations by Gazia in the light of the Augmentation Wars which eventually caused the fall of Athensphere. Their sharp claws and mechanical bodies allow these highly intelligent souls to take more damage and punishment than their original bodies. They can reach hazardous areas or pursue enemies at unmatched speeds, making them a highly lethal opponent on the battlefield. Created to self-preserve and evolve, Stormwings salvage the battlefields for parts to upgrade themselves in order to improve their abilities and power.*
 
 ###Stormwing 4*
-![4* Illustration](//i.imgur.com/fPDoTpO.png){: img-responsive}
+![4* Illustration](//i.imgur.com/fPDoTpO.png){: .img-responsive}
 
 * *Stormwings are augmented aero machines infused with the extracted souls of Harpies. They were one of the first experimental creations by Gazia in the light of the Augmentation Wars which eventually caused the fall of Athensphere. Their sharp claws and mechanical bodies allow these highly intelligent souls to take more damage and punishment than their original bodies. They can reach hazardous areas or pursue enemies at unmatched speeds, making them a highly lethal opponent on the battlefield.*
 
@@ -54,7 +54,7 @@ category: bravefrontier
 
 #SBS Dungeon - Spite of Passion
 
-![Banner Image](//i.imgur.com/0oIt3DS.png){: img-responsive}
+![Banner Image](//i.imgur.com/0oIt3DS.png){: .img-responsive}
 
 ---
 
