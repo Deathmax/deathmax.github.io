@@ -8,6 +8,6 @@ category: bravefrontier
 
 #New Rare Summons/Rate Ups - Zerafalgar, Oguro, Aaron
 
-![Gate Image](http://i.imgur.com/hFfnUvw.png){: .img-responsive}
+![Gate Image](//i.imgur.com/hFfnUvw.png){: .img-responsive}
 
 ##Release time: **25th May, 0700 PST**
