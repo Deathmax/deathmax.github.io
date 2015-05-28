@@ -44,7 +44,9 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 #New Arena Rank & Random Rules
 
-|Name|Points Required|Reward|
+###New Ranks (After Skywalker - 1.3 million ABP)
+
+|Name|ABP Required|Reward|
 |---|---|---|
 |Heavenly Judge|4200000|**Sky Orb** - +100% All Stats, +50% Crit Damage, +50% Spark Damage|
 |Calamity Host|4000000|**Sacred Staff** - +50% HP, Heal 1500-2000 (+ 20% REC) HP/turn, 33% Chance 15-20% HP Drain, Angel Idol Buff when HP below 20%. Recover 100% HP when revived.|
@@ -79,6 +81,8 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 |Eris|1503000|**Dragon Edge** - 7 BC On Attack|
 |Zeus|1451000|**Lens Shield** - +200% DEF when HP is full|
 |Thanatos|1400000|**Gems x3**|
+
+###Random Rules
 
 * Empty BB Gauge Start
 * No BBs
