@@ -83,7 +83,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 |Calamity Host|1451000|**Lens Shield** - +200% DEF when HP is full|
 |Heavenly Judge|1400000|**Gems x3**|
 
-*Ranks likely capped at Radiant Saint at 2.294 mil.*
+*Ranks likely capped at Radiant Saint at 2.294 mil due to missing dialogue and item data.*
 
 ###Random Rules
 
