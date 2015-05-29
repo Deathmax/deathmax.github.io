@@ -83,7 +83,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 |Calamity Host|1451000|**Lens Shield** - +200% DEF when HP is full|
 |Heavenly Judge|1400000|**Gems x3**|
 
-*Ranks likely capped at Radiant Saint at 2.294 mil due to missing dialogue and item data.*
+*Ranks capped at Radiant Saint at 2.294 mil.*
 
 ###Random Rules
 
@@ -123,6 +123,8 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 
 #Imp Parades
 
+![Banner Image](//i.imgur.com/hpY6qFW.png){: .img-responsive}
+
 ###Active now!
 
 * Keys are now available in the Achievement Store for 8000 pts every week.
@@ -158,7 +160,7 @@ This also brings about parade events, where Super versions require 1 key, and Me
 
 #Claire/Colt ES
 
-ES is now activated if the other unit is in the same squad.
+ES can now be activated if the other unit is in the same squad.
 
 ---
 
