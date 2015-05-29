@@ -21,6 +21,7 @@ category: bravefrontier
 
 * Friends' last login date show 999d.
 * Auto Battle settings are not saved.
+* Arena Random Rule setting is not applied.
 
 ![Info_3 have a error](//i.imgur.com/xMA7Vijm.png){: .img-responsive}
 
