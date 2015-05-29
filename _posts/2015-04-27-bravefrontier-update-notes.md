@@ -8,9 +8,10 @@ category: bravefrontier
 
 #New Rare Summons/Rate Ups - New Global Exclusives 7*
 
-[Gate Image](http://i.imgur.com/3kja7L5.png)
+![Gate Image](//i.imgur.com/3kja7L5.png){: .img-responsive}
 
 ----
+
 #Slayer Grandt (Mercenary Grandt 6\*, Grandt 5\*)
 
 ![7* Illustration](//i.imgur.com/TQvs236.png){: .img-responsive}
@@ -27,9 +28,10 @@ category: bravefrontier
 * **UBB** (Cost: 25): 18 combo massive Fire attack on all enemies (1000%, 100 flat), great chance of greatly reducing enemies' Atk for 2 turns (50% chance for -50%) & adds additional damage debuff to enemies at the end of each turn for 3 turns (effect absent) (36 bc gen) (102% dmg dist)
 
 ----
+
 #Chrono Mage Elaina (Chrono Mage Elaina 6\*, Elaina 5\*)
 
-[7* Illustration](//i.imgur.com/OcurOHm.png){: .img-responsive}
+![7* Illustration](//i.imgur.com/OcurOHm.png){: .img-responsive}
 
 * 5\*>6\* Mats: Miracle Totem, Dragon Mimic, Earth Totem, Earth Bulb, Emerald Relic
 * 6\*>7\* Mats: Earth Mecha God, Miracle Totem, Earth Totem, Metal Mimic, Verdant Relic
@@ -45,6 +47,7 @@ category: bravefrontier
 <!--more-->
 
 ---
+
 #New Evo Stones
 ##One stone required for 5\*>6\*, another for 6\*>7\*
 
@@ -61,6 +64,7 @@ category: bravefrontier
 *2 stones for all other elements have been added as well*
 
 ---
+
 #Unit Lore
 ##Grandt
 
