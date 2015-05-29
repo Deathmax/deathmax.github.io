@@ -8,6 +8,7 @@ category: bravefrontier
 
 #BP Store Updated
 
+{: .table}
 |Milestone|Reward|
 |--|--|
 |15000|2 Burst Emperors|

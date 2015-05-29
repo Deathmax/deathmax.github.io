@@ -11,8 +11,8 @@ category: bravefrontier
 ----------------------
 
 * Eriole (unit data added.)
-* [Bonnie/Carrol 6* released](http://www.reddit.com/r/bravefrontier/comments/34xm83/update_notes_tue_may_05_2015/). Evo mats: Miracle Totem, Thunder/Light Totem, Dark/Water Bulb, Fire/Earth Bulb, Metal Mimic
-* Imp key image added. UI elements for ~~God~~ Mega Parade (untranslated).
+* [Bonnie/Carrol 6* released](/bravefrontier/2015/05/05/bravefrontier-update-notes/). Evo mats: Miracle Totem, Thunder/Light Totem, Dark/Water Bulb, Fire/Earth Bulb, Metal Mimic
+* Imp key image added. UI elements for  Mega Parade (untranslated).
 * Sefia/Kikuri 7* unit images + dungeon banner (untranslated).
 * Bariura images.
 * More GQ stuff.
