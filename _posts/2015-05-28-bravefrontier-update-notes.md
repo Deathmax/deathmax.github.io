@@ -128,7 +128,6 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 ###Active now!
 
 * Keys are now available in the Achievement Store for 8000 pts every week.
-* Keys are also available in the Administration Office's Key section.
 * 15 energy/run
 * 1000 XP/run
 * 3 stages
