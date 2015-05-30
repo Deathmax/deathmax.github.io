@@ -21,7 +21,6 @@ category: bravefrontier
 
 * Friends' last login date show 999d.
 * Auto Battle settings are not saved.
-* Arena Random Rule setting is not applied.
 
 ![Info_3 have a error](//i.imgur.com/xMA7Vijm.png){: .img-responsive}
 
@@ -29,3 +28,9 @@ category: bravefrontier
   * Game proceeds to quit.
   * Restart game, no progress lost.
   * No known fix.
+
+
+###Non-issues
+
+* Arena Random Rule setting is not applied.
+  * Rules are applied randomly and not all matches will have a random rule active.
