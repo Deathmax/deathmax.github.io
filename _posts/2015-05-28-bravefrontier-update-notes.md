@@ -31,7 +31,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
   * Mega Jewel Parade: Minimum god
 * Imp Parade
 
----
+----
 
 #New Map: Bariura
 
@@ -103,7 +103,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 * No LS
 * No Sphere
 
----
+----
 
 #Grand Gaia Chronicles: Kikuri & Sefia
 
@@ -119,7 +119,7 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 * **Scarlet Pin** (from level 2) - +30% HP/ATK, +50% All Weakness Damage
 * **Spirit Tiara** (from level 3) - +75% ATK/DEF/REC when HP is above 50%, 1-3 BC when hit, 10-20% DMG to HP when hit
 
----
+----
 
 #Imp Parades
 
@@ -136,7 +136,7 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
   * Elemental God
   * Burst Frog
 
----
+----
 
 #Mega Parades
 
@@ -155,13 +155,13 @@ This also brings about parade events, where Super versions require 1 key, and Me
 * SMP reduced from 40EN to 30EN
 * SJP reduced from 40EN to 30EN
 
----
+----
 
 #Claire/Colt ES
 
 ES can now be activated if the other unit is in the same squad.
 
----
+----
 
 #Duel-GX GGC
 
@@ -174,7 +174,7 @@ Partial data has been added (such as AI and spheres).
 * **White Armor** - +30% ATK/DEF, Invalidate Status Ailments, 100% Base/Buffed Element Weakness Resist
 * **DUEL Fragment** - +30% HP/ATK & +20% Crit, 30% Chance Ignore Def, 4-6 BC On Crit
 
----
+----
 
 #Grand Quests
 
@@ -182,7 +182,7 @@ Partial data has been added (such as AI and spheres).
 
 Image assets translated.
 
----
+----
 
 #Server-side fixes
 

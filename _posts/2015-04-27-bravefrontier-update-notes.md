@@ -46,7 +46,7 @@ category: bravefrontier
 
 <!--more-->
 
----
+----
 
 #New Evo Stones
 ##One stone required for 5\*>6\*, another for 6\*>7\*
@@ -63,7 +63,7 @@ category: bravefrontier
 
 *2 stones for all other elements have been added as well*
 
----
+----
 
 #Unit Lore
 ##Grandt
