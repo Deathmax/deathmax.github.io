@@ -17,6 +17,8 @@ category: bravefrontier
 * Sacred Armor Nevsky
 * Twin Dragons Eru
 
+Evo Materials: Miracle Totem, Elemental Totem, Elemental Pot, Elemental Idol, Metal Mimic
+
 <!--more-->
 
 #Grand Quest
