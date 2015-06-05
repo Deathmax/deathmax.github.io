@@ -15,8 +15,8 @@ Released now!
 
 **Evo mats**: Mecha God, Miracle Totem, Elemental Totem, Elemental Pot, Legend Stone
 
-
-##[Phoenix Wings Lava](/fire)
+{: .fire}
+##Phoenix Wings Lava
 
 * **Hits/DC**: 10/3
 * **Cost**: 40
@@ -27,7 +27,8 @@ Released now!
 * **SBB**: Cost: 20BC/18DC - 18 Hit 500% AoE (ATK+100), 2 turn Def Ignore Buff, 3 turn +200% BB/SBB/UBB Mod
 * **UBB**: Cost: 20BC/22DC - 22 Hit 1000% AoE (ATK+100), 2 turn +500% BB/SBB/UBB Mod, 3 turn +300% ATK
 
-##[Leviathan Sage Elimo](/water)
+{: .water}
+##Leviathan Sage Elimo
 
 * **Hits/DC**: 8/3
 * **Cost**: 40
@@ -39,7 +40,8 @@ Released now!
 * **SBB**: Cost: 20BC - Heal 3800-4000 HP (+ 27% Healer REC), 3 turn +140% DEF, Reduce Damage 50% for 1 turn
 * **UBB**: Cost: 25BC - Heal 98999-99999 HP (+10% Target REC) for 3 turns, Reduce Damage 75% for 3 turn, 3-5 BC on Hit for 3 turns, Invalidate Status Ailments
 
-##[Valkyrie Archangel Griel](/thunder)
+{: .thunder}
+##Valkyrie Archangel Griel
 
 * **Hits/DC**: 11/3
 * **Cost**: 40

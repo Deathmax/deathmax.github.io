@@ -29,45 +29,27 @@ h1, h2, h3, h4 {
   max-width: 900px;
 }
 
-a[href$="/fire"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.fire {
   color: #F44336;
 }
 
-a[href$="/water"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.water {
   color: #2196F3;
 }
 
-a[href$="/earth"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.earth {
   color: #4CAF50;
 }
 
-a[href$="/thunder"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.thunder {
   color: #FFC107;
 }
 
-a[href$="/light"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.light {
   color: #BDBDBD;
 }
 
-a[href$="/dark"] {
-  cursor: default;
-  pointer-event: none;
-  text-decoration: none;
+.dark {
   color: #424242;
 }
 
