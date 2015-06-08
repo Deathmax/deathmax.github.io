@@ -17,6 +17,14 @@ All the evo mat dungeons are open for a week, so take advantage of the vortex 1/
 
 **Evo mats**: Mecha God, Miracle Totem, Elemental Totem, Elemental Pot, Legend Stone
 
+![Sefia/Kikuri RS gate](//i.imgur.com/kKXUBRa.png){: .img-responsive}
+
+Sefia/Kikuri's rate up will be on the 8th of June.
+
+![Lava RS gate](//i.imgur.com/I1f66Tx.png){: .img-responsive}
+
+Lava/Elimo/Griel's rate up will be on the 9th of June.
+
 <!--more-->
 
 ![Lava](//i.imgur.com/sNIsugX.png){: .img-responsive}
