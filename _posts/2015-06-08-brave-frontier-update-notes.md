@@ -9,7 +9,7 @@ category: bravefrontier
 
 #Lava 7* Batch
 
-![Lava](//i.imgur.com/isbiS5c.gif){: .img-responsive} ![Elimo](//i.imgur.com/FMengOt.gif){: .img-responsive} ![Griel](//i.imgur.com/9kHJdHE.gif){: .img-responsive} ![Sefia](//i.imgur.com/4YevMyu.gif){: .img-responsive} ![Kikuri](//i.imgur.com/Xz8B2f1.gif){: .img-responsive}
+![Lava](//i.imgur.com/isbiS5c.gif){: .img-responsive style="display:inline"} ![Elimo](//i.imgur.com/FMengOt.gif){: .img-responsive style="display:inline"} ![Griel](//i.imgur.com/9kHJdHE.gif){: .img-responsive style="display:inline"} ![Sefia](//i.imgur.com/4YevMyu.gif){: .img-responsive style="display:inline"} ![Kikuri](//i.imgur.com/Xz8B2f1.gif){: .img-responsive style="display:inline"}
 
 Will be released once maintanence is over! Check the server status on the sidebar over at [/r/bravefrontier](//reddit.com/r/bravefrontier) to find out when server maintanence is over.
 
