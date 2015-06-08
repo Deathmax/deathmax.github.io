@@ -19,11 +19,11 @@ All the evo mat dungeons are open for a week, so take advantage of the vortex 1/
 
 ![Sefia/Kikuri RS gate](//i.imgur.com/kKXUBRa.png){: .img-responsive}
 
-Sefia/Kikuri's rate up will be on the 8th of June.
+Sefia/Kikuri's rate up will be on **June 8th**.
 
 ![Lava RS gate](//i.imgur.com/I1f66Tx.png){: .img-responsive}
 
-Lava/Elimo/Griel's rate up will be on the 9th of June.
+Lava/Elimo/Griel's rate up will be on the **June 9th**.
 
 <!--more-->
 
