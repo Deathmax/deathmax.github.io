@@ -78,10 +78,30 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 {: .light}
 ##Angelic Blades Sefia
 
+* **Hits/DC**: 14/3
+* **Cost**: 40
+* **Stats (L)**: 6514 HP / 2491 ATK / 2420 DEF / 1827 REC
+* **Imps**: 1000 HP / 340 ATK / 340 DEF / 620 REC
+* **LS**: +100% ATK - Light, +50% BB Gauge Fill Rate
+* **ES**: +100% BB/SBB/UBB Mod [Equip Holy Eight], +20% All Stats [Equip Holy Eight]
+* **BB**: Cost: 25BC/17DC | 17 Hit 280% AoE (ATK+100), 45% Paralyze, 3 turn 10% Paralyze buff
+* **SBB**: Cost: 24BC/42DC | 21 Hit 550% AoE (ATK+100), 3 turn 10% Paralyze buff, 3 turn +35% BC Drop Rate Buff
+* **UBB**: Cost: 25BC/52DC | 26 Hit 1000% AoE (ATK+100), 2 turn Hit Count +%s buff (130% damage), -80% ATK {100%} for 1 turn
+
 ![Kikuri](//i.imgur.com/wa2aYy6.png){: .img-responsive}
 
 {: .dark}
 ##Demonic Idol Kikuri
+
+* **Hits/DC**: 16/3
+* **Cost**: 40
+* **Stats (L)**: 6621 HP / 2343 ATK / 2288 DEF / 2003 REC
+* **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
+* **LS**: +100% ATK - Dark, +50% BB Gauge Fill Rate
+* **ES**: +10% Inflict Injury/Sick/Weaken [Equip Scarlet Pin], +8% Inflict Poison/Curse/Paralyze [Equip Scarlet Pin], +20% All Stats [Equip Scarlet Pin]
+* **BB**: Cost: 25BC/18DC | 18 Hit 280% AoE (ATK+100), 45% Curse, 3 turn 10% Curse buff
+* **SBB**: Cost: 24BC/44DC | 22 Hit 550% AoE (ATK+100), 3 turn 10% Curse buff, 4-7 BC on Hit for 3 turns
+* **UBB**: Cost: 25BC/50DC | 25 Hit 1000% AoE (ATK+100), 3 turn DoT Debuff (800% + 100 Flat Atk), 3 turn +200% ATK
 
 ---
 
