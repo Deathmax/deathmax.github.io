@@ -105,6 +105,12 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 
 ---
 
+#*Crimson Terror*{: .fire} (Seria EX Trial)
+
+Released now! Reddit Megathread over [here](//www.reddit.com/r/bravefrontier/comments/390715/crimson_terrortsundere_seria_ex_trial_megathread/).
+
+---
+
 #Other Updates
 
 * New help topics.
