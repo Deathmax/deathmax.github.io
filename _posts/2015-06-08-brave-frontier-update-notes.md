@@ -13,6 +13,8 @@ category: bravefrontier
 
 Will be released once maintanence is over! Check the server status on the sidebar over at [/r/bravefrontier](//reddit.com/r/bravefrontier) to find out when server maintanence is over.
 
+All the evo mat dungeons are open for a week, so take advantage of the vortex 1/2 energy event while you still can.
+
 **Evo mats**: Mecha God, Miracle Totem, Elemental Totem, Elemental Pot, Legend Stone
 
 <!--more-->
