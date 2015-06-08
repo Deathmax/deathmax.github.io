@@ -99,9 +99,9 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +100% ATK - Dark, +50% BB Gauge Fill Rate
 * **ES**: +10% Inflict Injury/Sick/Weaken [Equip Scarlet Pin], +8% Inflict Poison/Curse/Paralyze [Equip Scarlet Pin], +20% All Stats [Equip Scarlet Pin]
-* **BB**: Cost: 25BC/18DC | 18 Hit 280% AoE (ATK+100), 45% Curse, 3 turn 10% Curse buff
-* **SBB**: Cost: 24BC/44DC | 22 Hit 550% AoE (ATK+100), 3 turn 10% Curse buff, 4-7 BC on Hit for 3 turns
-* **UBB**: Cost: 25BC/50DC | 25 Hit 1000% AoE (ATK+100), 3 turn DoT Debuff (800% + 100 Flat Atk), 3 turn +200% ATK
+* **BB**: Cost: 25BC/18DC - 18 Hit 280% AoE (ATK+100), 45% Curse, 3 turn 10% Curse buff
+* **SBB**: Cost: 24BC/44DC - 22 Hit 550% AoE (ATK+100), 3 turn 10% Curse buff, 4-7 BC on Hit for 3 turns
+* **UBB**: Cost: 25BC/50DC - 25 Hit 1000% AoE (ATK+100), 3 turn DoT Debuff (800% + 100 Flat Atk), 3 turn +200% ATK
 
 ---
 
