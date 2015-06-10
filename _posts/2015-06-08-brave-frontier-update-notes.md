@@ -117,3 +117,4 @@ Released now! Reddit Megathread over [here](//www.reddit.com/r/bravefrontier/com
 * Strings indicating a DoB entry + notice to minors to obtain parental permission for gem purchases.
   * Please enter your date of birth. - Minors are required to have parental permission in order to purchase Gems.
 * More work on GQ side of things.
+* Text data for Lugina's evo item.
