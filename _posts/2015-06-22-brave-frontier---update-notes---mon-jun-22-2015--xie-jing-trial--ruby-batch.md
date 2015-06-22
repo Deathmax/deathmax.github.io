@@ -8,27 +8,53 @@ category: bravefrontier
 {% include JB/setup %}
 
 {: .dark}
-#Xie Jing (6*)
+#Temptress Xie'Jing (6*)
 
 ![Illustration](//i.imgur.com/HByzblL.png){: .img-responsive}
 
-Awaiting patch.
+*My, my… what do we have here? What a charming face you have. Come here, darling… I promise, I don’t bite…*
+
+* **Lore**: *Mock Unit of the witch Xie’ Jing. Xie’ Jing was a witch that bears great resemblance to that of a beautiful woman. She was known as a bringer of plague and pestilence, bearing a deep hatred of humans. However, she was better remembered as a vile temptress who seduced handsome young men and manipulated them to do her bidding. When she tire of them, she drained their life force to maintain her youth and beauty. With the aid of a mysterious Summoner, Xie’Jing was finally defeated by a feisty young lady by the name of Fang. The Summoner was able to provide Noel with valuable information regarding the fallen witch, thus the development of the mock unit Xie’ Jing. While not quite as formidable as the original witch, the unit Temptress Xie’ Jing is more than just a pretty face. Her mastery over the elements and her reputation as a plague bringer will introduce unsuspecting foes a whole new world of pain.*
+* **LS**: Huge boost in BC and HC drop rate, huge boost to BB gauge fill rate & high chance of inflicting Poison and Curse
+* **BB**: 24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking all allies
+* **SBB**: 35 combo massive Dark attack on all enemies (modifier based on remaining HP)
+
+
+{: .water}
+#Abyssal Wing Sae (5*)
+
+* **Lore (4\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a reuslt of centuries of being alone with nobody but her most loyal servants. Ages of being virtually unmatched in power in her realm spurred her to invade the surface world. Her conquest went on swiftly as nobody took her seriously, but she was eventually defeated when she took on the more powerful gods. Sacrificing a part of her powers and adamantly refusing defeat, she is now doing everything she can to regain her lost glory.* 
+* **Lore (5\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a result of ages of being alone with nobody but her most loyal servants. After her inital, unsuccessful rampage, she quested for venegance in an entire realm completely unknown to her. Through her journey, she slowly began to see the surface world in a different light, although her childish dreams of conquest would not be shaken. Starting to behave more like a true ruler, her powers eventually returned, stronger than ever before.* 
+* **LS**: 50% boost to Atk & 5% boost to critical hit rate for Water types
+* **BB**: 15 combo powerful Water attack on all enemies and great boost to Atk of all Water type units
+
 
 #Trial X3
 
 Awaiting patch.
 
+##Enemies
+
+* Xie'Jing
+* All 3 evolutions of Fei.
+* 2 Bozdells.
+
+##Dialogue
+
+* Come to join me too, little darling?
+* Sticking your nose where it does not belong will get you killed!
+* Your soul shall be mine!!
+* The witch's power of manipulation is noteworthy. I will add this to my data. Oh, you're still here?
+
 <!--more-->
 ---
-
-Names are temporary. Awaiting patch.
 
 #Ruby Batch
 
 * 6\* to 7\* Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Dragon Mimic, Metal Mimic
 
 {: .fire}
-##Blazing Phoenix Ruby
+##Phoenix Torque Ruby
 
 ![Illustration](//i.imgur.com/P4Kv03B.png){: .img-responsive}
 
@@ -43,7 +69,7 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 25BC/34DC - 34 Hit 1000% AoE (ATK+100), 3 turn 100% REC->ATK buff, 3 turn Hit Count +2 buff
 
 {: .water}
-##Concerted Pearl Medina
+##Tidal Nacre Medina
 
 ![Illustration](//i.imgur.com/eYINbE7.png){: .img-responsive}
 
@@ -58,7 +84,7 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1000% AoE (ATK+100), 2 turn +500% BB/SBB/UBB Mod, Reduce Damage 75% for 1 turn
 
 {: .earth}
-##Dual Storm God Dion
+##Cyclonic Blades Dion
 
 ![Illustration](//i.imgur.com/UqUUsDK.png){: .img-responsive}
 
@@ -73,7 +99,7 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1200% AoE (ATK+100), 3 turn +150% Spark Dmg
 
 {: .thunder}
-##Destruction Emperor Balgran
+##Roaring Crash Balgran
 
 ![Illustration](//i.imgur.com/cc8xr26.png){: .img-responsive}
 
@@ -88,7 +114,7 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1000% AoE (ATK+100), 3 turn 100% DEF->ATK buff, 2 turn Water Dmg 100% Reduction
 
 {: .light}
-##Luminous Princess Rinon
+##Resplendent Queen Rinon
 
 ![Illustration](//i.imgur.com/TDrpNVO.png){: .img-responsive}
 
@@ -103,7 +129,7 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 30BC/22DC - 22 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 3 turn +50% BB Fill Rate
 
 {: .dark}
-##Demonic Puppeteer Yura
+##Grand Malediction Yuura
 
 ![Illustration](//i.imgur.com/oGtgYjI.png){: .img-responsive}
 
@@ -122,6 +148,8 @@ Names are temporary. Awaiting patch.
 #Edea 7* Batch
 
 * Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Legend Stone
+
+##Names are temporary.
 
 {: .earth}
 ##Armor Goddess Edea
