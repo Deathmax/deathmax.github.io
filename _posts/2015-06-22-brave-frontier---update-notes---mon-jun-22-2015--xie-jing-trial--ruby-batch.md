@@ -15,15 +15,28 @@ category: bravefrontier
 *My, my… what do we have here? What a charming face you have. Come here, darling… I promise, I don’t bite…*
 
 * **Lore**: *Mock Unit of the witch Xie’ Jing. Xie’ Jing was a witch that bears great resemblance to that of a beautiful woman. She was known as a bringer of plague and pestilence, bearing a deep hatred of humans. However, she was better remembered as a vile temptress who seduced handsome young men and manipulated them to do her bidding. When she tire of them, she drained their life force to maintain her youth and beauty. With the aid of a mysterious Summoner, Xie’Jing was finally defeated by a feisty young lady by the name of Fang. The Summoner was able to provide Noel with valuable information regarding the fallen witch, thus the development of the mock unit Xie’ Jing. While not quite as formidable as the original witch, the unit Temptress Xie’ Jing is more than just a pretty face. Her mastery over the elements and her reputation as a plague bringer will introduce unsuspecting foes a whole new world of pain.*
-* **LS**: Ardent Seduction - Huge boost in BC and HC drop rate, huge boost to BB gauge fill rate & high chance of inflicting Poison and Curse
-* **BB**: Cursed Strike - 24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking all allies
-* **SBB**: Demonic Atrocity - 35 combo massive Dark attack on all enemies (modifier based on remaining HP)
+* **Cost**: 30
+* **Hits/DC**: 13/2
+* **Stats (L)**: 6200 HP / 2100 ATK / 1900 DEF / 2100 REC
+* **Imps**: 500 HP / 200 ATK / 200 DEF / 200 REC
+* **LS**: Ardent Seduction - Huge boost in BC and HC drop rate (25%), huge boost to BB gauge fill rate (40%) & high chance of inflicting Poison and Curse (20%)
+* **BB**: Cursed Strike - 24 combo powerful Dark, Fire, Earth and Thunder (240% + 100 flat) attack on all enemies & adds Curse and Poison effect when attacking all allies (15% buff to allies, 80% by Xie'Jing) (bc gen: 24, cost: 10)
+* **SBB**: Demonic Atrocity - 35 (actually 34) combo massive Dark attack on all enemies (modifier based on remaining HP) (700%-200% based on HP remaining + 100 flat) (800% DoT for 3 turns, on your own allies, 3-5 bc on hit for 3 turns) (bc gen: 34, cost: 28)
 
 ---
 
 #Trial X3
 
 Awaiting patch.
+
+##Reward
+
+* Temptress Xie'Jing
+* 1 Gem
+
+##Requirements
+
+Trial 001 (Karl), X1, X2
 
 ##Enemies
 
