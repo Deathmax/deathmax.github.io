@@ -53,36 +53,36 @@ Trial 001 (Karl), X1, X2
 
 ##Skills
 
-* Cursed Strike
-* Vile Grudge
-* Totem of Mending
-* Hear me, Fei! You will Obey!
-* Darling.. Protect Me!
-* Love me.. Worship me.. Die for Me!
-* Here's a surprise for you!
-* Play with my pets!
-* Soul Siphon
-* Soul Extinguish
-* Blighted Harvest
-* Grim Malice
-* Malignant Wave
-* Soul Erosion
-* Demonic Atrocity
-* Unholy Purge
-* Depraved Punishment
-* You shall not hurt her!
-* Frigid Impulse
-* All for my beloved..
-* All for my beloved..
-* All for my beloved..
-* Ack…
-* For you, my mistress
-* Anarchic Detonation
-* Anarchic Detonation
-* Anarchic Detonation
-* Anarchic Detonation
-* Anarchic Detonation
-* Count down in 3…
+* Cursed Strike - AoE 135% atk, 15% curse poison, 15% chance reduce 20% bb
+* Vile Grudge - Single 165% atk, 100% curse poison
+* Totem of Mending - 20000-35000 self HoT + 100% def buff for 3 turns
+* Hear me, Fei! You will Obey! - Spawn 4* Fei
+* Darling.. Protect Me! - Spawn 5* Fei
+* Love me.. Worship me.. Die for Me! - Spawn 6* Fei
+* Here's a surprise for you! - Spawn Bozdell, 9999999 HP shield for 3 turns
+* Play with my pets! - Spawn Bozdell
+* Soul Siphon - Single 60% HP atk
+* Soul Extinguish - Single 666666 fixed damage atk
+* Blighted Harvest - AoE 150% atk, 25% chance reduce 30-40% bb, 15% curse poison
+* Grim Malice - Single 180% atk, 100% curse poison, AoE 50% DoT for 3 turns
+* Malignant Wave - AoE 120% earth atk, clear buff, 25% curse
+* Soul Erosion - Single 200% atk, drain 60-75% bb, 70% DoT for 2 turns
+* Demonic Atrocity - AoE 350% fire earth thunder atk, 150% DoT for 2 turns
+* Unholy Purge - AoE LS lock for 10 turns
+* Depraved Punishment - AoE 250% HP attack (leaves units at 1 HP), drain 60-80% bb, LS lock for 5 turns
+* You shall not hurt her! - 2 turn taunt, self 100% def buff, 50% atk buf, another 75% def buff
+* Frigid Impulse - AoE 150% atk
+* All for my beloved.. - AoE 50% atk/def buff for 999 turns
+* All for my beloved.. - AoE 100% atk, 75%def buff for 999 turns
+* All for my beloved.. - AoE 125% atk, 100% def buff for 999 turns
+* Ack… - Self 999999 fixed damage atk
+* For you, my mistress - AoE 35000-55000 heal
+* Anarchic Detonation - AoE LS lock 5 turns
+* Anarchic Detonation - AoE 100-150% HP atk (leaves units at 1 HP)
+* Anarchic Detonation - AoE drain 60-80% bb
+* Anarchic Detonation - AoE heal 50000-75000
+* Anarchic Detonation - Self 999999 fixed damage atk
+* Count down in 3… - AoE remove ailments
 
 ---
 
