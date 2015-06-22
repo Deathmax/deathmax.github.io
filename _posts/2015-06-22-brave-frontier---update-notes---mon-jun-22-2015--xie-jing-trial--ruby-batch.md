@@ -21,7 +21,7 @@ category: bravefrontier
 * **Imps**: 500 HP / 200 ATK / 200 DEF / 200 REC
 * **LS**: Ardent Seduction - Huge boost in BC and HC drop rate (25%), huge boost to BB gauge fill rate (40%) & high chance of inflicting Poison and Curse (20%)
 * **BB**: Cursed Strike - 24 combo powerful Dark, Fire, Earth and Thunder (240% + 100 flat) attack on all enemies & adds Curse and Poison effect when attacking all allies (15% buff to allies, 80% by Xie'Jing) (bc gen: 24, cost: 10)
-* **SBB**: Demonic Atrocity - 35 (actually 34) combo massive Dark attack on all enemies (modifier based on remaining HP) (700%-200% based on HP remaining + 100 flat) (800% DoT for 3 turns, on your own allies, 3-5 bc on hit for 3 turns) (bc gen: 34, cost: 28)
+* **SBB**: Demonic Atrocity - 35 (actually 34) combo massive Dark attack on all enemies (damage reciprocate to remaining HP) & adds additional damage debuff to enemies at the end of each turn for 3 turns (400% dot + 100 flat) (3-5 bc fill on hit for allies) (bc gen: 34, cost: 28)
 
 ---
 
