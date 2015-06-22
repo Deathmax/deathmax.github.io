@@ -24,6 +24,8 @@ Names are temporary. Awaiting patch.
 
 #Ruby Batch
 
+* 6\* to 7\* Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Dragon Mimic, Metal Mimic
+
 {: .fire}
 ##Blazing Phoenix Ruby
 
@@ -115,6 +117,8 @@ Names are temporary. Awaiting patch.
 * **UBB**: Cost: 20BC/48DC - 24 Hit 2000% ST (ATK+100), 3 turn +450% Crit Dmg
 
 #Edea 7* Batch
+
+* Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Legend Stone
 
 {: .earth}
 ##Armor Goddess Edea
