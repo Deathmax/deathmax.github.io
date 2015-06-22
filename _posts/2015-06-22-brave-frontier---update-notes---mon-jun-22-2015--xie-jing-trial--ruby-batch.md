@@ -197,3 +197,9 @@ Awaiting patch.
 * **BB**: Cost: 25BC/13DC - 13 Hit 260% AoE (ATK+100), Heal 1400-1600 HP (+ 22.5% Healer REC), 45% Curse
 * **SBB**: Cost: 23BC/19DC - 19 Hit 500% AoE (ATK+100), 3 turn 80% REC->ATK buff, 3 turn +30% BB Fill Rate
 * **UBB**: Cost: 20BC/23DC - 23 Hit 1000% AoE (ATK+100), 3 turn +350% REC, Heal 3600-4400 HP (+ 40% Healer REC), Heal 2000-2300 HP (+20% Target REC) for 3 turns
+
+---
+
+#Grand Quest
+
+* Text added until mission 7.
