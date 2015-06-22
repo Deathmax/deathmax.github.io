@@ -33,6 +33,8 @@ Awaiting patch.
 
 * Temptress Xie'Jing
 * 1 Gem
+* 3000000 Zel
+* 60000 XP
 
 ##Requirements
 
@@ -70,7 +72,7 @@ Trial 001 (Karl), X1, X2
 * Demonic Atrocity - AoE 350% fire earth thunder atk, 150% DoT for 2 turns
 * Unholy Purge - AoE LS lock for 10 turns
 * Depraved Punishment - AoE 250% HP attack (leaves units at 1 HP), drain 60-80% bb, LS lock for 5 turns
-* You shall not hurt her! - 2 turn taunt, self 100% def buff, 50% atk buf, another 75% def buff
+* You shall not hurt her! - 2 turn taunt, self 100% def buff, 50% atk buff, another 75% def buff
 * Frigid Impulse - AoE 150% atk
 * All for my beloved.. - AoE 50% atk/def buff for 999 turns
 * All for my beloved.. - AoE 100% atk, 75%def buff for 999 turns
