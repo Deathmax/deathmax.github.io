@@ -133,7 +133,7 @@ Names are temporary. Awaiting patch.
 * **Stats (L)**: 6605 HP / 2300 ATK / 2332 DEF / 2021 REC
 * **Imps**: 1500 HP / 300 ATK / 300 DEF / 300 REC
 * **LS**: +100% ATK & +30% DEF - Earth, 100% Base/Buff Crit Resist
-* **ES**: Add Effect To BB/SBB (Cure Status/Debuffs), +20% All Stats [Illustration](Equip Lafdranya)
+* **ES**: Add Effect To BB/SBB (Cure Status/Debuffs), +20% All Stats [Equip Lafdranya]
 * **BB**: Cost: 34-25BC/30DC - 15 Hit 500% ST (ATK+100), 3 turn 10% Injury/Sick/Weaken/7% Poison buff, Reduce Damage 50% for 1 turn
 * **SBB**: Cost: 31-22BC/18DC - 18 Hit 450% AoE (ATK+100), 3 turn 15% Injury/Sick/Weaken/10% Poison buff, Reduce Damage 50% for 1 turn
 * **UBB**: Cost: 25BC/21DC - 21 Hit 1000% AoE (ATK+100), Reduce Damage 75% for 1 turn, Inflict Debuff Buff
@@ -148,7 +148,7 @@ Names are temporary. Awaiting patch.
 * **Stats (L)**: 6651 HP / 2425 ATK / 2050 DEF / 2133 REC
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +100% ATK & +30% DEF - Thunder, +50% Spark Damage
-* **ES**: +50% Spark Damage, +20% All Stats [Illustration](Equip 神貫雷弓『エシュオン』)
+* **ES**: +50% Spark Damage, +20% All Stats [Equip 神貫雷弓『エシュオン』]
 * **BB**: Cost: 25BC/28DC - 28 Hit 260% AoE (ATK+100), 3 turn +70% Spark Dmg
 * **SBB**: Cost: 45-35BC/28DC - 1 Hit 850% AoE (ATK+100,BC Drop+50%,Crit Rate+25%), 3 turn +100% BB/SBB/UBB Mod, 3 turn +70% Spark Dmg
 * **UBB**: Cost: 30BC/40DC - 1 Hit 2000% AoE (ATK+1000,BC Drop+50%), 2 turn Def Ignore Buff, 1 turn +200% Spark Dmg to Self
