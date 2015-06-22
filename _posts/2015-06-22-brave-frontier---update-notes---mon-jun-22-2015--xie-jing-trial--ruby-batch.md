@@ -19,6 +19,7 @@ Awaiting patch.
 Awaiting patch.
 
 <!--more-->
+---
 
 Names are temporary. Awaiting patch.
 
@@ -115,6 +116,8 @@ Names are temporary. Awaiting patch.
 * **BB**: Cost: 22BC/15DC - 15 Hit 480% AoE (ATK+100), 3-5 BC on Hit for 3 turns
 * **SBB**: Cost: 27BC/40DC - 20 Hit 640% ST (ATK+100), Fill own BB 100%, 3 turn DoT Debuff (500% + 100 Flat Atk)
 * **UBB**: Cost: 20BC/48DC - 24 Hit 2000% ST (ATK+100), 3 turn +450% Crit Dmg
+
+---
 
 #Edea 7* Batch
 
