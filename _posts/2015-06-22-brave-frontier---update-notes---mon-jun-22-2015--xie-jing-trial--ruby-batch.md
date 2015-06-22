@@ -38,6 +38,39 @@ Awaiting patch.
 * Your soul shall be mine!!
 * The witch's power of manipulation is noteworthy. I will add this to my data. Oh, you're still here?
 
+##Skills
+
+* Cursed Strike
+* Vile Grudge
+* Totem of Mending
+* Hear me, Fei! You will Obey!
+* Darling.. Protect Me!
+* Love me.. Worship me.. Die for Me!
+* Here's a surprise for you!
+* Play with my pets!
+* Soul Siphon
+* Soul Extinguish
+* Blighted Harvest
+* Grim Malice
+* Malignant Wave
+* Soul Erosion
+* Demonic Atrocity
+* Unholy Purge
+* Depraved Punishment
+* You shall not hurt her!
+* Frigid Impulse
+* All for my beloved..
+* All for my beloved..
+* All for my beloved..
+* Ack…
+* For you, my mistress
+* Anarchic Detonation
+* Anarchic Detonation
+* Anarchic Detonation
+* Anarchic Detonation
+* Anarchic Detonation
+* Count down in 3…
+
 ---
 
 {: .water}
