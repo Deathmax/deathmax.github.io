@@ -15,21 +15,11 @@ category: bravefrontier
 *My, my… what do we have here? What a charming face you have. Come here, darling… I promise, I don’t bite…*
 
 * **Lore**: *Mock Unit of the witch Xie’ Jing. Xie’ Jing was a witch that bears great resemblance to that of a beautiful woman. She was known as a bringer of plague and pestilence, bearing a deep hatred of humans. However, she was better remembered as a vile temptress who seduced handsome young men and manipulated them to do her bidding. When she tire of them, she drained their life force to maintain her youth and beauty. With the aid of a mysterious Summoner, Xie’Jing was finally defeated by a feisty young lady by the name of Fang. The Summoner was able to provide Noel with valuable information regarding the fallen witch, thus the development of the mock unit Xie’ Jing. While not quite as formidable as the original witch, the unit Temptress Xie’ Jing is more than just a pretty face. Her mastery over the elements and her reputation as a plague bringer will introduce unsuspecting foes a whole new world of pain.*
-* **LS**: Huge boost in BC and HC drop rate, huge boost to BB gauge fill rate & high chance of inflicting Poison and Curse
-* **BB**: 24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking all allies
-* **SBB**: 35 combo massive Dark attack on all enemies (modifier based on remaining HP)
+* **LS**: Ardent Seduction - Huge boost in BC and HC drop rate, huge boost to BB gauge fill rate & high chance of inflicting Poison and Curse
+* **BB**: Cursed Strike - 24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking all allies
+* **SBB**: Demonic Atrocity - 35 combo massive Dark attack on all enemies (modifier based on remaining HP)
 
-
-{: .water}
-#Abyssal Wing Sae (5*)
-
-*I can't believe that I'm pairing up with lowly being like you! Just call me queen and we're even.*
-
-* **Lore (4\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a reuslt of centuries of being alone with nobody but her most loyal servants. Ages of being virtually unmatched in power in her realm spurred her to invade the surface world. Her conquest went on swiftly as nobody took her seriously, but she was eventually defeated when she took on the more powerful gods. Sacrificing a part of her powers and adamantly refusing defeat, she is now doing everything she can to regain her lost glory.* 
-* **Lore (5\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a result of ages of being alone with nobody but her most loyal servants. After her inital, unsuccessful rampage, she quested for venegance in an entire realm completely unknown to her. Through her journey, she slowly began to see the surface world in a different light, although her childish dreams of conquest would not be shaken. Starting to behave more like a true ruler, her powers eventually returned, stronger than ever before.* 
-* **LS**: 50% boost to Atk & 5% boost to critical hit rate for Water types
-* **BB**: 15 combo powerful Water attack on all enemies and great boost to Atk of all Water type units
-
+---
 
 #Trial X3
 
@@ -47,6 +37,18 @@ Awaiting patch.
 * Sticking your nose where it does not belong will get you killed!
 * Your soul shall be mine!!
 * The witch's power of manipulation is noteworthy. I will add this to my data. Oh, you're still here?
+
+---
+
+{: .water}
+#Water Vortex Arena Unit - Abyssal Wing Sae (5*)
+
+*I can't believe that I'm pairing up with lowly being like you! Just call me queen and we're even.*
+
+* **Lore (4\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a reuslt of centuries of being alone with nobody but her most loyal servants. Ages of being virtually unmatched in power in her realm spurred her to invade the surface world. Her conquest went on swiftly as nobody took her seriously, but she was eventually defeated when she took on the more powerful gods. Sacrificing a part of her powers and adamantly refusing defeat, she is now doing everything she can to regain her lost glory.* 
+* **Lore (5\*)**: *The pint-sized aquatic hybrid from beyond the abyss, overseer of the deepest depths beneath the ocean. Her small stature belies her tyrannical personality, a result of ages of being alone with nobody but her most loyal servants. After her inital, unsuccessful rampage, she quested for venegance in an entire realm completely unknown to her. Through her journey, she slowly began to see the surface world in a different light, although her childish dreams of conquest would not be shaken. Starting to behave more like a true ruler, her powers eventually returned, stronger than ever before.* 
+* **LS**: Jellypalooza - 50% boost to Atk & 5% boost to critical hit rate for Water types
+* **BB**: Artifical Arcadia - 15 combo powerful Water attack on all enemies and great boost to Atk of all Water type units
 
 <!--more-->
 ---
