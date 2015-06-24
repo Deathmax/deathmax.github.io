@@ -27,7 +27,9 @@ category: bravefrontier
 
 #Trial X3
 
-Awaiting patch.
+[Reddit Megathread](//www.reddit.com/r/bravefrontier/comments/3apmk8/trial_x3_xie_jiang_megathread/)
+
+[/u/Xerte's AI/Stats for X3](//www.reddit.com/r/bravefrontier/comments/3aq8ia/trial_x3_xiejing_stats_skill_data_ai/)
 
 ##Reward
 
