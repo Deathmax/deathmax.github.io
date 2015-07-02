@@ -142,6 +142,8 @@ Lots of description grammar fixes.
 
 #Supreme Paradise 9-13 (frogs/imps)
 
+![Outdated frog banner](//i.imgur.com/vGK0Vt0.png){: .img-responsive}
+
 * aka Heavenly Paradise. (we had these for new year's remember?)
 
 ---
