@@ -51,56 +51,66 @@ Anime Expo exclusive.
 Lots of description grammar fixes.
 
 ---
+
 #Celgrad
 
 * Mission text/descriptions added.
 * Mats/Spheres text added.
 
 ---
+
 #Lem
 
 * Mission text/descriptions added.
 * Mats/Spheres text added.
 
 ---
+
 #Frontier Gate
 
 * Mission text/descriptions added.
 * Sphere text/descriptions added.
 
 ---
+
 #SUPREME PARADISE 9-13 (frogs/imps)
 
 * aka Heavenly Paradise. (we had these for new year's remember?)
 
 ---
+
 #Lira GGC - Disastrous Beast
 
 * Skill text added.
 
 ---
+
 #RC5
 
 * Skill text added.
 * Monster names added.
 
 ---
+
 #Phantom of the Kill Collab
 
 * Potk enemy placeholder name.
 
 ---
+
 #Edea GQ (Mission 8/9)
 
 * Mission text/descriptions added.
 * Sphere text/descriptions added.
 
 ---
+
 #Trial 006 - Afla Dilith
 
 * Mission text/descriptions added.
 
 ---
+
 #Karl EX Trial
 
 * Sphere text/descriptions added.
