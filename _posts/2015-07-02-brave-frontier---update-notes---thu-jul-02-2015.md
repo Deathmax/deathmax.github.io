@@ -87,6 +87,11 @@ tags: []
 
 \+ all of Ishgria's fodder units
 
+![1](//i.imgur.com/qCQL8Cl.png){: .img-responsive style="display=inline"}
+![2](//i.imgur.com/40Krlve.png){: .img-responsive style="display=inline"}
+![3](//i.imgur.com/Ri4hFhr.png){: .img-responsive style="display=inline"}
+![4](//i.imgur.com/ZyMoHzA.png){: .img-responsive style="display=inline"}
+
 ^(*Gogage gagi, gige gegega ga! Gingen giguga gaggegi gagge... Gugu, gugogi gogugu gogi gegige ga.*)
 
 ---
@@ -110,12 +115,16 @@ Lots of description grammar fixes.
 
 #Celgrad
 
+![Celgrad image](//i.imgur.com/dPpysZ9.jpg){: .img-responsive}
+
 * Mission text/descriptions added.
 * Mats/Spheres text added.
 
 ---
 
 #Lem
+
+![Lem image](//i.imgur.com/eMtDM3s.jpg){: .img-responsive}
 
 * Mission text/descriptions added.
 * Mats/Spheres text added.
@@ -124,18 +133,22 @@ Lots of description grammar fixes.
 
 #Frontier Gate
 
+![FG banner](//i.imgur.com/lpnyQb9.png){: .img-responsive}
+
 * Mission text/descriptions added.
 * Sphere text/descriptions added.
 
 ---
 
-#SUPREME PARADISE 9-13 (frogs/imps)
+#Supreme Paradise 9-13 (frogs/imps)
 
 * aka Heavenly Paradise. (we had these for new year's remember?)
 
 ---
 
 #Lira GGC - Disastrous Beast
+
+![Lira Banner](//i.imgur.com/4Qporb0.png){: .img-responsive}
 
 * Skill text added.
 
@@ -155,6 +168,8 @@ Lots of description grammar fixes.
 ---
 
 #Edea GQ (Mission 8/9)
+
+![Four Heroes of Palmyna GQ Banner](//i.imgur.com/n6lZWfF.png){: .img-responsive}
 
 * Mission text/descriptions added.
 * Sphere text/descriptions added.
