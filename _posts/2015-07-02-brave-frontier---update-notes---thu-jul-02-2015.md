@@ -21,12 +21,12 @@ tags: []
 
 *One of the four legendary warriors who fought to save the Kingdom of Palmyna. After Edea sacrificed herself in order to save her friends, Loch refused to believe she was dead, striving instead to locate the rest of his comrades who had been scattered during the fight against Cardes. After finding Edea in the underworld, he began to give a eulogy in her honor when Cardes suddenly attacked. It was during this fight that Loch realized his bow had become stronger every time the bonds of friendship he shared with his comrades deepened. And once the person he loved most of all opened her eyes again, the force of his arrows is said to have surpassed that of the gods.*
 
-{. dark}
+{: .dark}
 #Beast God Afla Dilith
 
 [Bonus high-res 5000x4256 17MB illustration](https://deathsnacks.com/bf/assets/b27fb0fdebe57f615992130163ef3156.png)
 
-{. fire}
+{: .fire}
 #Raging Blade Owen
 
 \+ all of Ishgria's fodder units
