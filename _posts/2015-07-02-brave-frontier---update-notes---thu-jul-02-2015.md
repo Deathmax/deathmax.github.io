@@ -82,8 +82,8 @@ tags: []
 * **Stats (L)**: 6400 HP / 2300 ATK / 1900 DEF / 1850 REC
 * **Imps**: 750 HP / 300 ATK / 300 DEF / 300 REC
 * **LS**: +35% All Stats, +100% Crit Damage, 6-8 BC On Crit
-* **BB**: Cost: 22BC/18DC | 18 Hit 260% AoE (ATK+100), 3 turn +45% Crit, 60% Injury/Weaken
-* **SBB**: Cost: 24BC/25DC | 25 Hit 450% AoE (ATK+100), 3 turn 70% DEF->ATK buff
+* **BB**: Cost: 22BC/18DC - 18 Hit 260% AoE (ATK+100), 3 turn +45% Crit, 60% Injury/Weaken
+* **SBB**: Cost: 24BC/25DC - 25 Hit 450% AoE (ATK+100), 3 turn 70% DEF->ATK buff
 
 \+ all of Ishgria's fodder units
 
@@ -92,7 +92,7 @@ tags: []
 ![3](//i.imgur.com/Ri4hFhr.png){: .img-responsive style="display=inline"}
 ![4](//i.imgur.com/ZyMoHzA.png){: .img-responsive style="display=inline"}
 
-^(*Gogage gagi, gige gegega ga! Gingen giguga gaggegi gagge... Gugu, gugogi gogugu gogi gegige ga.*)
+*Gogage gagi, gige gegega ga! Gingen giguga gaggegi gagge... Gugu, gugogi gogugu gogi gegige ga.*
 
 ---
 
