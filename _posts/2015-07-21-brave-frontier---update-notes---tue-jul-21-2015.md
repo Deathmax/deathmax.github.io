@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brave Frontier - Update Notes - Tue Jul 21 2015 | 1.3.4 Client Update | Ultor/Tridon 7* | Raid X2 Units
+title: Brave Frontier - Update Notes - Tue Jul 21 2015 | 1.3.4 Client Update | Ultor/Tridon 7* | New Exclusive Units
 categories: [bravefrontier]
 tags: []
 
@@ -8,9 +8,9 @@ tags: []
 
 #Waiting for patch for more details.
 
-#Raid X2 Unit RS
+#Exlusive Unit RS
 
-![X2 RS Gate Image](//i.imgur.com/uA1HX8O.png){: .img-responsive}
+![RS Gate Image](//i.imgur.com/uA1HX8O.png){: .img-responsive}
 
 #1.3.4 Client New Features
 
@@ -25,13 +25,13 @@ tags: []
 #Ultor 7*
 
 {: .thunder}
-#Raid X2 - Thunder Unit (Hammer)
+#Deimos Thunderborn
 
-![Hammer 6*](//i.imgur.com/8i1YuQV.png){: .img-responsive}
-![Hammer 7*](//i.imgur.com/wfYDwi9.png){: .img-responsive}
+![Deimos 6*](//i.imgur.com/8i1YuQV.png){: .img-responsive}
+![Deimos 7*](//i.imgur.com/wfYDwi9.png){: .img-responsive}
 
 {: .dark}
-#Raid X2 - Dark Unit (Blades)
+#Obsidian Seraph Zenia
 
-![Blade 6*](//i.imgur.com/tQKnGAN.png){: .img-responsive}
-![Blade 7*](//i.imgur.com/p9sZdP7.png){: .img-responsive}
+![Zenia 6*](//i.imgur.com/tQKnGAN.png){: .img-responsive}
+![Zenia 7*](//i.imgur.com/p9sZdP7.png){: .img-responsive}
