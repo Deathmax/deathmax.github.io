@@ -8,7 +8,7 @@ tags: []
 
 #Waiting for patch/maintanence for more details.
 
-#Exlusive Unit RS
+#Exclusive Unit RS
 
 ![RS Gate Image](//i.imgur.com/uA1HX8O.png){: .img-responsive}
 
