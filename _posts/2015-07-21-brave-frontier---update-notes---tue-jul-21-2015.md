@@ -32,7 +32,7 @@ tags: []
 * **ES**: <none atm>
 * **BB**: Cost: 33BC/16DC - 16 Hit 280% AoE (ATK+100), 2 turn Earth Shield (2500 HP 3000 DEF), Heal 2000-2300 HP (+10% Target REC) for 3 turns
 * **SBB**: Cost: 26BC/18DC - 18 Hit 500% AoE (ATK+100), 2 turn Earth Shield (3000 HP 3000 DEF), 3 turn +140% DEF, 2 turn +20% BC/HC Drop Rate
-* **UBB**: Cost: 25BC/18DC - 3 Hit 1000% AoE (ATK+100), 2 turn Earth Shield (20000 HP 3500 DEF), 3 turn +300% ATK/DEF/REC/Crit (Self)
+* **UBB**: Cost: 25BC/18DC - 3 Hit 1000% AoE (ATK+100), 2 turn Shield (20000 HP 3500 DEF), 3 turn +300% ATK/DEF/REC/Crit (Self)
 
 * Due to timing issues, none of the BB buffs apply on attack.
 
