@@ -45,8 +45,6 @@ tags: []
 * **Evo Mat (5 to 6)**: Miracle Totem, Thunder Totem, Thunder Bulb, Thunder Pot, Dragon Mimic
 * **Evo Mat (6 to 7)**: Thunder Mecha God, Miracle Totem, Thunder Totem, Thunder Bulb, Metal Mimic
 
-* **Forgebreaker**: BB gauge refills slightly faster, slightly reduces the consumption of BB gauge & chance of inflicting Poison, Weakness, Injury, Paralysis
-
 * 7\* Lore: *Like Zedus, the leader of the demigods, Deimos had a strong affinity to the element of Thunder. Deimos's massive figure towered over the battlefield, and his very presence alone bolstered the morale of Zedus's men. He also favored fighting deep within enemy ranks alone, where he could unleash his full strength with minimal collateral damage. Every blow from Forgebreaker onto the ground sounded like the clap of thunder, shattering the earth beneath his feet. In time, Deimos's legendary feats on the battlefield made him a high priority target. His very presence was a big enough threat that it drew the attention of enemy forces away from his allies and onto him. When word of Gazia's attempt to create a gate to escape the void reached his ears, he lead a small strike team toward the site. What became of him thereafter remains unknown.*
 
 {: .dark}
