@@ -108,10 +108,15 @@ tags: []
 
 ##Translated Names (7*)
 
-
 * *Inferno Rifle Bestie*{: .fire style="font-style: normal"}
 * *Lance Champion Vernil*{: .water style="font-style: normal"}
 * *Feral Katana Toutetsu*{: .earth style="font-style: normal"}
 * *Dragon Scroll Kagura*{: .thunder style="font-style: normal"}
 * *Turbo Wings Nemethgear*{: .light style="font-style: normal"}
 * *Hellion Armor Wraith*{: .dark style="font-style: normal"}
+
+---
+
+#Old Unit Revamp (After Maintanence)
+
+A long overdue update (JP has had this since 17th November 2014). Details can be found on this old [Reddit thread](https://www.reddit.com/r/bravefrontier/comments/2m50am/update_notes_jp_13_november_2014/).
