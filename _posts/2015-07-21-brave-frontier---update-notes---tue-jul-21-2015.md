@@ -18,13 +18,39 @@ tags: []
 * Multiple slots per try.
 * Frontier Gate.
 
+#Tridon/Ultor stats are pre-release and may change before release.
+
 {: .water}
 #Tridon 7*
 ![Tridon 7*](//i.imgur.com/jozsHgx.png){: .img-responsive}
 
+* **Hits/DC**: 12/2 (140% Dmg)
+* **Cost**: 40
+* **Stats (L)**: 6945 HP / 2280 ATK / 2465 DEF / 2310 REC 
+* **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
+* **LS**: 10% Dmg Mit, +50% HP/REC & +20% Crit
+* **ES**: <none atm>
+* **BB**: Cost: 33BC/16DC - 16 Hit 280% AoE (ATK+100), 2 turn Earth Shield (2500 HP 3000 DEF), Heal 2000-2300 HP (+10% Target REC) for 3 turns
+* **SBB**: Cost: 26BC/18DC - 18 Hit 500% AoE (ATK+100), 2 turn Earth Shield (3000 HP 3000 DEF), 3 turn +140% DEF, 2 turn +20% BC/HC Drop Rate
+* **UBB**: Cost: 25BC/18DC - 3 Hit 1000% AoE (ATK+100), 2 turn Earth Shield (20000 HP 3500 DEF), 3 turn +300% ATK/DEF/REC/Crit (Self)
+
+* Due to timing issues, none of the BB buffs apply on attack.
+
 {: .fire}
 #Ultor 7*
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
+
+* **Hits/DC**: 11/2 
+* **Cost**: 40
+* **Stats (L)**: 6630 HP / 3025 ATK / 2255 DEF / 1880 REC 
+* **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
+* **LS**: +80% ATK, +50% DEF, +20% Crit, +100% All Weakness Damage 
+* **ES**: +30% All Stats
+* **BB**: Cost: 26BC/16DC - 16 Hit 600% ST (ATK+100), 1 Turn Taunt Buff (+250% DEF), 1 turn DoT Debuff (500% + 100 Flat Atk)
+* **SBB**: Cost: 27BC/20DC - 20 Hit 600% AoE (ATK+100), 1 Turn Taunt Buff (+250% DEF), 1 turn +200% ATK
+* **UBB**: Cost: 28BC/18DC - 3 Hit 1200% AoE (ATK+100), 3 turn +300% Crit, 3 turn +300% ATK/DEF/REC/Crit (Self), Reduce Damage 50% for 3 turn
+
+* Due to timing issues, none of the BB buffs apply on attack.
 
 {: .thunder}
 #Deimos Thunderborn
