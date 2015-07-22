@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brave Frontier - Update Notes - Tue Jul 21 2015 | 1.3.4 Client Update | Ultor/Tridon 7* | New Exclusive Units
+title: Brave Frontier - Update Notes - Tue Jul 21 2015 | 1.3.4 Client Update | Ultor/Tridon 7* | New Exclusive Units (Raid X2) | Bestie Batch
 categories: [bravefrontier]
 tags: []
 
@@ -17,6 +17,8 @@ tags: []
 * Ability to set dedicated arena squads.
 * Multiple slots per try.
 * Frontier Gate.
+
+---
 
 #Tridon/Ultor stats are pre-release and may change before release.
 
@@ -51,6 +53,8 @@ tags: []
 * **UBB**: Cost: 28BC/18DC - 3 Hit 1200% AoE (ATK+100), 3 turn +300% Crit, 3 turn +300% ATK/DEF/REC/Crit (Self), Reduce Damage 50% for 3 turn
 
 * Due to timing issues, none of the BB buffs apply on attack.
+
+---
 
 {: .thunder}
 #Deimos Thunderborn
@@ -97,3 +101,17 @@ tags: []
 * **Obsidian Core Amplifier**: *A small jet black sphere no bigger than the fist of young child retrieved from the site of the void rift. The occasional flash of purple light from the sphere reveals a highly intricate network of lines carved underneath its smooth surface. Gazia created this power amplifier to boost Zenia's abilities exponentially. It was specifically designed to forcefully "awaken" Zenia's potential at manipulating the gates across worlds. With the power amplifier activated, it grants it's bearer unmatched physical capabilities, at the risk of damaging one's own body permernantly.*
 
 * 7\* Lore: *A cyborg designed for assassination created by the mad demigod Gazia. After untold centuries of research and modifications, Gazia finally found a way to put Zenia under his control. He had a massive facility especially constructed to seal Zenia within, but that was only the facility's secondary purpose. It's main purpose was actually to serve as an energy conduit that could channel the energies of the void into Zenia, amplifying her powers exponentially. With the Conduit funneling an immense amount of energy into her, Zenia tore open a rift in the Void. But in the process, the artificial intelligence system that had overridden Zenia's control over her own body malfunctioned under the immense energy load. Zenia then unleashed an attack so powerful that it broke the land into several pieces before using the last of her strength to shift the Conduit out of the Void, and beyond the reach of Gazia and his mechanical army.*
+
+---
+
+#Bestie Batch
+
+##Translated Names (7*)
+
+
+* *Inferno Rifle Bestie*{: .fire style="font-style: normal"}
+* *Lance Champion Vernil*{: .water style="font-style: normal"}
+* *Feral Katana Toutetsu*{: .earth style="font-style: normal"}
+* *Dragon Scroll Kagura*{: .thunder style="font-style: normal"}
+* *Turbo Wings Nemethgear*{: .light style="font-style: normal"}
+* *Hellion Armor Wraith*{: .dark style="font-style: normal"}
