@@ -11,7 +11,7 @@ tags: []
 #Units
 
 {: .fire}
-##Ultor 7*
+##Herculean Ultor
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
 
 * **Hits/DC**: 11/2 
@@ -26,8 +26,10 @@ tags: []
 
 * Due to timing issues, none of the BB buffs apply on attack.
 
+* **7\* Lore**: *Even after the old Gods forsook the demigods, war raged on across the ruins of Athensphere within the Void. When it seemed as if all hope was lost, something stirred Ultor's soul. With every passing moment, his rage and thirst for battle grew stronger. During a raid on one of Gazia's secret hideouts, they were ambushed by a massive mechanical titan. A fierce battle ensued, resulting in the decimation of nearly the entire squad. The sight of his fallen men sent Ultor into a blinding rage. At that moment, it was as if Ultor were the manifestation of wrath itself. The soul of a flaming Titan could be seen towering behind Ultor, tearing apart Gazia's mechanical monstrosity. All that was left in the aftermath was a mountain of scrap metal with a red figure ablaze standing atop it. On that day, a Titan was born.*	
+
 {: .water}
-##Tridon 7*
+##Neptunian Tridon
 ![Tridon 7*](//i.imgur.com/jozsHgx.png){: .img-responsive}
 
 * **Hits/DC**: 12/2
@@ -41,6 +43,8 @@ tags: []
 * **UBB**: Cost: 30BC/108DC - 18 Hit 1000% AoE (ATK+100), 2 turn Shield (20000 HP 3500 DEF), 3 turn +50% BB Fill Rate, 30% chance for -80% ATK or DEF
 
 * Due to timing issues, none of the BB buffs apply on attack.
+
+* **7\* Lore**: *When the demigods of Athensphere proved to be beyond control, the old Gods cast the entire civilization into the Void, flinging their world into chaos. Cut off from all reinforcements, Gazia deployed a massive mechanical Leviathan to hunt Tridon down while he was vulnerable. The weakened Tridon was swallowed into the belly of the beast, where he became its prisoner and his powers were sealed. Tridon refused to surrender and give up hope, so he bid his time and slowly drained power off the Leviathan. After countless days passed siphoning power from the beast, Tridon unleashed all of the power he had accumulated. From within the Leviathan sprouted a three-headed Hydra made of pure energy. Using his newfound power, Tridon reduced the Leviathan into a mangled heap. Realizing his potential, a spark ignited within Tridon's soul. He realized that he could end the war...and perhaps lead Athensphere into a new age of glory.*	
 
 ##Others
 
@@ -160,7 +164,7 @@ tags: []
 	* **Golvorg** (Shock Pelt, Shock Claw, Shock Heart, Thunder Eye) & **Grudkia** (Fiend Claw, Fiend Pelt, Fire Eye, Gold Drop, Sprint Stone, Water Eye, Gospel Stone, Earth Eye, Holy Light, Fiend Jewel) & **Balmedia** (Ruling Fang, Fire Eye, Hard Bone, Shock Mane, God Stone, Thunder Eye, Blaze Pearl, Mimic Bug)
 * Exodus - *Mission orders from Deimos: Close the rift. This is it. We need to take out the Rift Conflux that’s keeping the rift open. We can’t let Gazia and his army reach El Gaia. The Centurion, my old lost comrade, stands in our way and will not be persuaded otherwise. It is time we met for the very last time.*
 	* Min 7 medals.
-	* **Centurion** (Frozen Pelt, Tragedy Drop, 880102[broken sphere], Solid Flame, Cataract Ore, Fire Eye, Holy Light)
+	* **Centurion** (Frozen Pelt, Tragedy Drop, Void Chunk, Solid Flame, Cataract Ore, Fire Eye, Holy Light)
 * Who Let the Bulbs Out? (unlocked by Exodus) - *Mission orders from Athensphere Physician: Bulb Hunting. With the war raging on, the local wild bulbs have not been kept in check and have been multiplying like crazy! They eat what little crops we have left and causing a huge nuisance! The good thing is they are a remedy for many illnesses and a plethora of other uses so hunting them will kill two harpies with one stone!*
 	* Min 5 medals.
 	* **Miracle Bulbs**
@@ -170,7 +174,7 @@ tags: []
 
 ###Spheres
 
-* Forgebreaker - 100000 Karma, 1x 880100 [X2 Clear Reward], 1x 880102 [Dropped from RC4 X2 Exodus]
-* Obsidian Core Amplifier - 100000 Karma, 1x 880101 [X2 Clear Reward], 1x 880102 [Dropped from RC4 X2 Exodus]
+* Forgebreaker - 100000 Karma, 1x Plasma Fragment [X2 Clear Reward], 1x Void Chunk [Dropped from RC4 X2 Exodus]
+* Obsidian Core Amplifier - 100000 Karma, 1x Obsidian Quartz [X2 Clear Reward], 1x Void Chunk [Dropped from RC4 X2 Exodus]
 
 ---
