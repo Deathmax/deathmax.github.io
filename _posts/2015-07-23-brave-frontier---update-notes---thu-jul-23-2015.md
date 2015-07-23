@@ -63,7 +63,6 @@ tags: []
 * Atk/Def Potion - Synced with JP. Increased to 3 turns, max carrying increased to 10.
 * Atk/Def Crystal - Synced with JP. Max carrying increased to 4.
 * Atk/Def Elixir - Synced with JP. Buff turns reduced to 3.
-* Atk/Def
 * Addition of the following spheres: 
 	* Sky Blade
 	* Sky Buckler
