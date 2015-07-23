@@ -46,6 +46,7 @@ tags: []
 
 * Old unit revamp (7 months late). Details can be found on this old [Reddit thread](https://www.reddit.com/r/bravefrontier/comments/2m50am/update_notes_jp_13_november_2014/).
 * Bestie's batch has been added.
+* Edea 7* Batch evolutions enabled. Evo Mats: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Legend Stone
 
 ---
 
