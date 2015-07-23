@@ -11,7 +11,7 @@ tags: []
 #Units
 
 {: .fire}
-#Ultor 7*
+##Ultor 7*
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
 
 * **Hits/DC**: 11/2 
@@ -27,7 +27,7 @@ tags: []
 * Due to timing issues, none of the BB buffs apply on attack.
 
 {: .water}
-#Tridon 7*
+##Tridon 7*
 ![Tridon 7*](//i.imgur.com/jozsHgx.png){: .img-responsive}
 
 * **Hits/DC**: 12/2
@@ -42,7 +42,7 @@ tags: []
 
 * Due to timing issues, none of the BB buffs apply on attack.
 
-#Others
+##Others
 
 * Old unit revamp (7 months late). Details can be found on this old [Reddit thread](https://www.reddit.com/r/bravefrontier/comments/2m50am/update_notes_jp_13_november_2014/).
 * Bestie's batch has been added.
