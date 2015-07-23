@@ -100,24 +100,24 @@ tags: []
 
 ##Characters
 
-![Centurion](//i.imgur.com/7ZTcelX.png)
-![Phaeton](//i.imgur.com/Z3psycp.png)
+![Centurion](//i.imgur.com/7ZTcelX.png){: .img-responsive}
+![Phaeton](//i.imgur.com/Z3psycp.png){: .img-responsive}
 
 ##Backgrounds
 
-![BG #1](//i.imgur.com/i2MeJV4.jpg)
-![BG #2](//i.imgur.com/2q9745B.jpg)
+![BG #1](//i.imgur.com/i2MeJV4.jpg){: .img-responsive}
+![BG #2](//i.imgur.com/2q9745B.jpg){: .img-responsive}
 
 ##Maps
 
-![Map #1](//i.imgur.com/XB5XMZu.jpg)
-![Map #2](//i.imgur.com/Ispxg2w.jpg)
-![Map #3](//i.imgur.com/pNXILol.jpg)
-![Map #4](//i.imgur.com/R9ircM3.jpg)
-![Map #5](//i.imgur.com/HMZDtM2.jpg)
-![Map #6](//i.imgur.com/iI3VQjw.jpg)
-![Map #7](//i.imgur.com/chg3ShP.jpg)
-![Map #8](//i.imgur.com/Rft55M5.jpg)
+![Map #1](//i.imgur.com/XB5XMZu.jpg){: .img-responsive}
+![Map #2](//i.imgur.com/Ispxg2w.jpg){: .img-responsive}
+![Map #3](//i.imgur.com/pNXILol.jpg){: .img-responsive}
+![Map #4](//i.imgur.com/R9ircM3.jpg){: .img-responsive}
+![Map #5](//i.imgur.com/HMZDtM2.jpg){: .img-responsive}
+![Map #6](//i.imgur.com/iI3VQjw.jpg){: .img-responsive}
+![Map #7](//i.imgur.com/chg3ShP.jpg){: .img-responsive}
+![Map #8](//i.imgur.com/Rft55M5.jpg){: .img-responsive}
 
 ##Missions
 
