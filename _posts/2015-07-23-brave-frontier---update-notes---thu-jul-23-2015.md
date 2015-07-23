@@ -100,8 +100,8 @@ tags: []
 
 ##Characters
 
-![Char #1](//i.imgur.com/7ZTcelX.png)
-![Char #2](//i.imgur.com/Z3psycp.png)
+![Centurion](//i.imgur.com/7ZTcelX.png)
+![Phaeton](//i.imgur.com/Z3psycp.png)
 
 ##Backgrounds
 
