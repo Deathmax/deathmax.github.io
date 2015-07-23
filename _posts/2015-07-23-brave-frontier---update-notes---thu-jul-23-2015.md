@@ -167,4 +167,9 @@ tags: []
 	* Min 5 medals.
 	* **Centurion** (Frozen Pelt, Tragedy Drop, Holy Light, Solid Flame, Cataract Ore, Fire Eye) and **Mistzug** (Daze Claw, Lost Claw, Thunder Eye, Holy Light, Gold Drop, Forge Stone, Angel Tear, Ghost Jewel, Phantom Eye, Grief Eye)
 
+###Spheres
+
+* Forgebreaker - 100000 Karma, 1x 880100 [X2 Clear Reward], 1x 880102 [Dropped from RC4 X2 Exodus]
+* Obsidian Core Amplifier - 100000 Karma, 1x 880101 [X2 Clear Reward], 1x 880102 [Dropped from RC4 X2 Exodus]
+
 ---
