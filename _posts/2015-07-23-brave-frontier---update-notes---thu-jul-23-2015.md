@@ -19,7 +19,7 @@ tags: []
 * **Stats (L)**: 6630 HP / 3025 ATK / 2255 DEF / 1880 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +80% ATK, +50% DEF, +20% Crit, +100% All Weakness Damage 
-* **ES**: +40% ATK/DEF, Angel Idol Buff when HP below 20%. Recover 100% HP when revived. <currently inactive>
+* **ES**: +40% ATK/DEF, Angel Idol Buff when HP below 20%. Recover 100% HP when revived. (currently inactive)
 * **BB**: Cost: 26BC/32DC - 16 Hit 600% ST (ATK+100), 1 Turn Taunt Buff (+250% DEF), 1 turn DoT Debuff (500% + 100 Flat Atk)
 * **SBB**: Cost: 28BC/20DC - 20 Hit 600% AoE (ATK+100), 1 Turn Taunt Buff (+200% ATK, +250% DEF), 1 turn +200% ATK, 3 turn +50% Crit
 * **UBB**: Cost: 28BC/18DC - 3 Hit 1200% AoE (ATK+100), 3 turn +300% Crit, 3 turn +300% ATK/DEF/REC/Crit (Self), Reduce Damage 75% for 1 turn
@@ -35,7 +35,7 @@ tags: []
 * **Stats (L)**: 6945 HP / 2280 ATK / 2465 DEF / 2310 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: 10% Dmg Mit, +50% HP/REC & +20% Crit
-* **ES**: +30% HP/REC, Fill 3 BC/turn <currently inactive>
+* **ES**: +30% HP/REC, Fill 3 BC/turn (currently inactive)
 * **BB**: Cost: 33BC/16DC - 16 Hit 280% AoE (ATK+100), 2 turn Earth Shield (2500 HP 3000 DEF), Heal 2000-2300 HP (+10% Target REC) for 3 turns
 * **SBB**: Cost: 26BC/18DC - 18 Hit 500% AoE (ATK+100), 2 turn Earth Shield (3000 HP 3000 DEF), 3 turn +140% DEF, 2 turn +30% BC/HC Drop Rate
 * **UBB**: Cost: 30BC/108DC - 18 Hit 1000% AoE (ATK+100), 2 turn Shield (20000 HP 3500 DEF), 3 turn +50% BB Fill Rate, 30% chance for -80% ATK or DEF
