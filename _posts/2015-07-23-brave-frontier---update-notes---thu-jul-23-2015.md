@@ -41,8 +41,8 @@ tags: []
 * **LS**: 10% Dmg Mit, +50% HP/REC & +20% Crit
 * **ES**: +30% HP/REC, Fill 3 BC/turn (currently inactive)
 * **BB**: Cost: 33BC/16DC - 16 Hit 280% AoE (ATK+100), 2 turn Earth Shield (2500 HP 3000 DEF), Heal 2000-2300 HP (+10% Target REC) for 3 turns
-* **SBB**: Cost: 26BC/18DC - 18 Hit 500% AoE (ATK+100), 2 turn Earth Shield (3000 HP 3000 DEF), 3 turn +140% DEF, 2 turn +30% BC/HC Drop Rate
-* **UBB**: Cost: 30BC/108DC - 18 Hit 1000% AoE (ATK+100), 2 turn Shield (20000 HP 3500 DEF), 3 turn +50% BB Fill Rate, 30% chance for -80% ATK or DEF
+* **SBB**: Cost: 26BC/20DC - 20 Hit 500% AoE (ATK+100), 2 turn Earth Shield (3000 HP 3000 DEF), 3 turn +140% DEF, 2 turn +30% BC/HC Drop Rate
+* **UBB**: Cost: 30BC/150DC - 25 Hit 1000% AoE (ATK+100), 2 turn Shield (20000 HP 3500 DEF), 3 turn +50% BB Fill Rate, 30% chance for -80% ATK or DEF
 
 * Due to timing issues, none of the BB buffs apply on attack.
 
