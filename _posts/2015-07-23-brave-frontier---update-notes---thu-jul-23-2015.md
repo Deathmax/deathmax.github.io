@@ -10,6 +10,8 @@ tags: []
 
 #Units
 
+* Tridon/Ultor Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Elemental Bulb
+
 {: .fire}
 ##Herculean Ultor
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
