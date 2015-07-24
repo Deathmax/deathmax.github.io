@@ -6,8 +6,6 @@ tags: []
 
 ---
 
-#Details are not final.
-
 #Units
 
 * Tridon/Ultor Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Elemental Bulb
