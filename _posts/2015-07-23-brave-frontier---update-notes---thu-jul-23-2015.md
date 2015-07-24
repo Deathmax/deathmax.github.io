@@ -125,6 +125,11 @@ BC Cost: 30 // Max BC Gen: 25
 * Addition of the following consumables:
 	* Sacred Light
 	* Nullifier
+* Addition of the following mats:
+	* Void Chunk ![Chunk](//i.imgur.com/ZyCUx5o.png){: .img-responsive}
+	* Obsidian Quartz ![Quartz](//i.imgur.com/ncRr9iT.png){: .img-responsive}
+	* Plasma Fragment ![Fragment](//i.imgur.com/pJ1POwO.png){: .img-responsive}
+	* SBS ES Sphere Mats: ![Fire Mat](//i.imgur.com/lvtW1PK.png){: .img-responsive} ![Water Mat](//i.imgur.com/l6QaZIe.png){: .img-responsive} ![Earth Mat](//i.imgur.com/JRkZ4w4.png){: .img-responsive} ![Thunder Mat](//i.imgur.com/bo5X5xn.png){: .img-responsive} ![Light Mat](//i.imgur.com/gCOU2kK.png){: .img-responsive} ![Dark Mat](//i.imgur.com/JoTMKPM.png){: .img-responsive}
 
 <!--more-->
 
