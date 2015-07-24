@@ -78,6 +78,8 @@ BC Cost: 30 // Max BC Gen: 25
 * Bestie's batch has been added.
 * Edea 7* Batch evolutions enabled. Evo Mats: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Legend Stone
 * Zenia's BB: Max BC gen increased from 20 to 40.
+* Zenia/Deimos: All the ES effects now require their sphere.
+* Many Global Exclusives have had their BB timings fixed.
 
 ---
 
