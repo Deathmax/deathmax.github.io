@@ -6,6 +6,8 @@ tags: []
 
 ---
 
+Official update notes can be found over at the [forums](http://forums.gumi.sg/forum/news-boards/server-status/234853-server-maintenance-august-13-03-00-pst).
+
 #Water Vortex Arena
 
 ![Banner Image](//i.imgur.com/E1xstmv.png){: .img-responsive}
@@ -31,6 +33,18 @@ tags: []
 
 ---
 
+#RS Rate Ups
+
+##13th Aug - Oulu/Will/Altri (Prepare for 7*)
+
+![Oulu Batch Rate Up Gate Image](//i.imgur.com/49Z8CYM.png){: .img-responsive}
+
+##Sometime in August - 100% Water
+
+![100% Water Gate Image](//i.imgur.com/DvYnmpd.png){: .img-responsive}
+
+---
+
 #Level Up Campaign (100 - 150)
 
 {: .table}
@@ -48,9 +62,5 @@ tags: []
 |140|3 Gems|
 |145|4 Cresent Dews|
 |150|Malice Jewel|
-
----
-
-#Raid RC5
 
 ---
