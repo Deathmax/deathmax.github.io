@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave Frontier - Update Notes - Thu Aug 13 2015
-categories: []
+categories: [bravefrontier]
 tags: []
 
 ---
