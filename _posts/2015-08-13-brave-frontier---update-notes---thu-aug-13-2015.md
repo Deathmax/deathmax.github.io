@@ -24,6 +24,30 @@ tags: []
 * **LS**: Jellypalooza - 50% boost to Atk & 5% boost to critical hit rate for Water types
 * **BB**: Artifical Arcadia - 15 combo powerful Water attack on all enemies and great boost to Atk of all Water type units
 
+##Spheres
+
+* Water Blade - Boosts max HP and Def by 5% & boosts Atk for Water types by 20%
+* Tidal Blade - Boosts max HP and Def by 10% & boosts Atk for Water types by 35%
+
+---
+
+#Level Up Campaign (100 - 150)
+
+|Level|Reward|
+|-|-|
+|104|2 Burst Emperors|
+|108|2 Arton Imps|
+|112|3 Cresent Dews|
+|116|Demon Crown|
+|120|2 Gems|
+|124|3 Burst Emporers|
+|128|3 Arton Imps|
+|132|3 Cresent Dews|
+|136|2 Sphere Frogs|
+|140|3 Gems|
+|145|4 Cresent Dews|
+|150|Malice Jewel|
+
 ---
 
 #Raid RC5
