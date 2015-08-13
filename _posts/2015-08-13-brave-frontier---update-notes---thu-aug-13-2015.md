@@ -33,6 +33,7 @@ tags: []
 
 #Level Up Campaign (100 - 150)
 
+{: .table}
 |Level|Reward|
 |-|-|
 |104|2 Burst Emperors|
