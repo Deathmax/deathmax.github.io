@@ -77,3 +77,6 @@ Unlisted Changes
 
 * Wulgee map images added.
 * Special Challenges images added.
+* Karma Lv. 4 data added.
+* Beiorg strings added.
+* Elgift ES UP image added.
