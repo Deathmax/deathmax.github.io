@@ -46,6 +46,10 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 * User Interface Improvement
 * Bugfixes
 
+Unlisted Changes
+
+* Send all preferred gifts button added.
+
 ---
 
 #Translated Unit Names
