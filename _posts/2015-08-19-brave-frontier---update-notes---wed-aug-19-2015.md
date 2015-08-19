@@ -50,26 +50,15 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 
 #Translated Unit Names
 
-{: .light}
-* Oracle Knight Ark
-{: .dark}
-* Ominous Lantern Lumie
-{: .dark}
-* Vengeance Flail Sylvia
-{: .fire}
-* Wildfire Lotus Michele
-{: .thunder}
-* Immortal Beast Sargavel
-{: .light}
-* Invictus Xeno Melchio
-{: .fire}
-* Indomitable Flare Griff
-{: .water}
-* Indigo Soul Iris
-* Emerald Radiance Libera
-{: .thunder}
-* Roaring Staff Rhoa
-{: .light}
-* Virtuous Champion Krantz
-{: .dark}
-* Sinister Basilisk Kafka
+* *Oracle Knight Ark*{: .light}
+* *Ominous Lantern Lumie*{: .dark}
+* *Vengeance Flail Sylvia*{: .dark}
+* *Wildfire Lotus Michele*{: .fire}
+* *Immortal Beast Sargavel*{: .thunder}
+* *Invictus Xeno Melchio*{: .light}
+* *Indomitable Flare Griff*{: .fire}
+* *Indigo Soul Iris*{: .water}
+* *Emerald Radiance Libera*{: .earth}
+* *Roaring Staff Rhoa*{: .thunder}
+* *Virtuous Champion Krantz*{: .light}
+* *Sinister Basilisk Kafka*{: .dark}
