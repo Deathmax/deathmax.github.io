@@ -46,10 +46,6 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 * User Interface Improvement
 * Bugfixes
 
-Unlisted changes
-
-* 
-
 ---
 
 #Translated Unit Names
@@ -76,3 +72,4 @@ Unlisted changes
 ![Emperor](//i.imgur.com/M8Aqjtz.png){: .img-responsive style="display:inline"} ![Golden God](//i.imgur.com/ToWWkS7.png){: .img-responsive style="display:inline"} ![Arton](//i.imgur.com/DDhztEl.png){: .img-responsive style="display:inline"}
 
 * Wulgee map images added.
+* Special Challenges images added.
