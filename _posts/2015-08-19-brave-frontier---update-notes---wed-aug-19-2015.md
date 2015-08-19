@@ -62,3 +62,11 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 * *Roaring Staff Rhoa*{: .thunder}
 * *Virtuous Champion Krantz*{: .light}
 * *Sinister Basilisk Kafka*{: .dark}
+
+---
+
+#Other Stuff
+
+* Arton/Emperor/Golden God slot images added.
+
+![Emperor](//i.imgur.com/M8Aqjtz.png){: .img-responsive style="display:inline"} ![Golden God](//i.imgur.com/ToWWkS7.png){: .img-responsive style="display:inline"} ![Arton](//i.imgur.com/DDhztEl.png){: .img-responsive style="display:inline"}
