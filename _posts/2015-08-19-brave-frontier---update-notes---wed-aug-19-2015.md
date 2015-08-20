@@ -50,6 +50,7 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 
 * Send all preferred gifts button added.
 * +10 squad cost.
+* Removal of warnings when fusing fusion fodder and when selling zel fodder.
 
 ---
 
@@ -72,7 +73,7 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 
 #Other Stuff
 
-* Arton/Emperor/Golden God slot images added.
+* Arton/Emperor/Golden God slot images added. They've been added to both slots and SHS.
 
 ![Emperor](//i.imgur.com/M8Aqjtz.png){: .img-responsive style="display:inline"} ![Golden God](//i.imgur.com/ToWWkS7.png){: .img-responsive style="display:inline"} ![Arton](//i.imgur.com/DDhztEl.png){: .img-responsive style="display:inline"}
 
