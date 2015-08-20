@@ -82,3 +82,6 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 * Karma Lv. 4 data added.
 * Beiorg strings added.
 * Elgift ES UP image added.
+* Addition of various spheres/raid items to AS store.
+* Unit rebalancing, now matching JP.
+* Item type changes, now matching JP?
