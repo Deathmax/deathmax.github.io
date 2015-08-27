@@ -101,6 +101,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 ![Portrait #6](https://i.imgur.com/XFG6nHJ.png){: .img-responsive}
 
 ![Thumbnail #1](https://i.imgur.com/UtuVx2H.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/UWx5qXu.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/4UnLZdO.png){: .img-responsive style="display:inline"} ![Thumbnail #4](https://i.imgur.com/6gOrwbl.png){: .img-responsive style="display:inline"} ![Thumbnail #5](https://i.imgur.com/tRwaCr0.png){: .img-responsive style="display:inline"} ![Thumbnail #6](https://i.imgur.com/AQb8Iwc.png){: .img-responsive style="display:inline"} 
+
 ###Zedus
 
 ![Portrait #1](https://i.imgur.com/gGLrRfd.png){: .img-responsive}
