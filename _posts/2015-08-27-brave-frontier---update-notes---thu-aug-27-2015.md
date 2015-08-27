@@ -27,7 +27,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **ES**: 50% Chance 2-3 BC When Attacked [Equip ?], +40% ATK/REC [Equip ?]
 * **BB**: Cost: 21BC - Heal 2700-3100 HP (+10% Target REC) for 3 turns, Cure Status/Debuffs, Invalidate Status Ailments for 3 turns, 3 turn DoT Debuff (200% + 100 Flat Atk)
 * **SBB**: Cost: 26BC/16DC - 16 Hit 500% AoE (ATK+100), Heal 4000-4500 HP (+ 22.5% Healer REC), 3 turn 80% REC->DEF buff, 3 turn 4BC/turn
-* **UBB**: Cost: 20BC/21DC - 21 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 140 turn Revive buff on All Allies (50% Chance to Revive with 100% HP)
+* **UBB**: Cost: 20BC/21DC - 21 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 140 turn Angel Idol buff on All Allies (50% Chance to Apply Buff, Revive with 100% HP)
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 6
 
 {: .dark}
