@@ -25,7 +25,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: Invalidate Status Ailments, +40% DEF/REC, +25% BC/HC Drop Rate
 * **ES**: 50% Chance 2-3 BC When Attacked [Equip ?], +40% ATK/REC [Equip ?]
-* **BB**: Cost: 21BC - Heal 2700-3100 HP (+10% Target REC) for 3 turns, Cure Status/Debuffs, Invalidate Status Ailments for 3 turns, 3 turn DoT Debuff (200% + 100 Flat Atk)
+* **BB**: Cost: 21BC - Heal 2700-3000 HP (+10% Target REC) for 3 turns, Cure Status/Debuffs, Invalidate Status Ailments for 3 turns, 3 turn DoT Debuff (200% + 100 Flat Atk)
 * **SBB**: Cost: 26BC/16DC - 16 Hit 500% AoE (ATK+100), Heal 4000-4500 HP (+ 22.5% Healer REC), 3 turn 80% REC->DEF buff, 3 turn 4BC/turn
 * **UBB**: Cost: 20BC/21DC - 21 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 140 turn Angel Idol buff on All Allies (50% Chance to Apply Buff, Revive with 100% HP)
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 6
@@ -44,11 +44,11 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **LS**: 50-450% ATK 50-100% DEF depending on HP lost, +80% ATK, 20% Chance Ignore Def
 * **ES**: 0-300% ATK depending on HP lost [Equip ?], +75% Crit Damage [Equip ?]
 * **BB**: Cost: 25BC/15DC - 15 Hit 350% AoE (ATK+100), 3 turn 25% Poison/Weaken buff, 50% Poison/Curse
-* **SBB**: Cost: 26BC/17DC - 17 Hit 1000% ST (ATK+100), 2 turn +120% DEF & +60% Crit, 2 turn Stealth buff (+400% ATK & +70% Crit), 1 turn Self +150% Crit
-* **UBB**: Cost: 26BC/19DC - 19 Hit 2000% AoE (ATK+100), -75% ATK &/or -75% DEF {75%} for 3 turns to Self, 3 turn 100% Injury/Poison/Sick/Weaken buff, Angel Idol buff to Self
+* **SBB**: Cost: 26BC/34DC - 17 Hit 1000% ST (ATK+100), 2 turn +120% DEF & +60% Crit Chance, 2 turn Stealth buff (+400% ATK & +70% Crit Chance), 1 turn Self +150% Crit Damage
+* **UBB**: Cost: 26BC/19DC - 19 Hit 2000% AoE (ATK+100), 75% Chance to Inflict -75% ATK &/or -75% DEF for 3 turns, 3 turn 100% Injury/Poison/Sick/Weaken buff, Angel Idol buff to Self
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 
-----
+---- 
 
 #Grand Quest X1 - The Tinkerer's Deceit
 
