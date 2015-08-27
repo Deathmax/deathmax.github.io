@@ -24,11 +24,13 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Stats (L)**: 7125 HP / 2165 ATK / 2290 DEF / 2540 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: Invalidate Status Ailments, +40% DEF/REC, +25% BC/HC Drop Rate
-* **ES**: 50% Chance 2-3 BC When Attacked [Equip ?], +40% ATK/REC [Equip ?]
+* **ES**: 50% Chance 2-3 BC When Attacked [Equip Harp of Aurelia], +40% DEF/REC [Equip Harp of Aurelia]
 * **BB**: Cost: 21BC - Heal 2700-3000 HP (+10% Target REC) for 3 turns, Cure Status/Debuffs, Invalidate Status Ailments for 3 turns, 3 turn DoT Debuff (200% + 100 Flat Atk)
 * **SBB**: Cost: 26BC/16DC - 16 Hit 500% AoE (ATK+100), Heal 4000-4500 HP (+ 22.5% Healer REC), 3 turn 80% REC->DEF buff, 3 turn 4BC/turn
 * **UBB**: Cost: 20BC/21DC - 21 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 140 turn Angel Idol buff on All Allies (50% Chance to Apply Buff, Revive with 100% HP)
+* **ES Sphere**: Harp of Aurelia (HP Recovery) - 10-20% HP Drain, Invalidate Status Ailments, 7-15% BB Cashback, 50% Chance for 7 BC when Attacking (100000 Karma, Void Chunk, Stormwing's Charm)
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 6
+* **Lore**: During the dark ages of Athensphere, the war slowly took its toll on the demigods. Having witnessed the endless carnage brought upon her people, Aurelia's soul wept in silence. Amidst the death and destruction, a dark seed was sown within Aurelia's bright soul. In time, her grief turned into spite towards the one who began the war. For the first time in her life, Aurelia felt a deep dark passion stirring within her. To end the ravages of war, she had to end the source of it all. With her newfound conviction, Aurelia picked up her harp and poured her soul into the birth of a new tune. A winged spirit emerged from within her, singing softly behind her ears an unholy melody that drained the life-force from anyone who had so successfully earned the ire of the benign demigod.
 
 {: .dark}
 ##Deathless Hadaron
@@ -42,11 +44,13 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Stats (L)**: 7035 HP / 2715 ATK / 2250 DEF / 2060 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: 50-450% ATK 50-100% DEF depending on HP lost, +80% ATK, 20% Chance Ignore Def
-* **ES**: 0-300% ATK depending on HP lost [Equip ?], +75% Crit Damage [Equip ?]
+* **ES**: +50% HP [Equip Axe of Hadaron], +75% Crit Damage [Equip Axe of Hadaron]
 * **BB**: Cost: 25BC/15DC - 15 Hit 350% AoE (ATK+100), 3 turn 25% Poison/Weaken buff, 50% Poison/Curse
 * **SBB**: Cost: 26BC/34DC - 17 Hit 1000% ST (ATK+100), 2 turn +120% DEF & +60% Crit Chance, 2 turn Stealth buff (+400% ATK & +70% Crit Chance), 1 turn Self +150% Crit Damage
 * **UBB**: Cost: 26BC/19DC - 19 Hit 2000% AoE (ATK+100), 75% Chance to Inflict -75% ATK &/or -75% DEF for 3 turns, 3 turn 100% Injury/Poison/Sick/Weaken buff, Angel Idol buff to Self
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
+* **ES Sphere**: Axe of Hadaron (Status Boost) - Crit Damage Immunity, 20-300% ATK 20-100% DEF depending on HP lost, +30% All Weakness Damage (100000 Karma, Void Chunk, Netherhound's Deceit)
+* **Lore**: Having lost Athensphere's undercity to the horde of Hellhounds, Hadaron made the decision to withdraw from the battlefield. Confused as to why and how his friend had succumbed to such madness, Hadaron set off on a mission to find Gazia. During his long journey across the chaos of the Void, he witnessed the atrocities wrought by Gazia. Augmented with the power of the Netherhound, Hadaron developed the Netherhound's superior stealth and hunting abilities. In time, he discovered that the souls of the beasts infused into the machines still lived on. The Netherhounds somehow looked upon Hadaron as if he was part of their pack. Taking advantage of that flaw, Hadaron established himself as the "Alpha Hound", proving himself the strongest amongst them by taking down a great many of Gazia's mechanical beasts. Having subjugated Gazia's Netherhounds, he used them as his eyes and ears, fighting under the cover of darkness. Hadaron became a dreaded phantom capable of attacking from almost anywhere, rapidly destroying key targets and facilities before vanishing without a trace.
 
 ---- 
 
@@ -120,6 +124,9 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * Andaria's/Zedus's ES sphere mats added.
     * Euryalis' Grace - A small gem used to forge Andaria's bow
     * Grievesnare's Will - A small gem used to forge Zedus' spear
+* Blades of Ultor - Crit Multiplier nerfed from +200% to +100%.
+* Ultor 7* - Removal of +300% Crit buff on UBB.
+* Hadaron 6* - Normal damage distribution changed from 97% to 100%
 
 ---
 
