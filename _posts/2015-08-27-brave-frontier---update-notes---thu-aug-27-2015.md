@@ -133,7 +133,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
     * Euryalis' Grace - A small gem used to forge Andaria's bow
     * Grievesnare's Will - A small gem used to forge Zedus' spear
 * Blades of Ultor - Crit Multiplier nerfed from +200% to +100%.
-* Ultor 7* - Removal of +300% Crit Chance buff on UBB.
+* Ultor 7* - Removal of Self +300% Crit Chance buff on UBB.
 * Hadaron 6* - Normal damage distribution changed from 97% to 100%
 
 ---
