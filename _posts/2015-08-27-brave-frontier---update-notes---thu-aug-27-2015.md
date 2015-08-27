@@ -12,6 +12,8 @@ Official Changelog over [here](https://news.gumi.sg/bravefrontier/news/files/htm
 
 Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style="display:inline"} ![Miracle Totem](https://i.imgur.com/EpBmO7Z.png){: .img-responsive style="display:inline"} ![Elemental Totem](https://i.imgur.com/WyGaA2a.png){: .img-responsive style="display:inline"} ![Metal Mimic](https://i.imgur.com/3KRn6Ok.png){: .img-responsive style="display:inline"} ![Elemental Bulb](https://i.imgur.com/QUT5xlJ.png){: .img-responsive style="display:inline"}
 
+![Rare Summon for SBS](https://i.imgur.com/yP2rkT9.png){: .img-responsive}
+
 {: .light}
 ##Archangel Aurelia
 
