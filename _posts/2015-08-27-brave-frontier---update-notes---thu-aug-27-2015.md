@@ -117,6 +117,14 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ![Thumbnail #1](https://i.imgur.com/N9bS2gf.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/MXiW3qD.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/d5ARw4P.png){: .img-responsive style="display:inline"} ![Thumbnail #4](https://i.imgur.com/dFmeLjs.png){: .img-responsive style="display:inline"} ![Thumbnail #5](https://i.imgur.com/YuIFnzs.png){: .img-responsive style="display:inline"} ![Thumbnail #6](https://i.imgur.com/I4hBar5.png){: .img-responsive style="display:inline"}
 
+###Gazia
+
+![Portrait #1](https://i.imgur.com/2ZGDEVw.png){: .img-responsive}
+![Portrait #2](https://i.imgur.com/l1KA7WX.png){: .img-responsive}
+![Portrait #3](https://i.imgur.com/oXJEwop.png){: .img-responsive}
+
+![Thumbnail #1](https://i.imgur.com/pWv2Yc5.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/J59RfsE.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/zXIfjWl.png){: .img-responsive style="display:inline"}
+
 ---
 
 #Misc
