@@ -86,6 +86,8 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ##Portraits
 
+<!--more-->
+
 ###Aurelia
 
 ![Portrait #1](https://i.imgur.com/yajJ6VZ.png){: .img-responsive}
@@ -141,8 +143,6 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 ---
 
 ##Grand Quest X1 Dialogue
-
-<!--more-->
 
 * Noel: Ah! PLAYER_NAME! You're late! I've been waiting for you.
 * Noel: I've finally done it!
