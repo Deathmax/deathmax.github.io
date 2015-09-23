@@ -24,7 +24,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Stats (L)**: 6750 HP / 2570 ATK / 2365 DEF / 2185 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +20% Crit Chance, 15-20% BB Cashback, +20% BB Cost Reduction
-* **ES**: +40% ATK/DEF, +2-3 BC when Hit for 3 turns on BB/SBB
+* **ES**: +40% ATK/DEF (Description says HP/ATK), +2-3 BC when Hit for 3 turns on BB/SBB
 * **BB**: Cost: 27BC/25DC - 25 Hit 280% AoE (ATK+100), Cure Status/Debuffs, Invalidate Status Ailments for 3 turns, 50% Paralysis, 70% Poison
 * **SBB**: Cost: 26BC/28DC - 28 Hit 500% AoE (ATK+100), Invalidate Status Ailments for 3 turns, +7 BC/turn for 3 turns, +30% BB Fill Rate for 3 turns
 * **UBB**: Cost: 26BC/35DC - 35 Hit 1200% AoE (ATK+100), Invalidate Status Ailments for 3 turns, Cure Status/Debuffs, +50 BC/turn for 3 turns 
