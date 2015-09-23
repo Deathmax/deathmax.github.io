@@ -6,8 +6,6 @@ tags: []
 
 ---
 
-#Pre-release data - Data is subject to change
-
 #New SBS 7* - Zedus/Andaria
 
 Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style="display:inline"} ![Miracle Totem](https://i.imgur.com/EpBmO7Z.png){: .img-responsive style="display:inline"} ![Elemental Totem](https://i.imgur.com/WyGaA2a.png){: .img-responsive style="display:inline"} ![Metal Mimic](https://i.imgur.com/3KRn6Ok.png){: .img-responsive style="display:inline"} ![Elemental Bulb](https://i.imgur.com/QUT5xlJ.png){: .img-responsive style="display:inline"}
