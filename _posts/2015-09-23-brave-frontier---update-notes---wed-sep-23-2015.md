@@ -41,7 +41,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Stats (L)**: 7000 HP / 2600 ATK / 2400 DEF / 2100 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +150% Crit Dmg, +80% Spark Dmg, +20% Crit Chance
-* **ES**: +20% All Stats [Equip Spear of Zedus (ID Conflict, Auspicious Lion Charm activates effect)], +60% Crit Chance Buff for 3 turns on BB/SBB [Equip Spear of Zedus (ID Conflict, Auspicious Lion Charm activates effect)]
+* **ES**: +20% All Stats [Equip Spear of Zedus], +60% Crit Chance Buff for 3 turns on BB/SBB [Equip Spear of Zedus]
 * **BB**: Cost: 24BC/22DC - 11 Hit 350% Thunder/Light AoE (ATK+100), +70% Spark DMG for 3 turns, +50% Elemental Weakness Dmg for 3 turns
 * **SBB**: Cost: 30BC/24DC - 12 Hit 600% Thunder/Light AoE (ATK+100), +80% Spark DMG for 3 turns, -50% ATK/DEF {50%} for 1 turn, +50% Crit Damage for 3 turns
 * **UBB**: Cost: 30BC/28DC - 14 Hit 1200% Thunder/Light AoE (ATK+100), +120% Spark DMG for 3 turns, +150% Elemental Weakness Dmg for 3 turns, +300% Crit Damage for 3 turns
