@@ -58,16 +58,16 @@ All SBS dungeons are open for the next 5 days.
 
 New banners suggest weekly openings (every Thursday).
 
-![https://i.imgur.com/B9tEsai.png]{: .img-responsive}
-![https://i.imgur.com/PBWashQ.png]{: .img-responsive}
-![https://i.imgur.com/PUTIq6n.png]{: .img-responsive}
-![https://i.imgur.com/Ka3hH32.png]{: .img-responsive}
-![https://i.imgur.com/xYo9mEg.png]{: .img-responsive}
-![https://i.imgur.com/oKeMYat.png]{: .img-responsive}
-![https://i.imgur.com/bVyuPcc.png]{: .img-responsive}
+![Images](https://i.imgur.com/B9tEsai.png){: .img-responsive}
+![Images](https://i.imgur.com/PBWashQ.png){: .img-responsive}
+![Images](https://i.imgur.com/PUTIq6n.png){: .img-responsive}
+![Images](https://i.imgur.com/Ka3hH32.png){: .img-responsive}
+![Images](https://i.imgur.com/xYo9mEg.png){: .img-responsive}
+![Images](https://i.imgur.com/oKeMYat.png){: .img-responsive}
+![Images](https://i.imgur.com/bVyuPcc.png){: .img-responsive}
 
 ---
 
 #SBS Gate
 
-![https://i.imgur.com/pXviUkn.png]{: .img-responsive}
+![Images](https://i.imgur.com/pXviUkn.png){: .img-responsive}
