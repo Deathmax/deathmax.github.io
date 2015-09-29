@@ -47,8 +47,7 @@ Building on info over [here](https://www.reddit.com/r/bravefrontier/comments/3l5
 
 ![Rainbow Coin](https://i.imgur.com/MWF7UuA.png){: .img-responsive style="display:inline"}
 ![Gold Coin](https://i.imgur.com/2a8LLd8.png){: .img-responsive style="display:inline"}
-![Silve Coin](https://i.imgur.com/eER2laQ.png){: .img-responsive style="display:inline"}
-![Silve Coin](https://i.imgur.com/eER2laQ.png){: .img-responsive style="display:inline"}
+![Silver Coin](https://i.imgur.com/eER2laQ.png){: .img-responsive style="display:inline"}
 ![Healing Item](https://i.imgur.com/JvEj6tR.png){: .img-responsive style="display:inline"}
 ![Revive Item](https://i.imgur.com/wtCDEug.png){: .img-responsive style="display:inline"}
 
