@@ -38,3 +38,32 @@ Alternate art is now implemented for Michele, Quaid, Sefia, Feeva and Alice.
 ---
 
 #Challenge Arena
+
+![CA Banner](https://i.imgur.com/reWSRwT.png){: .img-responsive}
+
+UI elements have been added.
+
+Building on info over [here](https://www.reddit.com/r/bravefrontier/comments/3l5qm4/update_notes_wed_sep_16_2015/):
+
+![Rainbow Coin](https://i.imgur.com/MWF7UuA.png){: .img-responsive style="display:inline"}
+![Gold Coin](https://i.imgur.com/2a8LLd8.png){: .img-responsive style="display:inline"}
+![Silve Coin](https://i.imgur.com/eER2laQ.png){: .img-responsive style="display:inline"}
+![Silve Coin](https://i.imgur.com/eER2laQ.png){: .img-responsive style="display:inline"}
+![Healing Item](https://i.imgur.com/JvEj6tR.png){: .img-responsive style="display:inline"}
+![Revive Item](https://i.imgur.com/wtCDEug.png){: .img-responsive style="display:inline"}
+
+* Rainbow coins are used to summon units, gold and silver coins are used to buy items from the store (such as the heal/revive items).
+* There will be battle rules (like random rules?), brave bonuses, and a first attempt bonus.
+
+
+---
+
+#Practice Mode
+
+Various bits of text have been added.
+
+---
+
+#Colosseum
+
+Various bits of text have been added.
