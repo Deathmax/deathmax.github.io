@@ -34,8 +34,17 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **BB**: Cost: 23BC/11DC - 11 Hit 220% AoE (ATK+100), 1 Turn 50% Mitigation
 * **SBB**: Cost: 20BC/13DC - 13 Hit 450% AoE (ATK+100), 1 Turn 50% Mitigation, +100% DEF buff for 3 turns
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 1
+* **Evo Mat**: iracle Totem, Light Totem, Light Pot, Light Idol, Dragon Mimic
 * **Lore**: A forest sprite from another world guided by the Chain Chronicle. As the avatar of the Silver Wolf, Barienna possesses far more power than the average forest sprite. Pure of heart and devoted towards the people of Sea Breeze, she chooses to use her powers to defend her people from the evil-doers that seek to harm them. Barienna is able to create a magical barrier that blocks most forms of damage. Not only is she adept at using magic, she is also a highly talented swordswoman, capable of standing her own ground when faced with a powerful opponent. Behind the harsh exterior Barienna displays, she is pure of heart and would give her life to protect the lives of those she loves.
 
+##Other CC Names
+
+* Sorcerer's Army Velnar
+* Sorcerer's Army Yuni
+* Wildcat Lindsey
+* Holy Knight Symphonia
+* Captain Yuuri
+* Chronographia Phoena
 
 ---
 
@@ -65,6 +74,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **SBB**: Cost: 30BC/32DC - 32 Hit 850-300% AoE based on HP remaining (ATK+100), 50% Mitigation for 1 turn, +60% DEF->ATK for 3 turns, +300% BB Modifier for 3 turns
 * **UBB**: Cost: 30BC/40DC - 40 Hit 3000-1000% AoE based on HP remaining (ATK+100), 75% Mitigation for 2 turn, 10000 HP Dark Barrier
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 3
+* **Evo Mat**: Light Mecha God, Miracle Totem, 2x Light Totem, Legend Stone
 * **Lore**: A mock unit modeled after Gazia, the traitorous demi-god who brought about the destruction of an entire civilization. Evidence pointing to Gazia’s dark fascinations on evolution and his undying thirst for knowledge could be said to have led to his eventual descent into madness. Utilizing centuries worth of knowledge he had accumulated from his research, his heavily augmented body would have been the ultimate synergy of science and magic, a walking weapon of mass destruction. When asked about validity of the Unit’s accuracy compared to original Gazia, all Noel mentioned was "it takes a genius to understand another genius."
 * **Evo Dialogue**: HAHAHA! And to think they call me mad! Are you certain that helping me, your enemy, is the wisest course of action?
 
