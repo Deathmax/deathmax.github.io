@@ -36,7 +36,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **BB**: Cost: 23BC/11DC - 11 Hit 220% AoE (ATK+100), 1 Turn 50% Mitigation
 * **SBB**: Cost: 20BC/13DC - 13 Hit 450% AoE (ATK+100), 1 Turn 50% Mitigation, +100% DEF buff for 3 turns
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 1
-* **Evo Mat**: iracle Totem, Light Totem, Light Pot, Light Idol, Dragon Mimic
+* **Evo Mat**: Miracle Totem, Light Totem, Light Pot, Light Idol, Dragon Mimic
 * **Lore**: A forest sprite from another world guided by the Chain Chronicle. As the avatar of the Silver Wolf, Barienna possesses far more power than the average forest sprite. Pure of heart and devoted towards the people of Sea Breeze, she chooses to use her powers to defend her people from the evil-doers that seek to harm them. Barienna is able to create a magical barrier that blocks most forms of damage. Not only is she adept at using magic, she is also a highly talented swordswoman, capable of standing her own ground when faced with a powerful opponent. Behind the harsh exterior Barienna displays, she is pure of heart and would give her life to protect the lives of those she loves.
 
 ##Other CC Names
@@ -57,8 +57,17 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ##Rewards
 
 * 1 Gem
-* Euryalis’ Grace - Mat for Bow of Andaria
-* Grievesnare’s Will - Mat for Spear of Zedus
+* ~~Euryalis’ Grace - Mat for Bow of Andaria~~
+* ~~Grievesnare’s Will - Mat for Spear of Zedus~~
+* Gazia
+* 90000 XP
+* 3000000 Zel
+
+##Requirements
+
+* Trial 001
+* GQ X1
+* Trial X3
 
 {: .light}
 ##Mad Heretic Gazia 7*
@@ -72,8 +81,8 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Cost**: 45
 * **Stats (L)**: 6850 HP / 2650 ATK / 2650 DEF / 2050 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
-* **LS**: +35% All Stats, +10% Damage Mitigation, +10% Guard Mitigation, Unknown Param (+400 Heal on Guard?)
-* **ES**: +5% Damage Reduction from All Elements, +4 BB on BB/SBB
+* **LS**: +35% All Stats, +10% Damage Mitigation, +10% Guard Mitigation, 4000 HoT for 1 Turn on Guard
+* **ES**: +5% Damage Reduction from All Elements, +4 BC on BB/SBB
 * **BB**: Cost: 25BC/22DC - 22 Hit 300% AoE (ATK+100), 50% Mitigation for 1 turn, +60% ATK->DEF for 3 turns, 4 BC/Guard buff for 3 turns
 * **SBB**: Cost: 30BC/32DC - 32 Hit 850-300% AoE based on HP remaining (ATK+100), 50% Mitigation for 1 turn, +60% DEF->ATK for 3 turns, +300% BB Modifier for 3 turns
 * **UBB**: Cost: 30BC/40DC - 40 Hit 3000-1000% AoE based on HP remaining (ATK+100), 75% Mitigation for 2 turn, 10000 HP Dark Barrier
@@ -234,7 +243,7 @@ You can check your current ranking rewards from:
 
 #Zedus/Andaria ES Spheres
 
-Mats are obtained from clearing X4.
+~~Mats are obtained from clearing X4.~~
 
 ##Bow of Andaria
 
