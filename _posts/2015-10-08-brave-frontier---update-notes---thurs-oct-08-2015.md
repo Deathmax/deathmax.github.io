@@ -76,7 +76,12 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 3
 * **Evo Mat**: Light Mecha God, Miracle Totem, 2x Light Totem, Legend Stone
 * **Lore**: A mock unit modeled after Gazia, the traitorous demi-god who brought about the destruction of an entire civilization. Evidence pointing to Gazia’s dark fascinations on evolution and his undying thirst for knowledge could be said to have led to his eventual descent into madness. Utilizing centuries worth of knowledge he had accumulated from his research, his heavily augmented body would have been the ultimate synergy of science and magic, a walking weapon of mass destruction. When asked about validity of the Unit’s accuracy compared to original Gazia, all Noel mentioned was "it takes a genius to understand another genius."
-* **Evo Dialogue**: HAHAHA! And to think they call me mad! Are you certain that helping me, your enemy, is the wisest course of action?
+* **Dialogue**: 
+  * **Evo**: HAHAHA! And to think they call me mad! Are you certain that helping me, your enemy, is the wisest course of action?
+  * **Fusion 6\***: This is your so called "Fusion?" Primitive! Nevertheless… effective. Ever wonder what truly happens during the process?
+  * **Fusion 7\***: Are you certain you are not in need of "Fusion" yourself? Do you not see that it could far more efficient than what it currently is?
+  * **Get 6\***: Well, well… what do we have here? Another "Child of the Prophecy"? This should be highly entertaining!
+  * **Get 7\***: Pinnacle? Limits? Such are the concepts that I simply cannot fathom! I am of unlimited potential!
 
 ##Trial Dialogue
 
