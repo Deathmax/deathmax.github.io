@@ -68,7 +68,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Cost**: 45
 * **Stats (L)**: 6850 HP / 2650 ATK / 2650 DEF / 2050 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
-* **LS**: +35% All Stats, +10% Damage Mitigation, +10% Guard Mitigation, Unknown Param (4 BC on guard?)
+* **LS**: +35% All Stats, +10% Damage Mitigation, +10% Guard Mitigation, Unknown Param (+400 Heal on Guard?)
 * **ES**: +5% Damage Reduction from All Elements, +4 BB on BB/SBB
 * **BB**: Cost: 25BC/22DC - 22 Hit 300% AoE (ATK+100), 50% Mitigation for 1 turn, +60% ATK->DEF for 3 turns, 4 BC/Guard buff for 3 turns
 * **SBB**: Cost: 30BC/32DC - 32 Hit 850-300% AoE based on HP remaining (ATK+100), 50% Mitigation for 1 turn, +60% DEF->ATK for 3 turns, +300% BB Modifier for 3 turns
@@ -93,6 +93,14 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * The only certainty of flesh is death!!
 * Fascinating! His prowness in battle is greatly augmented by his brilliant mind. I’ve gleaned much just from your fight alone. You may leave now!
 
+##Trial Enemies
+
+* Gazia
+* Mad Heretic Gazia
+* Turbo Cyclaw
+* Turbo Euryalis
+* Turbo Grievesnare
+
 ---
 
 #Level Up Rewards
@@ -114,7 +122,108 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 #Challenge Arena Help
 
+##Rules
 
+Flaunt your powers and embark on a journey to challenge other Summoners of the land! Destroy all that stand before you and bask in the glory of your victories!
+
+[CHALLENGE ARENA RULES]
+
+* UNIT HP : Chose units for each battle wisely, for Unit's HP will carry over from each battles.
+* BONUS HP : Some Leaderskills and Arena Battle Conditions will imbue bonus HP to your Units. These will be reflected on the HP bar as an additional portion added to the Units' HP bar.
+* BB GAUGE : The BB Gauge will start at 0 for each day and any remaining BB will carry over to the next battle!
+* DOWN UNITS : Units that are down will remain down for the day only. They will not be able to participate in any more battles for the day, unless resurrected with gems or Revive Potions.
+* POINTS & REWARDS : You can get ranking rewards as long as you have participated in battles and obtained ranking points.
+* SAME POINTS : In the case of two or more players having the same ranking points, the first player who achieved the points will be ranked on top of the others.
+* ENTRY & END TIME : Summoners will be assigned to different groups where they will start and end the battles at different time.
+
+##Leagues
+
+The Challenge Arena is divided into 3 Leagues: 
+
+1. Rookie League 
+2. Summoner League 
+3. Legendary League 
+
+Start off in the Rookie league and work your way up the top.
+
+Each week, the Top Summoners of the Rookie and Summoner Leagues will achieve promotion to the next higher League, where stronger opponents and greater rewards are waiting!
+
+Get to the Legendary League and reap the rewards that you truly deserve!
+
+[Ranking Points & Rewards] 
+
+You can get ranking rewards as long as you have participated in battles and obtained ranking points.
+
+##Battles
+
+You will face a series of progressively stronger opponents. Defeat them to gain ranking points and drops!
+
+Battles will be auto-battle style similar to the Arena. The team who defeated all opponent's Units will be the winner. You will not be able to progress to the next opponent until the current opponent has been defeated.
+
+If the timer runs out before any squad has been defeated, the following conditions will determine the winner, in order of priority : 
+
+1. Number of Units 
+2. Total Damage
+3. Total HP
+
+[BATTLE NOTES]
+
+* Spheres are not allowed in the Challenge Arena. 
+* Attacking power of Brave Bursts and Super Brave Bursts have been reduced overall. 
+* Healing per HC has been reduced overall. 
+* Inflicted Statuses will all last for 1 turn. 
+* Status Infliction rate has been capped.
+
+##Scoring
+
+When setting up your squad for battle, there is a "Brave Bonus" displayed. Use this as a guide for maximum points gain!
+
+The stronger the opponent squad is relative to your current squad, the higher the bonus.
+
+##Unit Management
+
+Units are automatically available in the squad reserve. There are 2 sets of requirements for a unit to qualify to battle in the Challenge Arena. They are : 
+
+1. Challenge Arena Unit Requirements 
+  * No duplicate Units are allowed. If there are multiples of the same Unit, the Unit with the highest stats will be selected. 
+  * Unit must be at the rarity and level equal to or higher than the League's requirement 
+  * If similar units of equal strength exists, one of them will be chosen at random. 
+2. League Unit Requirements 
+ * You can check the League Requirements at the notice board before you enter the Challenge Arena.
+
+##Tips
+
+SQUAD SETUP TIP
+
+The environment, that each opponent is found in, hints about the difficulty of the battle.
+
+UNIT MANAGEMENT TIP 
+
+Summon more Units if you need, and they will be automatically included in your arena reserve (As long as they meet the qualifying requirements for your League!) 
+
+BATTLE TIP
+
+Remember to bring your Healers along to heal your Units! 
+
+BATTLE TIP
+
+Store your BB gauge charged for tough opponents! 
+
+BATTLE TIP
+
+Make use of your knowledge of the opponent's squad (countering elements, skills, statuses etc...) to help you gain a higher "Brave Bonus"!
+
+##Rewards
+
+Collect gold and silver coins for purchasing great items from the Arena shop, and gather the Rainbow coins from defeated opponents to summon more Units to your army!
+
+Find treasure chests along the way for additional rewards.
+
+Ranking rewards will be distributed every daily and weekly.
+
+You can check your current ranking rewards from: 
+
+[Ranking -> View Rewards]
 
 ---
 
