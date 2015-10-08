@@ -40,3 +40,16 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ---
 
 #Level Up Rewards
+
+|Level|Rewards|
+|-|-|
+|205|3x Burst Emperors|
+|210|3x Arton Imps|
+|215|5x Cresent Dews|
+|220|2x Gems|
+|225|3x Burst Emperors|
+|230|3x Arton Imps|
+|235|5x Cresent Dews|
+|240|2x Sphere Frogs|
+|245|3x Gems|
+|250|Buffer Jewel|
