@@ -26,6 +26,8 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ![5 Star Illustration](https://i.imgur.com/8RINwHW.png){: .img-responsive}
 ![6 Star Illustration](https://i.imgur.com/oyxSXIo.png){: .img-responsive}
 
+![Barienna Idle GIF](https://i.imgur.com/ICBxZ58.gif){: .img-responsive style="display:inline"} ![Barienna Attack GIF](https://i.imgur.com/3WdMTEm.gif){: .img-responsive style="display:inline"} 
+
 * **Hits/DC**: 9/2 
 * **Cost**: 25
 * **Stats (L)**: 6200 HP / 1870 ATK / 1950 DEF / 1790 REC 
@@ -63,6 +65,8 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ![6 Star Illustration](https://i.imgur.com/tJbHsHD.png){: .img-responsive}
 ![7 Star Illustration](https://i.imgur.com/Y5uXNpS.png){: .img-responsive}
+
+![Gazia Idle GIF](https://i.imgur.com/aq7ePOe.gif){: .img-responsive style="display:inline"} ![Gazia Attack GIF](https://i.imgur.com/75bobTa.gif){: .img-responsive style="display:inline"} 
 
 * **Hits/DC**: 16/3 
 * **Cost**: 45
