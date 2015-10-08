@@ -105,6 +105,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 #Level Up Rewards
 
+{: .table}
 |Level|Rewards|
 |-|-|
 |205|3x Burst Emperors|
