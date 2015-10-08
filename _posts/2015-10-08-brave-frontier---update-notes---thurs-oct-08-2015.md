@@ -109,10 +109,16 @@ Mats are obtained from clearing X4.
 
 ##Bow of Andaria
 
+* Status Boost
+* +30% HP/ATK, +150% BB Modifier
+* Materials: Euryalis’ Grace, Void Chunk
 * Lore: The bow once used by the gifted Andaria was a difficult and heavy weapon to use. Without a proper bowstring attached to it, the bow instead draws power from its bearer and turns it into a lethal projectile of pure energy. Masters of the weapon like Andaria could fire a variety of projectiles types, from a barrage of bolts to a high-powered shot. Reforged by a mysterious smith, this replica is still a lethal weapon that could effectively convert one’s own spritual energy into devastating bolt of energy.
 
 ##Spear of Zedus
 
+* Status Boost
+* +20% All Stats, +4-6 BC on Crit
+* Materials: Grievesnare’s Will, Void Chunk
 * Lore: Weapon of the Lord of Athensphere, this legendary spear could be wielded by no one but Zedus himself. The spear itself is believed to contain an immense amount of power, capable of powering a city a hundered times the size of the Imperial Capital Randall on its own. Using the lost records recovered from the lost civilization, this replica was forged by a mysterious stranger. From one end to another, the entire spear is a weapon itself. Attempting to hold it with your bare hands would be akin to holding on to a live lightning bolt.
 
 ---
