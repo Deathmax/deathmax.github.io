@@ -8,15 +8,23 @@ tags: []
 
 Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/server-status/242346-server-maintenance-october-14-22-00-pst).
 
+Discussion over on [reddit](https://www.reddit.com/r/bravefrontier/comments/3oub57/update_notes_thurs_oct_15_2015/).
+
 ---
 
 #Chain Chronicles Collab
 
 ![Dungeon #1](http://i.imgur.com/jIWJcSv.png){: .img-responsive}
 
-* Lvl 1: As you investigate a magical laboratory, you feel a burning gaze on you. Behind you appears a mysterious figure out of thin air.
-* Lvl 2: The experienced and beautiful lady of the mage's guild is both dominant and seasoned. She attacks you as if teasing you, testing your capabilities.
-* Lvl 3: The mage laughs of someone who holds many secrets. Knowing there are more yet to be found, she prepares a unique spell for this special occasion.
+* Lvl 1
+  * As you investigate a magical laboratory, you feel a burning gaze on you. Behind you appears a mysterious figure out of thin air.
+  * 10 EN, 700 XP, 3 Battles
+* Lvl 2
+  * The experienced and beautiful lady of the mage's guild is both dominant and seasoned. She attacks you as if teasing you, testing your capabilities.
+  * 20 EN, 1700 XP, 7 Battles
+* Lvl 3
+  * The mage laughs of someone who holds many secrets. Knowing there are more yet to be found, she prepares a unique spell for this special occasion.
+  * 30 EN, 3500 XP, 7 Battles, 1 Gem First Clear Bonus
 
 {: .fire}
 ##Universal Mage Aludra 6*
