@@ -3,7 +3,6 @@ layout:
 title: Old Projects - Warframe
 categories: [programming]
 tags: [programming, warframe, wardroid, deathsnacks]
-published: true
 
 ---
 
