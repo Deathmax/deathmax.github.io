@@ -1,7 +1,7 @@
 ---
-layout: 
+layout: post
 title: Old Projects - Warframe
-categories: [programming]
+categories: programming
 tags: [programming, warframe, wardroid, deathsnacks]
 
 ---
@@ -10,7 +10,7 @@ This will be a series of posts where I log various old projects that I've done a
 
 ##IRC Bot
 
-This was a Lua script with HexChat running on the clan/alliance chat channels for Warbros in the game's IRC server. If you want details on how to connect, don't ask me. Since it is possible 
+This was a Lua script with HexChat running on the clan/alliance chat channels for Warbros in the game's IRC server. If you want details on how to connect, don't ask me.
 
 <!--more-->
 
