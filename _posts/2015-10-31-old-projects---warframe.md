@@ -1,8 +1,8 @@
 ---
 layout: 
 title: Old Projects - Warframe
-categories: [programming, warframe]
-tags: []
+categories: [programming]
+tags: [programming, warframe, wardroid, deathsnacks]
 published: true
 
 ---
@@ -59,16 +59,16 @@ Players could query the bot for the current progress of dark sector conflicts. U
 
 Prior to the current version of WarDroid, there was another version that connected to the game server with your credentials that allowed you to manage your account such as claiming items from the foundry (starting builds were in the pipeline until it was shut down), claiming extractor resources, and viewing clan details (management similarly was under development).
 
-[Sidebar](https://i.imgur.com/1VuXaZH.png){:.img-responsive }
+![Sidebar](https://i.imgur.com/1VuXaZH.png){:.img-responsive }
 
-[Foundry #1](https://i.imgur.com/eFyuMKW.png){:.img-responsive style="display:inline"}
-[Foundry #2](https://i.imgur.com/y2domQd.png){:.img-responsive style="display:inline"}
-[Foundry #3](https://i.imgur.com/CNvlBJZ.png){:.img-responsive style="display:inline"}
+![Foundry #1](https://i.imgur.com/eFyuMKW.png){:.img-responsive style="display:inline"}
+![Foundry #2](https://i.imgur.com/y2domQd.png){:.img-responsive style="display:inline"}
+![Foundry #3](https://i.imgur.com/CNvlBJZ.png){:.img-responsive style="display:inline"}
 
-[Extractor #1](https://i.imgur.com/CNvlBJZ.png){:.img-responsive style="display:inline"}
-[Extractor #2](https://i.imgur.com/ZfqIlp6.png){:.img-responsive style="display:inline"}
-[Extractor #3](https://i.imgur.com/ZfqIlp6.png){:.img-responsive style="display:inline"}
+![Extractor #1](https://i.imgur.com/CNvlBJZ.png){:.img-responsive style="display:inline"}
+![Extractor #2](https://i.imgur.com/ZfqIlp6.png){:.img-responsive style="display:inline"}
+![Extractor #3](https://i.imgur.com/ZfqIlp6.png){:.img-responsive style="display:inline"}
 
-[Clan](https://i.imgur.com/iopaD7k.png){:.img-responsive }
+![Clan](https://i.imgur.com/iopaD7k.png){:.img-responsive }
 
 This was also when Glen changed worldState from a private API to a publicly available resource (+ RSS feeds) that people are using now.
