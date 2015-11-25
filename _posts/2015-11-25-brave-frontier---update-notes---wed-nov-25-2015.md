@@ -58,9 +58,9 @@ This is a work in progress, will not be available to update data for some time.
 * **Cost**: 42
 * **Stats (L)**: 6774 HP / 2650 ATK / 2381 DEF / 2336 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
-* **LS**: +30% All Stats, 50% BB Fill Rate, +25% HC/BC Drop, +150% BB Mod
+* **LS**: +30% ATK/DEF/REC, +25% HP, 50% BB Fill Rate, +25% HC/BC Drop, +150% BB Mod
 * **ES**: +20% All Stats, 0 BC when attacking
-* **BB**: Cost: 30BC/18DC - 18 Hit 290% ST (ATK+100), 3 turns +3 BC/turn, 3 turns +130% ATK/DEF/REC, 3 turns +50% BB Fill Rate
+* **BB**: Cost: 30BC/18DC - 18 Hit 290% ST (ATK+100), 3 turns +6 BC/turn, 3 turns +130% ATK/DEF/REC, 3 turns +50% BB Fill Rate
 * **SBB**: Cost: 26BC/20DC - 20 Hit 540% AoE (ATK+100), +8 BC, 3 turns +200% BB Mod, 3 turns 50% Chance for -50% ATK/DEF
 * **UBB**: Cost: 25BC/22DC - 22 Hit 1200% AoE (ATK+100), 3 turns +50 BC/turn, 3 turns +200% ATK/DEF/REC, 2 turns +500% BB Mod
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
@@ -103,3 +103,36 @@ This is a work in progress, will not be available to update data for some time.
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_806.png){: .img-responsive style="display:inline"}
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_807.png){: .img-responsive style="display:inline"}
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_808.png){: .img-responsive style="display:inline"}
+
+##Missions
+
+* Of Wings and Horns
+	* Mission orders from Tilith: Find a way home. It looks like you’ll be here for a while. I’ll look for a way to get you back home. Meanwhile you can make some friends! I saw a friendly looking man with pink hair just behind the forest, go say hello!
+	* Target: Korzan
+* Inner Daemons
+	* Mission orders from Korzan: Find and retrieve the battlemage’s staff. I’ve been out longer than expected so I need to head back. Make sure everything is okay. I was out looking for my companion’s staff. She lost it while tracking a beast that has been causing a ruckus lately. Get it back for me and we’ll see about getting you home.
+	* Target: Van Lucy and Van Nader
+* Crowd Control
+	* Mission orders from Korzan: Quell the restless Eidolons of the forest. Good work on finding the staff. I’ll get it back to the owner before she blows her top off on me again. Whatever’s been causing a stink has the whole forest riled up. Once peaceful eidolons are behaving oddly and even attacking people! I need you to go out there and paint the floor red!
+	* Target: Laguna and others
+* White Rabbit
+	* Mission orders from Korzan: Defeat Lesnik. The Lesnik is near. Every night we can hear its howls, driving the local eidolons into a frenzy. It’s angry and it doesn’t seem like it’s going away anytime soon. My scouts have discovered its location around the caves. They’ve got the entrances covered so now’s the time to get rid of it.
+	* Target: Lesnik
+* Hot and Hotter
+	* Mission orders from Korzan: Find the battlemage and bring her back. That didn’t go as expected. This creature is clearly holding some kind of grudge against us. My companion, Haile, is going to the shrine to commune with the eidolons in an attempt to appease them. But I just received reports of Deva royal army troops in the area. She’s capable of taking care of herself but something doesn’t feel right. It’s probably nothing but go back her up, will ya?
+	* Target: Balmedia and Haile
+* Dazzle in the Dark
+	* Mission orders from Concerned Mom: Search for my daughter! My daughter loves going into the forest to play with the eidolons. Even with the eidolons all worked up she still finds a way to slip out! Please find her for me! Who knows what she troubles she must be getting into!
+	* Target: Nalda Delia and others
+* Queen for a Day
+	* Mission orders from Haile: Defend the keep. That Deva squad that you routed is back, most likely still in pursuit of me. This time they sent eidolons of their own to do their dirty work. Take care of them before they reach the keep and harm more people.
+	* Target: Grudkia and others
+* The Coin Toss
+	* Mission orders from Haile: Finish the Lesnik. The danged thing won’t let up! The keep’s walls won’t last long with the Lesnik constantly sending in attacks day and night. We have to send a surgical strike force to take it down before we lose it all. Korzan and I are busy directing the defence troops here and there’s no one left as capable except for you so you’re it. I’m taking a risk on you here. If you fail, our keep and everyone will be in peril.
+	* Target: Jirayen and others
+
+---
+
+#Other
+
+* Emgifs added to AS store.
