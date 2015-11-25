@@ -8,6 +8,8 @@ tags: []
 
 Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/server-status/261229-server-maintenance-november-25-00-00-pst).
 
+[Reddit discussion thread here.](https://www.reddit.com/r/bravefrontier/comments/3u6z75/update_notes_wed_25_nov_2015/)
+
 This is a work in progress, will not be available to update data for some time.
 
 ---
