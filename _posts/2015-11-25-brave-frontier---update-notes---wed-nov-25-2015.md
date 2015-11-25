@@ -16,6 +16,10 @@ This is a work in progress, will not be available to update data for some time.
 
 #Raid X3 Part 1
 
+##Rare Summon
+
+![Rare Summon Gate](/assets/bf251115/gacha_rare_bg_img_201511_globalX3.png){:.img-responsive}
+
 ##Units
 
 {:.fire}
