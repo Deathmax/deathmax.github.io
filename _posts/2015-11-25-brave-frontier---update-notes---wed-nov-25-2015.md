@@ -149,6 +149,266 @@ This is a work in progress, will not be available to update data for some time.
 
 ---
 
+##Dialogue
+
+: A few hours before…
+
+Elise: PLAYER_NAME! Sorry to have kept you waiting!
+
+Elise: Your mission application has been approved!
+
+Elise: I hope you have completed your own preparations?
+
+Elise: Oh! Before I forget, there is something very important I must inform you about.
+
+Elise: Ever since Lucius was defeated and Lady Tilith took over as Goddess of the Gate
+
+Elise: complaints have been pouring in from many Summoners. 
+
+Elise: According to these complaints, Summoners have been transported to locations that are not of their choosing. 
+
+Elise: For example, if you were to travel to Amdahl, you may find yourself transported to Encervis instead.
+
+Elise: Some of the more uncommon complaints tell of transportation to a completely different continent altogether!
+
+Elise: So far, all Summoners proceeding through the gate have been accounted for. That's good news, isn't it?
+
+Elise: I'm sure Lady Tilith will get the hang of it soon, 
+
+Elise: so we should have nothing to worry about!
+
+Elise: Why do you look so worried?  Please have faith in Lady Tilith! She has never let us down!
+
+Elise: I'm sure you will be alright PLAYER_NAME!
+
+Elise: That said, please take care of yourself when you're out there!
+
+Korzan: Well fought, stranger!
+
+Korzan: Hmm.. You don't have the horns of a Morokai and you certainly don't resemble the Deva at all.
+
+Korzan: I wonder... where are you from?
+
+Korzan: El Gaia?? I've never heard of this place.
+
+Korzan: What?! A gate?
+
+Korzan: That sounds like a shaman's fever dream..
+
+Korzan: That look in your eyes, you truly believe what you're saying don't you?
+
+Korzan: What is your name, stranger?
+
+Korzan: You're a long ways away from home then, PLAYER_NAME. 
+
+Korzan: I am Korzan of the Morokai,  the Destroyer from the Baldemar Badlands!
+
+Korzan: Tell you what, if you help me out with a little errand of mine, I know of someone who might be able to help you get home..
+
+---
+
+Korzan: Good work on driving that Eidolon away, hopefully the forest will calm down now.
+
+Korzan: I know I promised to help you get back home but there are more important issues to deal with before that can happen.
+
+Lesnik: Hooooooowl!!!
+
+Korzan: What?! The Lesnik came back?
+
+Korzan: Perhaps it isn't aware just who the prey is!
+
+Korzan: You must find Haile quickly. 
+
+Korzan: Without her staff, she's just another useless peasant who cannot fend for herself.
+
+---
+
+Haile: To think the Imperial Scouts had someone this capable…
+
+Haile: I’m just getting started however!
+
+Haile: How are you controlling the Eidolons! Tell me no-
+
+Korzan: Haile! Stop attacking!
+
+Korzan: That person is not the enemy!
+
+Haile: What?!
+
+Korzan: You heard me. Take a good look.
+
+Korzan: That stranger's name is PLAYER_NAME. Claims to have come from another world.
+
+Korzan: It was I who requested for PLAYER_NAME to take care of the Lesnik. 
+
+Haile: Well that failed miserably didn't it?  Otherwise the Imperial Scouts wouldn't have had an opening to attack.
+
+Haile: Are you certain this PLAYER_NAME is not one of them?
+
+Korzan: Bah! Questions, questions, questions!
+
+Korzan: Listen! I came to bring the both of you back. Those annoying scouts may be preparing for an attack on the keep.
+
+Korzan: Those annoying scouts may be preparing for an attack on the keep
+
+Korzan: And I'd rather be there to keep it intact! Or else Avani's going to find another reason to nag at me.
+
+Haile: …… The name's Haile.
+
+Haile: For a strange one with neither horns nor wings, you fight pretty well.
+
+Haile: Korzan, are the Imperial Scouts really intent on finding us?
+
+Korzan: If you haven't realized it yet missy, you and your fellow brethren have been marked as traitors!
+
+Korzan: Need another reason as to why they would want our heads?
+
+Korzan: The Eidolons have been whipped up into a frenzy by them and that Lesnik.
+
+Korzan: Seeing how weak they are, I believe they plan to use them to attack us instead.
+
+Haile: Speaking of the Lesnik, while I was communing with the Eidolons, I could hear its tormented cry.
+
+Haile: I feel a darkness and it is causing it tremendous pain.. Consuming and prodding it.
+
+Haile: As you say then, we had best return to the keep quickly.
+
+---
+
+Korzan: Begone, you foul creature!
+
+Lesnik: ARH-OOOOOOO!!!
+
+Haile: Goodness... Not so...tough anymore...eh?
+
+Haile: This time, stay down and don't ever get back up!
+
+Korzan: HA HA HA HA!
+
+Korzan: Now THAT was a fight!
+
+Korzan: However, if it hadn't run all over the forest like a coward, its death would have been a lot more...
+
+Korzan: ...painless!
+
+Haile: Shut it, Korzan!
+
+Haile: If YOU had not wasted our time fooling around with it so much, we would've killed it long before that!
+
+Korzan: What!? Well, would you care to remind me who was it that lost her precious little staff in the first place?
+
+Haile: Hey! That was because...
+
+Korzan: Ah! And do refresh my memory regarding who got herself captured by a group of Imperial Scouts!
+
+Haile: You insensitive brute...
+
+Korzan: Wha--?!
+
+Korzan: Argh! Whatever!
+
+Korzan: The beast is dead, and you still have your pretty little head.
+
+Korzan: But where are those fools?! They should have been back here three days ago!
+
+Korzan: *Grumbles*
+
+Korzan: PLAYER_NAME! Keep an eye on her, will you?
+
+Korzan: This lousy keep shall be our home for quite a while.
+
+Korzan: I'll need to assess the damages done to this wretched place.
+
+Korzan: I've had enough of those vermin crawling in!
+
+Haile: He he! My wounded puppy look works every time!
+
+Haile: Korzan always acts tough, but he's softer than he lets on.
+
+Haile: Though what he says is true. It is frustrating being protected all the time. 
+
+Haile: I must grow stronger, for everyone's sake.
+
+Haile: PLAYER_NAME, I can't help but feeling that you're the type of person who is always stuck in some sort of predicament.
+
+Haile: You were thrown into a different world and dragged into a problem which was of no concern to you.
+
+Haile: And yet, had it had been anyone else, they might've been dead by now. 
+
+Haile: Hmm? Are you not pleased with my compliment?
+
+Haile: You should be honored!
+
+Haile: He he. At ease, Summoner!
+
+Haile: It was only a joke.
+
+Haile: You have my gratitude, PLAYER_NAME.
+
+Haile: I am pretty sure the others would love to meet you as well, especially Ezra! 
+
+Haile: But you must be wanting to return home to Elgaia.
+
+Haile: Please, do tell me how I can be of any assistance.
+
+Haile: And spare not the details, I wish to hear it all!
+
+Haile: Really? To have defeated the almighty god who governs the gate across worlds...
+
+Haile: Are you really who you claim to be? Just PLAYER_NAME the Summoner?
+
+Haile: Well, nevertheless, that was quite the fascinating tale! 
+
+Haile: Perhaps too fascinating to believe, even...
+
+Haile: But who am I to question your story? You are obviously not from this world of ours. 
+
+Haile: Anyway, if what you say is true, I might be able to help you find a way back after all.
+
+Haile: Actually, I sensed a great disturbance in the flow of mana during the time of your arrival.
+
+Haile: It was as if a great power was channeling all the mana within the forest into a single point.
+
+Haile: Remember the shrine in the middle of the lake?
+
+Haile: That is the site where mana gathers thickest. 
+
+Haile: While I certainly do not have the same ability your Goddess has, I may be able to guide her towards you.
+
+Haile: I have reason to believe that a source similar to the mana of this world is used in your world too. 
+
+Haile: For your sake, I hope that I am correct. 
+
+Korzan: *Grumbles*
+
+Korzan: Still here PLAYER_NAME? Could it be that Haile was unable to send you back to...wherever it was you came from?
+
+Korzan: Well, things may not be as bad as they seem! You could stay here with me, if you wish. I could use a competent sparring partner!
+
+Haile: Not to worry. I do have a way of sending PLAYER_NAME back to Elgaia...
+
+Haile: ...and I'm just about to begin preparations!
+
+Haile: So go mend the walls or something! Make yourself useful!
+
+Haile: PLAYER_NAME, meet me at the shrine when you're ready to return to your world.
+
+Korzan: Hmph...
+
+Korzan: I won't say this twice, so listen carefully. 
+
+Korzan: You have my thanks. 
+
+Korzan: For saving me a great deal of trouble... and for saving that foolish girl as well.
+
+Korzan: But best be on your way now, eh? 
+
+Korzan: And now that you know of our world, why not come back sometime?
+
+Korzan: I'll be looking forward to a rematch!
+
+---
+
 #Other
 
 * Emgifs added to AS store.
