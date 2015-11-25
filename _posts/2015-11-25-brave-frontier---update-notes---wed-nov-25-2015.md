@@ -19,19 +19,19 @@ This is a work in progress, will not be available to update data for some time.
 {:.fire}
 ###Male Fire Unit
 
-[!Illustration](/assets/unit_ills_full_810317.png){:.img-responsive}
+[!Illustration](/assets/bf251115/unit_ills_full_810317.png){:.img-responsive}
 
-[!Idle](/assets/unit_810317_idle.gif){:.img-responsive style="display:inline"}
-[!Attack](/assets/unit_810317_atk.gif){:.img-responsive style="display:inline"}
+[!Idle](/assets/bf251115/unit_810317_idle.gif){:.img-responsive style="display:inline"}
+[!Attack](/assets/bf251115/unit_810317_atk.gif){:.img-responsive style="display:inline"}
 
 
 {:.water}
 ###Water Unit
 
-[!Illustration](/assets/unit_ills_full_820317.png){:.img-responsive}
+[!Illustration](/assets/bf251115/unit_ills_full_820317.png){:.img-responsive}
 
-[!Idle](/assets/unit_820317_idle.gif){:.img-responsive style="display:inline"}
-[!Attack](/assets/unit_820317_atk.gif){:.img-responsive style="display:inline"}
+[!Idle](/assets/bf251115/unit_820317_idle.gif){:.img-responsive style="display:inline"}
+[!Attack](/assets/bf251115/unit_820317_atk.gif){:.img-responsive style="display:inline"}
 
 <!--more-->
 
