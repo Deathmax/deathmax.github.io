@@ -10,8 +10,6 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 [Reddit discussion thread here.](https://www.reddit.com/r/bravefrontier/comments/3u6z75/update_notes_wed_25_nov_2015/)
 
-This is a work in progress, will not be available to update data for some time.
-
 ---
 
 #Raid X3 Part 1
@@ -59,9 +57,9 @@ This is a work in progress, will not be available to update data for some time.
 * **Stats (L)**: 6774 HP / 2650 ATK / 2381 DEF / 2336 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +30% ATK/DEF/REC, +25% HP, 50% BB Fill Rate, +25% HC/BC Drop, +150% BB Mod
-* **ES**: +20% All Stats, 0 BC when attacking
+* **ES**: +20% All Stats, 8 BC when attacking
 * **BB**: Cost: 30BC/18DC - 18 Hit 290% AoE (ATK+100), 3 turns +6 BC/turn, 3 turns +130% ATK/DEF/REC, 3 turns +50% BB Fill Rate
-* **SBB**: Cost: 26BC/20DC - 20 Hit 540% AoE (ATK+100), +8 BC, 3 turns +200% BB Mod, 3 turns 50% Chance for -50% ATK/DEF
+* **SBB**: Cost: 26BC/20DC - 20 Hit 540% AoE (ATK+100), +8 BC, 3 turns +200% BB Mod, 50% Chance for 1 turn -50% ATK/DEF
 * **UBB**: Cost: 25BC/22DC - 22 Hit 1200% AoE (ATK+100), 3 turns +50 BC/turn, 3 turns +200% ATK/DEF/REC, 2 turns +500% BB Mod
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: (Miracle Totem, Water Totem, 2x Dragon Mimic, Water Bulb) -> (Water Mecha God, 2x Miracle Totem, Metal Mimic, Water Bulb)
