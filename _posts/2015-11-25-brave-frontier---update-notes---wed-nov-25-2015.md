@@ -32,9 +32,9 @@ This is a work in progress, will not be available to update data for some time.
 * **Imps**: 1000 HP / 600 ATK / 400 DEF / 300 REC
 * **LS**: +40% ATK/HP, +175% Crit Dmg, 3-6 BC when Attacked, +50% ATK when BB Gauge Full
 * **ES**: Negate Elemental Weakness, +200% BB Mod
-* **BB**: 16 combo powerful Fire attack on all foes (damage increases as HP decreases), adds Def ignoring effect to attack for 2 turns, boosts Atk and critical hit rate for 3 turns & partially restores own BB gauge
-* **SBB**: 19 combo powerful Fire attack on all foes (damage increases as HP decreases), boosts critical damage and Atk relative to HP for 3 turns & boosts max HP
-* **UBB**: 2 combo massive Fire attack on all foes (damage increases as HP decreases), greatly boosts critical damage and Atk relative to HP for 3 turns & massively boosts own max HP
+* **BB**: Cost: 26BC/16DC - 16 Hit 250-500% based on HP lost AoE (ATK+100), 2 turns Def Ignore, 3 turns +150% ATK +60% Crit Chance, 40% BB Fill Self
+* **SBB**: Cost: 27BC/19DC - 19 Hit 400-800% based on HP lost AoE (ATK+100), 3 turns +75% Crit Dmg, 3 turns convert 20% HP to ATK, +10% Max HP
+* **UBB**: Cost: 25BC/30DC - 2 Hit 1200-3000% based on HP lost AoE (ATK+100), 3 turns +300% Crit Dmg, 3 turns convert 50% HP to ATK, +100% Max HP Self
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 3
 * **Evo Mat**: (Miracle Totem, Fire Totem, 2x Dragon Mimic, Fire Bulb) -> (Fire Mecha God, 2x Miracle Totem, Metal Mimic, Fire Bulb)
 * **Lore**: A notorious ravager from the world of Eneroth. Years of endless rampaging did not earn him any solace. Despite coming to be feared as one of Eneroth's mightiest warriors, Korzan's soul was left as empty as before. Determine to find a new purpose in life, he set off to seek a mysterious band of hunters rumored to consist of both Deva and Morokai. He was convinced that the person capable of uniting the people of two warring nations might be able to provide the answers he sought. Upon arriving at their camp, he discovered that their camp was attacked by a trio of Emperor Devil Scorpions, one of the deadliest beasts to roam the Baldemar Badlands. Following his battle instincts, Korzan jumped into the fray and quickly slayed one of the three scorpions. Ready to take on his next prey, he was stunned to find the other two scorpions defeated. Upon their carcass stood a warrior. On her head were the horns of the Morokai and on her back spanned the unmistakable wings of the Deva. One look into her eyes was enough for Korzan to understand the difference in power between them. He thought to himself that perhaps this person could be the one to help him find his destiny.
@@ -56,9 +56,9 @@ This is a work in progress, will not be available to update data for some time.
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +30% All Stats, 50% BB Fill Rate, +25% HC/BC Drop, +150% BB Mod
 * **ES**: +20% All Stats, 0 BC when attacking
-* **BB**: 18 combo powerful Water attack on all foes, gradually restores BB gauge for 3 turns, largely boosts Atk, Def, Rec for 3 turns & boosts BB gauge fill rate for 3 turns
-* **SBB**: 20 combo powerful Water attack on all foes, boosts BB gauge for 3 turns, boosts BB Atk for 3 turns & probable Atk, Def reduction for 1 turn
-* **UBB**: 22 combo massive Water attack on all foes, hugely boosts BB gauge for 3 turns, massively boosts Atk, Def, Rec for 3 turns & greatly boosts BB Atk for 2 turns
+* **BB**: Cost: 30BC/18DC - 18 Hit 290% ST (ATK+100), 3 turns +3 BC/turn, 3 turns +130% ATK/DEF/REC, 3 turns +50% BB Fill Rate
+* **SBB**: Cost: 26BC/20DC - 20 Hit 540% AoE (ATK+100), +8 BC, 3 turns +200% BB Mod, 3 turns 50% Chance for -50% ATK/DEF
+* **UBB**: Cost: 25BC/22DC - 22 Hit 1200% AoE (ATK+100), 3 turns +50 BC/turn, 3 turns +200% ATK/DEF/REC, 2 turns +500% BB Mod
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: (Miracle Totem, Water Totem, 2x Dragon Mimic, Water Bulb) -> (Water Mecha God, 2x Miracle Totem, Metal Mimic, Water Bulb)
 * **Lore**: A renegade Deva battlemage from the world of Eneroth. After her defeat at the hands of the Destroyer, Haile was rescued by a band of Morokai hunters. She was surprised to discover that there were Deva living among them, and not as slaves, but as equals. Raised to fear the Morokai as the mortal enemies of the Deva, Haile was initially wary of those around her. However, the secluded lifestyle she had experienced behind the confines of the city walls made her encounter with the Morokai pique her curiosity. Choosing to seek a deeper understanding of the Morokai as she had once done to unravel the mysteries of magic, Haile came to embrace a different set of ideals and way of life. While her temperament remained unchanged, she now used her abilities to protect her new ideals and to save others from becoming mere casualties of war, regardless of their origins. Now known as the renegade "Ardent Ice Queen," Haile continued to disrupt the war efforts of both nations, hoping that her actions would help usher in a new era of peace.
