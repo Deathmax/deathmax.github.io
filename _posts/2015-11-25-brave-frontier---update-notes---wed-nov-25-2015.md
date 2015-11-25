@@ -17,7 +17,7 @@ This is a work in progress, will not be available to update data for some time.
 ##Units
 
 {:.fire}
-###Morokai
+###Infernal Ravager Korzan
 
 ![Illustration](/assets/bf251115/unit_ills_full_810317.png){:.img-responsive}
 
@@ -26,7 +26,7 @@ This is a work in progress, will not be available to update data for some time.
 
 
 {:.water}
-###Deva
+###Boreal Tempest Haile
 
 ![Illustration](/assets/bf251115/unit_ills_full_820317.png){:.img-responsive}
 
