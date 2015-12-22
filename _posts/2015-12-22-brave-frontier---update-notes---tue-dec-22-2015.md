@@ -6,15 +6,13 @@ tags: []
 
 ---
 
-Official changelog can be found [here](/#).
-
 [Reddit discussion thread here.](/#)
 
 ---
 
 #Christmas Dungeon - Glittering Wintertide
 
-![Christmas Dungeon Banner](/assets/bf221215/sp_quest_banner_803001.png)
+![Christmas Dungeon Banner](/assets/bf221215/sp_quest_banner_803001.png){:.img-responsive}
 
 * Frozen Dreamland Lv. 1 - In a distant land, bright lights pulsate and melodious songs jingle away.
   * 20 EN, 5 Battles, 1800 XP
@@ -49,7 +47,7 @@ Official changelog can be found [here](/#).
 
 #Frozen Fantasy
 
-![Frozen Fantasy Thumbnail](/assets/bf221215/sphere_thum_818903.png)
+![Frozen Fantasy Thumbnail](/assets/bf221215/sphere_thum_818903.png){:.img-responsive}
 
 Long deemed unconquerable by mere mortals. The stone was lost to the deep wintertide. In one of the coldest winters known to date, it was discovered by a duo who came across it in a forgotten cave, as if being called out by it. Both were immediately ensnared by its power and a great battle for ownership ensued. In the morning, only one walked out of the cave. The direction taken, however, was not towards home but deeper into the wintertide.
 
