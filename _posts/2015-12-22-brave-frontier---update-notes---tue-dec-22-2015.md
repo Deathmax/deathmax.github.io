@@ -6,6 +6,8 @@ tags: []
 
 ---
 
+Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/server-status/266824-server-maintenance-december-22-20-00-pst).
+
 [Reddit discussion thread here.](/#)
 
 ---
