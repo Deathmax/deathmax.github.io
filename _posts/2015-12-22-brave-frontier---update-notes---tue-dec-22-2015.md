@@ -12,6 +12,22 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
+#RS Events
+
+##Special Summon!
+
+From 23 Dec, 07:00 PST ~ 30 Dec, 06:59 PST, enjoy SPECIAL SUMMON Minimum 5 stars and unlock ONE chance at FROSTY SUMMON for every 5 summons! Get Zeruiah through the Summon Gate for limited time.
+
+##Frosty Summon!
+
+From 23 Dec, 7:00 PST ~ 30 Dec, 06:59 PST, enjoy minimum 5 stars and a limited pool of 15 Global Exclusive 7 stars potential units! 
+
+Summon now!
+
+New Units: Zeruiah, Piany, Drevas and Reud are available through the Summon Gate. Zeruiah is only available in the Summon Gate for LIMITED TIME.
+
+Enjoy SPECIAL SUMMON for 5 gems!
+
 #Christmas Dungeon - Glittering Wintertide
 
 ![Christmas Dungeon Banner](/assets/bf221215/sp_quest_banner_803001.png){:.img-responsive}
