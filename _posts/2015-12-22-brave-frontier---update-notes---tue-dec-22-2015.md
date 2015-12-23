@@ -40,7 +40,7 @@ Other Illustrations: [5\*](/assets/bf221215/unit_ills_full_830115.png) \| [6\*](
 * **Cost**: 42
 * **Stats (L)**: 6725 HP / 2510 ATK / 2520 DEF / 2315 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
-* **LS**: +12% XP, +24% BC/HC Drop Rate, +7% Item Drop Rate, +15% Karma Drop Rate, +60% BB Fill Rate
+* **LS**: +12% XP, +24% BC/HC Drop Rate, +7% Item Drop Rate, +15% Karma Drop Rate, +20%% Zel Drop Rate, +60% BB Fill Rate
 * **ES**: +25% DMG Taken to HP (25% Chance), Reduce DMG 25% (25% Chance)
 * **BB**: Cost: 25BC/30DC - 30 Hit 300% Earth and Water AoE (ATK+100), 3000-3300 Heal (+31.7% Healer REC), 3 turns +35% BC/HC Drop Rate Buff, Cure Status Ailments
 * **SBB**: Cost: 40BC/40DC - 40 Hit 540% Earth and Water AoE (ATK+100), Fill Own BB Gauge, 3 turns +35% BC/HC Drop Rate, 3 turns +5% Item Drop Rate, 2 turn All Elements Buff
