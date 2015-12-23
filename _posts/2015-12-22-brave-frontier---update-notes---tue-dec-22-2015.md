@@ -47,7 +47,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **6\* Lore**: Zeruiah was one with the Vale. With the Fae rallied behind, the deity turned wildlife, plants and the very elements against the goblin invaders. Trees uprooted into towering treants that smashed the puny humanoids by the dozens. Stags and boars charged and impaled any greenskins that survived the onslaught of mighty Earth and Water elementals. In one fell swoop, the goblin swarm was defeated and routed out of the Vale. Drawing on her divine powers, Zeruiah erected wards and summoned raging blizzards that would keep out evil monsters. For countless millennia, the Vale flourished and expanded under the protection and rule of Zeruiah. The Fae channeled and constructed majestic Vaults in which they stored all sorts of treasures, tomes and artifacts collected or crafted over the ages. Knowledge of these Vaults gradually leaked to the world outside and many civilizations sought to gain entry into the Vale, fueled by greed and curiosity. From historical records, none made it in.
 * **7\* Lore**: An Eternal Preserver of all the treasures and knowledge of the Vale in the far North, summoned at the behest of the Fae to rule over and protect the land. One day, Zeruiah discovered that a small girl had somehow gotten pass the wards and gained access to the Vale. After observing the girl for days, Zeruiah grew fascinated at how such a young human was able to command the snow and ice. The Fae and animals initially assisted the girl with sustenance at Zeruiah's command, but eventually she was brought into the heart of the Vale. Despite her mistrust of humans, Zeruiah grew to love the girl, training and watching her grow up. Through this encounter, Zeruiah saw that not all humans were evil, and began opening up the Vale to druid tribes and scholars sent by Human kingdoms once every year - marked by a Fae festival called Hanukkah.
 
-#Frozen Fantasy
+##Frozen Fantasy
 
 ![Frozen Fantasy Thumbnail](/assets/bf221215/sphere_thum_818903.png){:.img-responsive}
 
@@ -61,3 +61,20 @@ Long deemed unconquerable by mere mortals. The stone was lost to the deep winter
   * 65 Snow Crystals
   * 60 Snow Gemstones
   * 80 Miracle Frosts
+
+##Grandt and Elaina Buffs
+
+{: .fire}
+###Grandt
+* Normal hit DC increased from 4 to 8 (Max BC Gen from 12 to 32).
+* BB - Max BC Gen increased from 12 to 48.
+* SBB - ATK Down chance increased from 30% to 50%.
+* SBB - HP% to ATK conversion increased from 10% to 15%.
+* UBB - ATK Down increased from -50% to -75%.
+
+{: .earth}
+###Elaina
+* Normal hit DC increased from 1 to 2 (Max BC Gen from 10 to 20).
+* BB - BB Fill/turn increased from 4 to 6.
+* SBB - BB Fill/turn increased from 5 to 6.
+* UBB - Attacks are now 1 frame faster to activate.
