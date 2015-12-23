@@ -8,7 +8,7 @@ tags: []
 
 Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/server-status/266824-server-maintenance-december-22-20-00-pst).
 
-[Reddit discussion thread here.](/#)
+[Reddit discussion thread here.](https://www.reddit.com/r/bravefrontier/comments/3xx8ow/update_notes_tue_dec_22_2015_christmas_update/)
 
 ---
 
@@ -27,7 +27,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 {:.earth}
 #Eternal Preserver Zeruiah
 
-![Illustration](/assets/bf221215/unit_ills_full_830117){:.img-responsive}
+![Illustration](/assets/bf221215/unit_ills_full_830117.png){:.img-responsive}
 
 ![Idle](/assets/bf221215/reindeer_idle.gif){:.img-responsive style="display:inline"}
 ![Attack](/assets/bf221215/reindeer_atk.gif){:.img-responsive style="display:inline"}
