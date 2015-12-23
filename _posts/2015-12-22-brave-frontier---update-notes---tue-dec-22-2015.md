@@ -24,10 +24,14 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
   * 30 EN, 7 Battles, 2600 XP
   * 1 Gem Clear Bonus
 
+Both Glittering Wintertide and Winter Glades Blitz will be open for 1 week.
+
 {:.earth}
 #Eternal Preserver Zeruiah
 
 ![Illustration](/assets/bf221215/unit_ills_full_830117.png){:.img-responsive}
+
+Other Illustrations: [5*](/assets/bf221215/unit_ills_full_830115.png) | [6*](/assets/bf221215/unit_ills_full_830116.png)
 
 ![Idle](/assets/bf221215/reindeer_idle.gif){:.img-responsive style="display:inline"}
 ![Attack](/assets/bf221215/reindeer_atk.gif){:.img-responsive style="display:inline"}
