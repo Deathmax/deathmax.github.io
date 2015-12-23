@@ -70,7 +70,7 @@ Long deemed unconquerable by mere mortals. The stone was lost to the deep winter
 
 {: .fire}
 ###Grandt
-* Normal hit DC increased from 4 to 8 (Max BC Gen from 12 to 32).
+* Normal hit DC increased from 3 to 8 (Max BC Gen from 12 to 32).
 * BB - Max BC Gen increased from 12 to 48.
 * SBB - ATK Down chance increased from 30% to 50%.
 * SBB - HP% to ATK conversion increased from 10% to 15%.
