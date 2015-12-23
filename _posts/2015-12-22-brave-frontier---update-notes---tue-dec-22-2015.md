@@ -37,7 +37,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Stats (L)**: 6725 HP / 2510 ATK / 2520 DEF / 2315 REC 
 * **Imps**: 1100 HP / 440 ATK / 440 DEF / 440 REC
 * **LS**: +12% XP, +24% BC/HC Drop Rate, +7% Item Drop Rate, +15% Karma Drop Rate, +60% BB Fill Rate
-* **ES**: +25% DMG to HP (25% Chance), Reduce DMG 25% (25% Chance)
+* **ES**: +25% DMG Taken to HP (25% Chance), Reduce DMG 25% (25% Chance)
 * **BB**: Cost: 25BC/30DC - 30 Hit 300% Earth and Water AoE (ATK+100), 3000-3300 Heal (+31.7% Healer REC), 3 turns +35% BC/HC Drop Rate Buff, Cure Status Ailments
 * **SBB**: Cost: 40BC/40DC - 40 Hit 540% Earth and Water AoE (ATK+100), Fill Own BB Gauge, 3 turns +35% BC/HC Drop Rate, 3 turns +5% Item Drop Rate, 2 turn All Elements Buff
 * **UBB**: Cost: 30BC - 3 turns +75% Mitigation, +25% Max HP, 3 turns Convert 100% REC to DEF, 3 turns +100% BC/HC Drop Rate, 3 turns +7% Item Drop Rate
