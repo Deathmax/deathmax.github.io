@@ -16,9 +16,13 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ##Special Summon!
 
+![](/assets/bf221215/gacha_rare_bg_img_20151223_Frosty.png){:L .img-responsive}
+
 From 23 Dec, 07:00 PST ~ 30 Dec, 06:59 PST, enjoy SPECIAL SUMMON Minimum 5 stars and unlock ONE chance at FROSTY SUMMON for every 5 summons! Get Zeruiah through the Summon Gate for limited time.
 
 ##Frosty Summon!
+
+![](/assets/bf221215/gacha_rare_bg_img_20151223_xmas.png){:L .img-responsive}
 
 From 23 Dec, 7:00 PST ~ 30 Dec, 06:59 PST, enjoy minimum 5 stars and a limited pool of 15 Global Exclusive 7 stars potential units! 
 
@@ -32,11 +36,11 @@ Enjoy SPECIAL SUMMON for 5 gems!
 
 ![Christmas Dungeon Banner](/assets/bf221215/sp_quest_banner_803001.png){:.img-responsive}
 
-* Frozen Dreamland Lv. 1 - In a distant land, bright lights pulsate and melodious songs jingle away.
+* Frozen Dreamland Lv. 2 - In a distant land, bright lights pulsate and melodious songs jingle away.
   * 20 EN, 5 Battles, 1800 XP
-* Frozen Dreamland Lv. 2 - The snowstorm picks up as you trudge your way towards the castle. Curiously, it seems to be nudging you forward.
+* Frozen Dreamland Lv. 3 - The snowstorm picks up as you trudge your way towards the castle. Curiously, it seems to be nudging you forward.
   * 25 EN, 5 Battles, 2200 XP
-* Frozen Dreamland Lv. 3 - As you approach the artic castle, a shadowy figure watches over you from the top of the tower. What surprises await?.
+* Frozen Dreamland Lv. 4 - As you approach the artic castle, a shadowy figure watches over you from the top of the tower. What surprises await?.
   * 30 EN, 7 Battles, 2600 XP
   * 1 Gem Clear Bonus
 
