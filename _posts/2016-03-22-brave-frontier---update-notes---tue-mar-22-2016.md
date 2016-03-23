@@ -8,7 +8,7 @@ tags: []
 
 Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/server-status/281738-server-maintenance-march-22-22-00-pst).
 
-[Reddit discussion thread here.](#)
+[Reddit discussion thread here.](https://www.reddit.com/r/bravefrontier/comments/4blwdk/7_bonnie_and_carrol_info/)
 
 ---
 
