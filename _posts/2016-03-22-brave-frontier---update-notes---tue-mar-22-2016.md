@@ -62,11 +62,13 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ![Lop Blessing Thumbnail](/assets/bf210316/sphere_thum_818937.png){:.img-responsive}
 
+*Using the essence extracted from Chromatic Blossoms with a strange mechanical contraption Bonnie left behind, the top engineers of Randall crafted an exquisite enhancement charm. It unleashes energy in such great magnitudes that its wearer is said to become able to penetrate any foe's armor.*
+
 * Atk Boosting
 * +200% BB Mod, +50% Elemental Weakness Dmg
 * Recipe:
-  * Chromatic Blossom ![Chromatic Blossom Thumbnail](/assets/bf210316/item_thum_880218.png){:.img-responsive}
-  * 60 Choco Bunnies ![Choco Bunny Thumbnail](/assets/bf210316/item_thum_880217.png){:.img-responsive}
+  * Chromatic Blossom - *A mysterious rainbow colored flower found deep in the forest where Bonnie headed. Rumors say the essence of this flower supplies the luminous energy for Bonnie's cannon.* ![Chromatic Blossom Thumbnail](/assets/bf210316/item_thum_880218.png){:.img-responsive}
+  * 60 Choco Bunnies - *A pungent chocolate said to be only given to the pure-hearted young of Randall by the guardians in the skies. It is a rare and precious Item that should be cherished.* ![Choco Bunny Thumbnail](/assets/bf210316/item_thum_880217.png){:.img-responsive}
   * 75 Rabbit's Foot
   * 60 Ascension Bells
   * 25 Honor Drops
