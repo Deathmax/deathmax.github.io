@@ -25,7 +25,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Stats (L)**: 6720 HP / 2814 ATK / 2346 DEF / 2934 REC 
 * **Imps**: 1050 HP / 480 ATK / 440 DEF / 420 REC
 * **LS**: +50% BB Fill Rate, +25% Reduced BB Cost, +150% BB Mod
-* **ES**: +50% ATK when BB Gauge Full, +100% ATK when enemy has status ailment
+* **ES**: +50% ATK when BB Gauge Full, +100% ATK when enemy has status ailment (for all allies?)
 * **BB**: Cost: 25BC/2DC - 12 Hit 300% Fire, Thunder, and Dark AoE, 65% Chance to inflict any status ailment, 2 turn Def Ignore buff
 * **SBB**: Cost: 25BC/2DC - 15 Hit 300% (???) Fire, Thunder, and Dark AoE, 65% Chance to inflict any status ailment, 2 turn Fire/Thunder/Dark buff, 3 turn +200% BB Mod buff
 * **UBB**: Cost: 30BC/2DC - 18 Hit 1200-2000% AoE based on HP remaining (ATK+100), 3 turn +500% BB Mod, 3 turn +300% ATK when enemy has ailment buff
@@ -83,7 +83,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
   * 1 Gem
   * Chromatic Blossom
 
-##Addition of various units
+## Addition of various units
 
 * Immortal Phoenix Levarza
 * Ocean Conqueror Mega
