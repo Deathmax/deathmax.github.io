@@ -85,12 +85,12 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ## Addition of various units
 
-* Immortal Phoenix Levarza
-* Ocean Conqueror Mega
-* Paladin Crusader Sodis
-* Phantom Victor Zephyr
-* Blazing Dawn Owen
-* Effulgent Dusk Grahdens
+* Immortal Phoenix Levarza (name only)
+* Ocean Conqueror Mega (name only)
+* Paladin Crusader Sodis (name only)
+* Phantom Victor Zephyr (name only)
+* Blazing Dawn Owen (name only)
+* Effulgent Dusk Grahdens (name only)
 * Tartarus Blaze Berdette
 * Tartarus Flood Sareas
 * Tartarus Demolition Dure
