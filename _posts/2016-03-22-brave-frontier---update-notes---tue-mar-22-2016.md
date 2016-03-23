@@ -32,7 +32,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: Thunder Mecha God, Miracle Totem, Metal Mimic, Dark Bulb, Fire Bulb
 * **Lore**: A young girl from the mysterious world of Paskua who looks suspiciously like a rabbit. Bonnie became infamous across Grand Gaia thanks to the immense firepower of her cannon, and her infallible shooting accuracy. Finally having gained the recognition she had so desired as a warrior, instead of being forever branded as just another cute face, she felt so relieved that she no longer felt the need to fight. However, one day as she was passing through a forest, she came across a blonde girl atop a giant rabbit who was fighting single-handedly against a ferocious beast to protect the people of a nearby village. At that moment Bonnie realized that fighting for others was just as important as fighting for herself, leading her to unload her trusty cannon to join the battle. She then modified it with hare-like speed, creating an entirely new machine in a matter of seconds. Legends say that the plasma blast she shot at the menacing beast was so powerful that it completely pulverized the monster, along with one of the mountains beyond the forest.
-* **Evo Dialogue**: All this time I've been fighting to<br>gain a reputation to be proud of.<br>Now the time has come to fight for a good cause!
+* **Evo Dialogue**: All this time I've been fighting to gain a reputation to be proud of. Now the time has come to fight for a good cause!
 
 {:.light}
 # Eggstra Colorful Carrol
