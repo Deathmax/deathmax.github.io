@@ -12,16 +12,16 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#Raid X3 Part 1
+# Raid X3 Part 1
 
-##Rare Summon
+## Rare Summon
 
 ![Rare Summon Gate](/assets/bf251115/gacha_rare_bg_img_201511_globalX3.png){:.img-responsive}
 
-##Units
+## Units
 
 {:.fire}
-###Infernal Ravager Korzan
+### Infernal Ravager Korzan
 
 ![Illustration](/assets/bf251115/unit_ills_full_810317.png){:.img-responsive}
 
@@ -45,7 +45,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 
 {:.water}
-###Boreal Tempest Haile
+### Boreal Tempest Haile
 
 ![Illustration](/assets/bf251115/unit_ills_full_820317.png){:.img-responsive}
 
@@ -69,7 +69,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 <!--more-->
 
-##Items
+## Items
 
 ![Mithril](/assets/bf251115/item_thum_880201.png){: .img-responsive style="display:inline"} 
 ![Orihalcum](/assets/bf251115/item_thum_880202.png){: .img-responsive style="display:inline"}
@@ -80,7 +80,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ![Item](/assets/bf251115/item_thum_880215.png){: .img-responsive style="display:inline"}
 ![Item](/assets/bf251115/item_thum_880216.png){: .img-responsive style="display:inline"}
 
-##Portraits
+## Portraits
 
 ![Portrait](/assets/bf251115/navi_chara80036_1_merged.jpg){: .img-responsive}
 ![Portrait](/assets/bf251115/navi_chara80036_2_merged.jpg){: .img-responsive}
@@ -92,19 +92,19 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ![Portrait](/assets/bf251115/navi_chara80037_4_merged.jpg){: .img-responsive}
 ![Portrait](/assets/bf251115/navi_chara80037_5_merged.jpg){: .img-responsive}
 
-##Map
+## Map
 
 ![Raid Map](/assets/bf251115/raid_map804_merged.jpg){: .img-responsive}
 
-##Boss Shadows
+## Boss Shadows
 
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_806.png){: .img-responsive style="display:inline"}
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_807.png){: .img-responsive style="display:inline"}
 ![Shadow](/assets/bf251115/raid_room_shadow_boss_808.png){: .img-responsive style="display:inline"}
 
-##Missions
+## Missions
 
-###RC3
+### RC3
 
 * Of Wings and Horns
 	* Mission orders from Tilith: Find a way home. It looks like you’ll be here for a while. I’ll look for a way to get you back home. Meanwhile you can make some friends! I saw a friendly looking man with pink hair just behind the forest, go say hello!
@@ -119,7 +119,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 	* Target: Laguna and others
 	* Min 7 medals
 
-###RC4
+### RC4
 
 * White Rabbit (Complete Crowd Control)
 	* Mission orders from Korzan: Defeat Lesnik. The Lesnik is near. Every night we can hear its howls, driving the local eidolons into a frenzy. It’s angry and it doesn’t seem like it’s going away anytime soon. My scouts have discovered its location around the caves. They’ve got the entrances covered so now’s the time to get rid of it.
@@ -134,7 +134,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 	* Target: Nalda Delia and others
 	* Min 5 medals
 
-###RC5
+### RC5
 
 * Queen for a Day (Complete Dazzle in the Dark)
 	* Mission orders from Haile: Defend the keep. That Deva squad that you routed is back, most likely still in pursuit of me. This time they sent eidolons of their own to do their dirty work. Take care of them before they reach the keep and harm more people.
@@ -147,7 +147,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-##Dialogue
+## Dialogue
 
 : A few hours before…
 
@@ -407,6 +407,6 @@ Korzan: I'll be looking forward to a rematch!
 
 ---
 
-#Other
+# Other
 
 * Emgifs added to AS store.

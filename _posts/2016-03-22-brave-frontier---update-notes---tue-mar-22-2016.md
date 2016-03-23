@@ -13,7 +13,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 ---
 
 {:.thunder}
-#Plasma Blaster Bonnie
+# Plasma Blaster Bonnie
 
 ![Illustration](/assets/bf210316/unit_ills_full_840117.png){:.img-responsive}
 
@@ -33,7 +33,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Evo Mat**: Thunder Mecha God, Miracle Totem, Metal Mimic, Dark Bulb, Fire Bulb
 
 {:.light}
-#Eggstra Colorful Carrol
+# Eggstra Colorful Carrol
 
 ![Illustration](/assets/bf210316/unit_ills_full_850157.png){:.img-responsive}
 
@@ -54,7 +54,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Evo Mat**: Light Mecha God, Miracle Totem, Metal Mimic, Water Bulb, Earth Bulb
 
 
-##Lop Blessing
+## Lop Blessing
 
 ![Lop Blessing Thumbnail](/assets/bf210316/sphere_thum_818937.png){:.img-responsive}
 
@@ -68,7 +68,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
   * 25 Honor Drops
 
 
-##Easter Madness Dungeon, Easter Fanfare Lv. 4
+## Easter Madness Dungeon, Easter Fanfare Lv. 4
 
 *Furry creatures led to wings of guardian for the kind hearted.*
 
