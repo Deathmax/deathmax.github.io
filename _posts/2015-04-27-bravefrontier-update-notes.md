@@ -6,13 +6,13 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#New Rare Summons/Rate Ups - New Global Exclusives 7*
+# New Rare Summons/Rate Ups - New Global Exclusives 7*
 
 ![Gate Image](//i.imgur.com/3kja7L5.png){: .img-responsive}
 
 ----
 
-#Slayer Grandt (Mercenary Grandt 6\*, Grandt 5\*)
+# Slayer Grandt (Mercenary Grandt 6\*, Grandt 5\*)
 
 ![7* Illustration](//i.imgur.com/TQvs236.png){: .img-responsive}
 
@@ -29,7 +29,7 @@ category: bravefrontier
 
 ----
 
-#Chrono Mage Elaina (Chrono Mage Elaina 6\*, Elaina 5\*)
+# Chrono Mage Elaina (Chrono Mage Elaina 6\*, Elaina 5\*)
 
 ![7* Illustration](//i.imgur.com/OcurOHm.png){: .img-responsive}
 
@@ -48,8 +48,8 @@ category: bravefrontier
 
 ----
 
-#New Evo Stones
-##One stone required for 5\*>6\*, another for 6\*>7\*
+# New Evo Stones
+## One stone required for 5\*>6\*, another for 6\*>7\*
 
 * ![Ruby Relic](//i.imgur.com/kwAQqqg.png){: .img-responsive} Ruby Relic - A mysterious relic used to evolve the Unit Grandt
 * ![Sanguine Relic](//i.imgur.com/8cy3aeU.png){: .img-responsive} Sanguine Relic - A mysterious relic used to transcend the Unit Mercenary Grandt
@@ -65,14 +65,14 @@ category: bravefrontier
 
 ----
 
-#Unit Lore
-##Grandt
+# Unit Lore
+## Grandt
 
 * Little is known about Grandt's past. It is said that Grandt used to serve in the Elysian royal army and got booted due to his refusal to obey the chain of command. He often devised his own strategies in the field, jeopardizing pre-planned operations. Although his impromptu tactics worked and made his missions a success, his actions were not favored by the leaders of the army. When he left the army, everything bored him other than being on the field. Grandt then started taking contracts from different companies and militant sectors, sometimes working together with other skilled mercenaries on dangerous missions and assassinations. When Elysia came under attack from the gods, he was recruited by the royal court to eliminate Draegar.
 * After being booted from the royal Elysian army,  everything bored Grandt other than being on the field, so he started taking contracts from different companies and militant sectors. When Elysia came under attack from the gods, he was recruited by the royal court to eliminate Draegar, a demi-god sent by the corrupt gods to end the Elysian bloodline by assassinating Estia. Grandt then joined up with a group of mercenaries, where he met Elaina. Although their squad was able to catch Draegar by surprise, it wasn't enough to take him down. Grandt was heavily injured during the fight, but with all her might, Elaina managed to teleport him and herself out of Draegar's reach. With their mercenary group wiped out, Elaina and Grandt had to find new allies following the failed mission attempt. Unfortunately, anyone still left was either fighting the gods back in the kingdom, or running away. As a desperate measure, Grandt assisted Elaina in warping a distress stone into the Vortex which contained time maps of their location in the physical realm.
 * Recruited by the royal court to eliminate Draegar, a demi-god sent by the corrupt gods to end the Elysian bloodline by assassinating Estia. Grandt met Elaina in the ranks of mercenaries he  had joined in order to carry out his mission. However, when his squad caught Draegar off guard, it wasn't enough to defeat him, and the squad was wiped out. Grandt was heavily injured during the fight, and Elaina, who managed to survive long enough, teleported both Grandt and herself to safety. The days following the failed mission attempt, Elaina and Grandt managed to secure the help of a powerful Summoner from the far dimensions of the Vortex. Securing the regions plagued with the advancing enemy forces of the gods, the final showdown with Draegar was at hand. While Grandt led the final offensive against Draegar by scouting ahead, an explosive battle could be heard from a distance before the offensive party arrived to face the crazed demi-god. As the battle with Draegar commenced, Grandt was nowhere to be found. Bloodstained remnants of a gunblade lay wasted on the battle grounds.
 
-##Elaina
+## Elaina
 
 * Elaina came from an ancestry of sorcerers and mages within Elysia that called themselves the "Light of the Grand," who taught her arcane arts from a very young age. She was a talented individual who excelled fast, but resented the backward traditions and rules the conservative guild held. In time, she was able to manipulate energies that could subtly control the flow of time. Before Elaina came to adulthood, her parents perished fighting the northern pirates joining the war against them. Being an orphan under the mage guild's care, she had nothing left but to train even harder everyday to help her cope with her parents' death. When Elaina finally became of age, she bid goodbye to the guild and often took up mercenary contracts to join forces that eliminated threats to the kingdom. When Elysia came under attack from the gods, she was recruited by the royal court to eliminate Draegar.
 * Elaina came from an ancestry of sorcerers and mages within Elysia that called themselves the "Light of the Grand." She trained under this guild order from a very young age and excelled fast. After her parents died fighting the northern pirates, Elaina left the guild when she reached adulthood. By this time, she had become an expert of time energy manipulation. She began taking up mercenary contracts to join forces that dealt with threats to the kingdom. When Elysia came under attack from the gods, she was recruited by the royal court to eliminate Draegar, a demi-god sent by the corrupt gods to end the Elysian bloodline targeting Estia. Elaina then joined up with a group of mercenaries to carry out her mission, where she met Grandt. Although their squad was able to catch Draegar by surprise, it wasn't enough to take him down. Escaping Draegar's deadly pursuit, she spotted Grandt badly injured but still alive. Wrapping her arms around him while muttering a spell, she teleported both Grandt and herself to a safe distance far away. The rest of the mercenary squad had perished, and since the reinforcements left were fighting the gods back in the kingdom or running away, Elaina had no choice but to turn to the Vortex for help. With the assistance of Grandt, she conjured a distress stone that held knowledge of their mission, maps of Elysia, and time maps which pointed to their location on the physical realm. Warping the stone into the Vortex as a signaling beacon, they waited for help to arrive.

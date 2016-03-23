@@ -6,8 +6,8 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#New Rare Summons/Rate Ups - Zerafalgar, Oguro, Aaron
+# New Rare Summons/Rate Ups - Zerafalgar, Oguro, Aaron
 
 ![Gate Image](//i.imgur.com/hFfnUvw.png){: .img-responsive}
 
-##Release time: **25th May, 0700 PST**
+## Release time: **25th May, 0700 PST**

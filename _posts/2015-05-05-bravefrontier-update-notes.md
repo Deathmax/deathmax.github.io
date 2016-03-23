@@ -6,7 +6,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-##[Lethal Cannon Bonnie](http://bravefrontierglobal.wikia.com/wiki/Lethal Cannon Bonnie)
+## [Lethal Cannon Bonnie](http://bravefrontierglobal.wikia.com/wiki/Lethal Cannon Bonnie)
 
 ![Illustration](//i.imgur.com/kNSt9vE.png){: .img-responsive}
 
@@ -18,7 +18,7 @@ category: bravefrontier
 
 ----
 
-##[Eggsecutioner Carrol](http://bravefrontierglobal.wikia.com/wiki/Eggsecutioner Carrol)
+## [Eggsecutioner Carrol](http://bravefrontierglobal.wikia.com/wiki/Eggsecutioner Carrol)
 
 ![Illustration](//i.imgur.com/1uyzelY.png){: .img-responsive}
 

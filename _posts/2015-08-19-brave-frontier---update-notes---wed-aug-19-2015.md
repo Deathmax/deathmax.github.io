@@ -6,7 +6,7 @@ tags: []
 
 ---
 
-#New Client Update - 1.3.6
+# New Client Update - 1.3.6
 
 [Official Changelog](http://news.gumi.sg/bravefrontier/news/files/html/2015-08/maintenanceaug19_1439969149.html)
 
@@ -54,7 +54,7 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 
 ---
 
-#Translated Unit Names
+# Translated Unit Names
 
 * *Oracle Knight Ark*{: .light}
 * *Ominous Lantern Lumie*{: .dark}
@@ -71,7 +71,7 @@ Overdrive will no longer consume a unit's turn. You will be able to activate Ove
 
 ---
 
-#Other Stuff
+# Other Stuff
 
 * Arton/Emperor/Golden God slot images added. They've been added to both slots and SHS.
 

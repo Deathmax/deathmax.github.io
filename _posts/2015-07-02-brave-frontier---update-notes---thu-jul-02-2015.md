@@ -7,7 +7,7 @@ tags: []
 ---
 
 {: .earth}
-#Flora Aegis Edea
+# Flora Aegis Edea
 
 *One of the four legendary warriors who fought to save the Kingdom of Palmyna. Managing to seal Cardes in the underworld, Edea fell into a deep slumber while still clad in her sparkling armor, Lafdranya. However, after hearing her comrades call her name, Edea woke once again, weakening the seal on Cardes in the process. Having decided anew to defeat the Fallen God alongside her dear friends, Edea's Lafdranya transformed itself into a great sword in order to help its owner's will become a reality.*
 
@@ -24,7 +24,7 @@ tags: []
 * **UBB**: Cost: 25BC/21DC - 21 Hit 1000% AoE (ATK+100), Reduce Damage 75% for 1 turn, Inflict Debuff Buff
 
 {: .dark}
-#Inferno Princess Alice
+# Inferno Princess Alice
 
 *Having lost her life in battle, Alice continued to dye her sickle with the blood of her enemies while unconscious. This was due to the fact that she had collected a countless amount of souls while cursing the world during her lifetime. However, Alice suddenly recovered her consciousness when amongst the numerous souls in her body, a light spoke softly to her. She had no recollection of what the light was, but she got a familiar feeling from it nevertheless. As tears streamed down her face, she muttered the word "sister" to herself, and began to fight for her survival with both darkness and light within her.*
 
@@ -41,7 +41,7 @@ tags: []
 * **UBB**: Cost: 20BC/23DC - 23 Hit 1000% AoE (ATK+100), 3 turn +350% REC, Heal 3600-4400 HP (+ 40% Healer REC), Heal 2000-2300 HP (+20% Target REC) for 3 turns
 
 {: .thunder}
-#Celestial Archer Loch
+# Celestial Archer Loch
 
 *One of the four legendary warriors who fought to save the Kingdom of Palmyna. After Edea sacrificed herself in order to save her friends, Loch refused to believe she was dead, striving instead to locate the rest of his comrades who had been scattered during the fight against Cardes. After finding Edea in the underworld, he began to give a eulogy in her honor when Cardes suddenly attacked. It was during this fight that Loch realized his bow had become stronger every time the bonds of friendship he shared with his comrades deepened. And once the person he loved most of all opened her eyes again, the force of his arrows is said to have surpassed that of the gods.*
 
@@ -58,7 +58,7 @@ tags: []
 * **UBB**: Cost: 30BC/40DC - 1 Hit 2000% AoE (ATK+1000,BC Drop+50%), 2 turn Def Ignore Buff, 1 turn +200% Spark Dmg to Self
 
 {: .dark}
-#Beast God Afla Dilith
+# Beast God Afla Dilith
 
 ![Illustration](//i.imgur.com/EU0LZt0.png){: .img-responsive}
 
@@ -73,7 +73,7 @@ tags: []
 [Bonus high-res 5000x4256 17MB illustration](https://deathsnacks.com/bf/assets/b27fb0fdebe57f615992130163ef3156.png)
 
 {: .fire}
-#Raging Blade Owen
+# Raging Blade Owen
 
 ![Illustration](//i.imgur.com/sEj1xs5.png){: .img-responsive}
 
@@ -96,7 +96,7 @@ tags: []
 
 ---
 
-#Global Exclusive Sphere - AX Sphere
+# Global Exclusive Sphere - AX Sphere
 
 ![Sphere Image](//i.imgur.com/0IYvBRk.png){: .img-responsive}
 
@@ -113,7 +113,7 @@ Lots of description grammar fixes.
 
 ---
 
-#Celgrad
+# Celgrad
 
 ![Celgrad image](//i.imgur.com/dPpysZ9.jpg){: .img-responsive}
 
@@ -122,7 +122,7 @@ Lots of description grammar fixes.
 
 ---
 
-#Lem
+# Lem
 
 ![Lem image](//i.imgur.com/eMtDM3s.jpg){: .img-responsive}
 
@@ -131,7 +131,7 @@ Lots of description grammar fixes.
 
 ---
 
-#Frontier Gate
+# Frontier Gate
 
 ![FG banner](//i.imgur.com/lpnyQb9.png){: .img-responsive}
 
@@ -140,7 +140,7 @@ Lots of description grammar fixes.
 
 ---
 
-#Supreme Paradise 9-13 (frogs/imps)
+# Supreme Paradise 9-13 (frogs/imps)
 
 ![Outdated frog banner](//i.imgur.com/vGK0Vt0.png){: .img-responsive}
 
@@ -148,7 +148,7 @@ Lots of description grammar fixes.
 
 ---
 
-#Lira GGC - Disastrous Beast
+# Lira GGC - Disastrous Beast
 
 ![Lira Banner](//i.imgur.com/4Qporb0.png){: .img-responsive}
 
@@ -156,20 +156,20 @@ Lots of description grammar fixes.
 
 ---
 
-#RC5
+# RC5
 
 * Skill text added.
 * Monster names added.
 
 ---
 
-#Phantom of the Kill Collab
+# Phantom of the Kill Collab
 
 * Potk enemy placeholder name.
 
 ---
 
-#Edea GQ (Mission 8/9)
+# Edea GQ (Mission 8/9)
 
 ![Four Heroes of Palmyna GQ Banner](//i.imgur.com/n6lZWfF.png){: .img-responsive}
 
@@ -178,12 +178,12 @@ Lots of description grammar fixes.
 
 ---
 
-#Trial 006 - Afla Dilith
+# Trial 006 - Afla Dilith
 
 * Mission text/descriptions added.
 
 ---
 
-#Karl EX Trial
+# Karl EX Trial
 
 * Sphere text/descriptions added.

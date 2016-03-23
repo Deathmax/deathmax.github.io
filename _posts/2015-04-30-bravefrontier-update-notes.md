@@ -8,7 +8,7 @@ category: bravefrontier
 
 X1 missions available in RC1/RC2 now. 4 missions are available at the moment. 
 
-###Pursuer of the Gods
+### Pursuer of the Gods
 
 *When the gods commenced their attack, King Radmuhl of Elysia was torn between putting up a fight or abandoning his kingdom. As the La Veda Republic fell to the power of the gods, unwilling to leave his throne, the king ordered his finest knight Xenon, to take his daughter to safety.*
 

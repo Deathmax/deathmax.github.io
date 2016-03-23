@@ -6,12 +6,12 @@ tags: []
 
 ---
 
-#New SBS 7* - Zedus/Andaria
+# New SBS 7* - Zedus/Andaria
 
 Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style="display:inline"} ![Miracle Totem](https://i.imgur.com/EpBmO7Z.png){: .img-responsive style="display:inline"} ![Elemental Totem](https://i.imgur.com/WyGaA2a.png){: .img-responsive style="display:inline"} ![Metal Mimic](https://i.imgur.com/3KRn6Ok.png){: .img-responsive style="display:inline"} ![Elemental Bulb](https://i.imgur.com/QUT5xlJ.png){: .img-responsive style="display:inline"}
 
 {: .earth}
-#Ruinous Andaria
+# Ruinous Andaria
 
 ![Ruinous Andaria Illustration](https://i.imgur.com/0yn392q.png){: .img-responsive}
 
@@ -30,7 +30,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Lore**: Somewhere deep within a forest not too far from the old capital of Athensphere, rumors of a large resistance force fighting Gazia's machines in the region spread. Countless mechs riddled with holes were lay strewn across the forest ground. However, the rumors were part of a reckless but desperate plan hatched by Andaria to draw the attention of her allies. Harnessing the power granted by the Euryalis, Andria was able to sense her enemies even before seeing them. She could feel their every movement from miles away, then attack from incredible distances by rainning down missiles upon them with deadly accuracy. Depsite her dire situation, she was thankful that Ultor had assigned her to defend a different location of the city. Deep beneath the ruined city of Athensphere unbeknowst to all except for a select few historians of Athensphere was a massive library housing centuries worth of information and knowledge. There, sealed within an emergency life support system slept the lord of Athensphere. With neither the means nor resources to revive him, Andaria countinued hunting, hoping that her efforts would draw the attention of her allies.
 
 {: .thunder}
-#Imperator Zedus
+# Imperator Zedus
 
 ![Imperator Zedus Illustration](https://i.imgur.com/w8MSh6f.png){: .img-responsive}
 
@@ -50,7 +50,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ---
 
-#SBS Dungeons
+# SBS Dungeons
 
 All SBS dungeons are open for the next 5 days.
 
@@ -66,6 +66,6 @@ New banners suggest weekly openings (every Thursday).
 
 ---
 
-#SBS Gate
+# SBS Gate
 
 ![Images](https://i.imgur.com/pXviUkn.png){: .img-responsive}

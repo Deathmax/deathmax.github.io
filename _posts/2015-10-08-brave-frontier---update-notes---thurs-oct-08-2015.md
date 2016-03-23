@@ -10,18 +10,18 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#This is pre-release data, data subject to change.
+# This is pre-release data, data subject to change.
 
 ---
 
-#Chain Chronicles Collab
+# Chain Chronicles Collab
 
-![Dungeon #1](https://i.imgur.com/u9U7KRX.png){: .img-responsive}
-![Dungeon #2](https://i.imgur.com/PVHKgFt.png){: .img-responsive}
+![Dungeon # 1](https://i.imgur.com/u9U7KRX.png){: .img-responsive}
+![Dungeon # 2](https://i.imgur.com/PVHKgFt.png){: .img-responsive}
 
 
 {: .light}
-##Silver Wolf Barienna 6*
+## Silver Wolf Barienna 6*
 
 ![5 Star Illustration](https://i.imgur.com/8RINwHW.png){: .img-responsive}
 ![6 Star Illustration](https://i.imgur.com/oyxSXIo.png){: .img-responsive}
@@ -39,7 +39,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Evo Mat**: Miracle Totem, Light Totem, Light Pot, Light Idol, Dragon Mimic
 * **Lore**: A forest sprite from another world guided by the Chain Chronicle. As the avatar of the Silver Wolf, Barienna possesses far more power than the average forest sprite. Pure of heart and devoted towards the people of Sea Breeze, she chooses to use her powers to defend her people from the evil-doers that seek to harm them. Barienna is able to create a magical barrier that blocks most forms of damage. Not only is she adept at using magic, she is also a highly talented swordswoman, capable of standing her own ground when faced with a powerful opponent. Behind the harsh exterior Barienna displays, she is pure of heart and would give her life to protect the lives of those she loves.
 
-##Other CC Names
+## Other CC Names
 
 * Sorcerer's Army Velnar
 * Sorcerer's Army Yuni
@@ -50,11 +50,11 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#Trial X4
+# Trial X4
 
 *I’ve finally done it!! My research has led me to this man of great importance. There is much I would like to ask him but first, would you like a challenge?*
 
-##Rewards
+## Rewards
 
 * 1 Gem
 * ~~Euryalis’ Grace - Mat for Bow of Andaria~~
@@ -63,14 +63,14 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * 90000 XP
 * 3000000 Zel
 
-##Requirements
+## Requirements
 
 * Trial 001
 * GQ X1
 * Trial X3
 
 {: .light}
-##Mad Heretic Gazia 7*
+## Mad Heretic Gazia 7*
 
 ![6 Star Illustration](https://i.imgur.com/tJbHsHD.png){: .img-responsive}
 ![7 Star Illustration](https://i.imgur.com/Y5uXNpS.png){: .img-responsive}
@@ -96,7 +96,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
   * **Get 6\***: Well, well… what do we have here? Another "Child of the Prophecy"? This should be highly entertaining!
   * **Get 7\***: Pinnacle? Limits? Such are the concepts that I simply cannot fathom! I am of unlimited potential!
 
-##Trial Dialogue
+## Trial Dialogue
 
 * So this is the technology of the future. How primitive...
 * There is no power in flesh. Only weakness.
@@ -106,7 +106,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * The only certainty of flesh is death!!
 * Fascinating! His prowness in battle is greatly augmented by his brilliant mind. I’ve gleaned much just from your fight alone. You may leave now!
 
-##Trial Enemies
+## Trial Enemies
 
 * Gazia
 * Mad Heretic Gazia
@@ -116,7 +116,7 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#Level Up Rewards
+# Level Up Rewards
 
 {: .table}
 |Level|Rewards|
@@ -134,9 +134,9 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#Challenge Arena Help
+# Challenge Arena Help
 
-##Rules
+## Rules
 
 Flaunt your powers and embark on a journey to challenge other Summoners of the land! Destroy all that stand before you and bask in the glory of your victories!
 
@@ -150,7 +150,7 @@ Flaunt your powers and embark on a journey to challenge other Summoners of the l
 * SAME POINTS : In the case of two or more players having the same ranking points, the first player who achieved the points will be ranked on top of the others.
 * ENTRY & END TIME : Summoners will be assigned to different groups where they will start and end the battles at different time.
 
-##Leagues
+## Leagues
 
 The Challenge Arena is divided into 3 Leagues: 
 
@@ -168,7 +168,7 @@ Get to the Legendary League and reap the rewards that you truly deserve!
 
 You can get ranking rewards as long as you have participated in battles and obtained ranking points.
 
-##Battles
+## Battles
 
 You will face a series of progressively stronger opponents. Defeat them to gain ranking points and drops!
 
@@ -188,13 +188,13 @@ If the timer runs out before any squad has been defeated, the following conditio
 * Inflicted Statuses will all last for 1 turn. 
 * Status Infliction rate has been capped.
 
-##Scoring
+## Scoring
 
 When setting up your squad for battle, there is a "Brave Bonus" displayed. Use this as a guide for maximum points gain!
 
 The stronger the opponent squad is relative to your current squad, the higher the bonus.
 
-##Unit Management
+## Unit Management
 
 Units are automatically available in the squad reserve. There are 2 sets of requirements for a unit to qualify to battle in the Challenge Arena. They are : 
 
@@ -205,7 +205,7 @@ Units are automatically available in the squad reserve. There are 2 sets of requ
 2. League Unit Requirements 
  * You can check the League Requirements at the notice board before you enter the Challenge Arena.
 
-##Tips
+## Tips
 
 SQUAD SETUP TIP
 
@@ -227,7 +227,7 @@ BATTLE TIP
 
 Make use of your knowledge of the opponent's squad (countering elements, skills, statuses etc...) to help you gain a higher "Brave Bonus"!
 
-##Rewards
+## Rewards
 
 Collect gold and silver coins for purchasing great items from the Arena shop, and gather the Rainbow coins from defeated opponents to summon more Units to your army!
 
@@ -241,18 +241,18 @@ You can check your current ranking rewards from:
 
 ---
 
-#Zedus/Andaria ES Spheres
+# Zedus/Andaria ES Spheres
 
 ~~Mats are obtained from clearing X4.~~
 
-##Bow of Andaria
+## Bow of Andaria
 
 * Status Boost
 * +30% HP/ATK, +150% BB Modifier
 * Materials: Euryalis’ Grace, Void Chunk
 * Lore: The bow once used by the gifted Andaria was a difficult and heavy weapon to use. Without a proper bowstring attached to it, the bow instead draws power from its bearer and turns it into a lethal projectile of pure energy. Masters of the weapon like Andaria could fire a variety of projectiles types, from a barrage of bolts to a high-powered shot. Reforged by a mysterious smith, this replica is still a lethal weapon that could effectively convert one’s own spritual energy into devastating bolt of energy.
 
-##Spear of Zedus
+## Spear of Zedus
 
 * Status Boost
 * +20% All Stats, +4-6 BC on Crit
@@ -261,6 +261,6 @@ You can check your current ranking rewards from:
 
 ---
 
-#Other Things
+# Other Things
 
 * Raid rest HP recovery now equal across all unit types.

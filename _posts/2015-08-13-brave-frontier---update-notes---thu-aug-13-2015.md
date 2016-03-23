@@ -8,12 +8,12 @@ tags: []
 
 Official update notes can be found over at the [forums](http://forums.gumi.sg/forum/news-boards/server-status/234853-server-maintenance-august-13-03-00-pst).
 
-#Water Vortex Arena
+# Water Vortex Arena
 
 ![Banner Image](//i.imgur.com/E1xstmv.png){: .img-responsive}
 
 {: .water}
-##Abyssal Wing Sae (5*)
+## Abyssal Wing Sae (5*)
 
 ![Sae](//i.imgur.com/SBAT11K.png){: .img-responsive}
 
@@ -26,26 +26,26 @@ Official update notes can be found over at the [forums](http://forums.gumi.sg/fo
 * **LS**: Jellypalooza - 50% boost to Atk & 5% boost to critical hit rate for Water types
 * **BB**: Artifical Arcadia - 15 combo powerful Water attack on all enemies and great boost to Atk of all Water type units
 
-##Spheres
+## Spheres
 
 * Water Blade - Boosts max HP and Def by 5% & boosts Atk for Water types by 20%
 * Tidal Blade - Boosts max HP and Def by 10% & boosts Atk for Water types by 35%
 
 ---
 
-#RS Rate Ups
+# RS Rate Ups
 
-##13th Aug - Oulu/Will/Altri (Prepare for 7*)
+## 13th Aug - Oulu/Will/Altri (Prepare for 7*)
 
 ![Oulu Batch Rate Up Gate Image](//i.imgur.com/49Z8CYM.png){: .img-responsive}
 
-##Sometime in August - 100% Water
+## Sometime in August - 100% Water
 
 ![100% Water Gate Image](//i.imgur.com/DvYnmpd.png){: .img-responsive}
 
 ---
 
-#Level Up Campaign (100 - 150)
+# Level Up Campaign (100 - 150)
 
 {: .table}
 |Level|Reward|

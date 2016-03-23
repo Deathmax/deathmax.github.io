@@ -6,7 +6,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-##**Group 1:**   
+## **Group 1:**   
 May 13, 7:00 until May 14, 6:59 PST   
 (May 13, 8:00 until May 14, 7:59 PDT)   
 
@@ -19,7 +19,7 @@ May 13, 7:00 until May 14, 6:59 PST
 * Light: Melchio  
 * Dark: Semira  
    
-##**Group  2:**  
+## **Group  2:**  
 May 14, 7:00 until May 15, 6:59 PST  
 (May 14, 8:00 until May 15, 7:59 PDT)  
 
@@ -30,7 +30,7 @@ May 14, 7:00 until May 15, 6:59 PST
 * Light: Yujeh  
 * Dark: Ivris  
    
-##**Group  3:**  
+## **Group  3:**  
 May 15, 7:00 until May 16, 6:59 PST  
 (May 15, 8:00 until May 16, 7:59 PDT)  
 
@@ -41,7 +41,7 @@ May 15, 7:00 until May 16, 6:59 PST
 * Light: Eva  
 * Dark: Lilly Matah  
    
-##**Group  4:**  
+## **Group  4:**  
 May 16, 7:00 until May 17, 6:59 PST  
 (May 16, 8:00 until May 17, 7:59 PDT)  
 
@@ -52,7 +52,7 @@ May 16, 7:00 until May 17, 6:59 PST
 * Light: Narza  
 * Dark: Kuda  
    
-##**Group  5:**  
+## **Group  5:**  
 May 17, 7:00 until May 18, 6:59 PST  
 (May 17, 8:00 until May 18, 7:59 PDT)  
 
@@ -63,7 +63,7 @@ May 17, 7:00 until May 18, 6:59 PST
 * Light: Kira  
 * Dark: Shida  
    
-##**Group  6:**  
+## **Group  6:**  
 May 18, 7:00 until May 19, 6:59 PST  
 (May 18, 8:00 until May 19, 7:59 PDT)  
 

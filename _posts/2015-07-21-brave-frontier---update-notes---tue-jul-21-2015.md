@@ -6,13 +6,13 @@ tags: []
 
 ---
 
-#Waiting for patch/maintanence for more details.
+# Waiting for patch/maintanence for more details.
 
-#Exclusive Unit RS
+# Exclusive Unit RS
 
 ![RS Gate Image](//i.imgur.com/uA1HX8O.png){: .img-responsive}
 
-#1.3.4 Client New Features
+# 1.3.4 Client New Features
 
 * Ability to set dedicated arena squads.
 * Multiple slots per try.
@@ -20,10 +20,10 @@ tags: []
 
 ---
 
-#Tridon/Ultor stats are pre-release and may change before release.
+# Tridon/Ultor stats are pre-release and may change before release.
 
 {: .water}
-#Tridon 7*
+# Tridon 7*
 ![Tridon 7*](//i.imgur.com/jozsHgx.png){: .img-responsive}
 
 * **Hits/DC**: 12/2 (140% Dmg)
@@ -39,7 +39,7 @@ tags: []
 * Due to timing issues, none of the BB buffs apply on attack.
 
 {: .fire}
-#Ultor 7*
+# Ultor 7*
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
 
 * **Hits/DC**: 11/2 
@@ -57,7 +57,7 @@ tags: []
 ---
 
 {: .thunder}
-#Deimos Thunderborn
+# Deimos Thunderborn
 
 ![Deimos 6*](//i.imgur.com/8i1YuQV.png){: .img-responsive}
 ![Deimos 7*](//i.imgur.com/wfYDwi9.png){: .img-responsive}
@@ -80,7 +80,7 @@ tags: []
 * 7\* Lore: *Like Zedus, the leader of the demigods, Deimos had a strong affinity to the element of Thunder. Deimos's massive figure towered over the battlefield, and his very presence alone bolstered the morale of Zedus's men. He also favored fighting deep within enemy ranks alone, where he could unleash his full strength with minimal collateral damage. Every blow from Forgebreaker onto the ground sounded like the clap of thunder, shattering the earth beneath his feet. In time, Deimos's legendary feats on the battlefield made him a high priority target. His very presence was a big enough threat that it drew the attention of enemy forces away from his allies and onto him. When word of Gazia's attempt to create a gate to escape the void reached his ears, he lead a small strike team toward the site. What became of him thereafter remains unknown.*
 
 {: .dark}
-#Obsidian Seraph Zenia
+# Obsidian Seraph Zenia
 
 ![Zenia 6*](//i.imgur.com/tQKnGAN.png){: .img-responsive}
 ![Zenia 7*](//i.imgur.com/p9sZdP7.png){: .img-responsive}
@@ -104,9 +104,9 @@ tags: []
 
 ---
 
-#Bestie Batch
+# Bestie Batch
 
-##Translated Names (7*)
+## Translated Names (7*)
 
 * *Inferno Rifle Bestie*{: .fire style="font-style: normal"}
 * *Lance Champion Vernil*{: .water style="font-style: normal"}
@@ -117,6 +117,6 @@ tags: []
 
 ---
 
-#Old Unit Revamp (After Maintanence)
+# Old Unit Revamp (After Maintanence)
 
 A long overdue update (JP has had this since 17th November 2014). Details can be found on this old [Reddit thread](https://www.reddit.com/r/bravefrontier/comments/2m50am/update_notes_jp_13_november_2014/).

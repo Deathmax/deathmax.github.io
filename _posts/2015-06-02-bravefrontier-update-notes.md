@@ -6,7 +6,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#Reed 6* Batch - Released
+# Reed 6* Batch - Released
 
 ![Unit Batch Image](//i.imgur.com/WF7QpHl.png){: .img-responsive}
 
@@ -21,7 +21,7 @@ Evo Materials: Miracle Totem, Elemental Totem, Elemental Pot, Elemental Idol, Me
 
 <!--more-->
 
-#Grand Quest
+# Grand Quest
 
 * Dialogue is now translated until Mission 7.
 * Several images until Mission 5.

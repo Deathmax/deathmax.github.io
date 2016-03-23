@@ -8,7 +8,7 @@ category: bravefrontier
 {% include JB/setup %}
 
 {: .dark}
-#Temptress Xie'Jing (6*)
+# Temptress Xie'Jing (6*)
 
 ![Illustration](//i.imgur.com/HByzblL.png){: .img-responsive}
 
@@ -25,37 +25,37 @@ category: bravefrontier
 
 ---
 
-#Trial X3
+# Trial X3
 
 [Reddit Megathread](//www.reddit.com/r/bravefrontier/comments/3apmk8/trial_x3_xie_jiang_megathread/)
 
 [/u/Xerte's AI/Stats for X3](//www.reddit.com/r/bravefrontier/comments/3aq8ia/trial_x3_xiejing_stats_skill_data_ai/)
 
-##Reward
+## Reward
 
 * Temptress Xie'Jing
 * 1 Gem
 * 3000000 Zel
 * 60000 XP
 
-##Requirements
+## Requirements
 
 Trial 001 (Karl), X1, X2
 
-##Enemies
+## Enemies
 
 * Xie'Jing
 * All 3 evolutions of Fei.
 * 2 Bozdells.
 
-##Dialogue
+## Dialogue
 
 * Come to join me too, little darling?
 * Sticking your nose where it does not belong will get you killed!
 * Your soul shall be mine!!
 * The witch's power of manipulation is noteworthy. I will add this to my data. Oh, you're still here?
 
-##Skills
+## Skills
 
 * Cursed Strike - AoE 135% atk, 15% curse poison, 15% chance reduce 20% bb
 * Vile Grudge - Single 165% atk, 100% curse poison
@@ -91,7 +91,7 @@ Trial 001 (Karl), X1, X2
 ---
 
 {: .water}
-#Water Vortex Arena Unit - Abyssal Wing Sae (5*)
+# Water Vortex Arena Unit - Abyssal Wing Sae (5*)
 
 *I can't believe that I'm pairing up with lowly being like you! Just call me queen and we're even.*
 
@@ -103,12 +103,12 @@ Trial 001 (Karl), X1, X2
 <!--more-->
 ---
 
-#Ruby Batch
+# Ruby Batch
 
 * 6\* to 7\* Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Dragon Mimic, Metal Mimic
 
 {: .fire}
-##Phoenix Torque Ruby
+## Phoenix Torque Ruby
 
 ![Illustration](//i.imgur.com/P4Kv03B.png){: .img-responsive}
 
@@ -123,7 +123,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 25BC/34DC - 34 Hit 1000% AoE (ATK+100), 3 turn 100% REC->ATK buff, 3 turn Hit Count +2 buff
 
 {: .water}
-##Tidal Nacre Medina
+## Tidal Nacre Medina
 
 ![Illustration](//i.imgur.com/eYINbE7.png){: .img-responsive}
 
@@ -138,7 +138,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1000% AoE (ATK+100), 2 turn +500% BB/SBB/UBB Mod, Reduce Damage 75% for 1 turn
 
 {: .earth}
-##Cyclonic Blades Dion
+## Cyclonic Blades Dion
 
 ![Illustration](//i.imgur.com/UqUUsDK.png){: .img-responsive}
 
@@ -153,7 +153,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1200% AoE (ATK+100), 3 turn +150% Spark Dmg
 
 {: .thunder}
-##Roaring Crash Balgran
+## Roaring Crash Balgran
 
 ![Illustration](//i.imgur.com/cc8xr26.png){: .img-responsive}
 
@@ -168,7 +168,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 25BC/20DC - 20 Hit 1000% AoE (ATK+100), 3 turn 100% DEF->ATK buff, 2 turn Water Dmg 100% Reduction
 
 {: .light}
-##Resplendent Queen Rinon
+## Resplendent Queen Rinon
 
 ![Illustration](//i.imgur.com/TDrpNVO.png){: .img-responsive}
 
@@ -183,7 +183,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 30BC/22DC - 22 Hit 1000% AoE (ATK+100), Heal 98999-99999 HP (+10% Target REC) for 3 turns, 3 turn +50% BB Fill Rate
 
 {: .dark}
-##Grand Malediction Yuura
+## Grand Malediction Yuura
 
 ![Illustration](//i.imgur.com/oGtgYjI.png){: .img-responsive}
 
@@ -199,14 +199,14 @@ Trial 001 (Karl), X1, X2
 
 ---
 
-#Edea 7* Batch
+# Edea 7* Batch
 
 * Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Legend Stone
 
-##Names are temporary.
+## Names are temporary.
 
 {: .earth}
-##Armor Goddess Edea
+## Armor Goddess Edea
 
 ![Illustration](//i.imgur.com/LflUXwG.png){: .img-responsive}
 
@@ -221,7 +221,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 25BC/21DC - 21 Hit 1000% AoE (ATK+100), Reduce Damage 75% for 1 turn, Inflict Debuff Buff
 
 {: .thunder}
-##Azure Judgment Bow Loch
+## Azure Judgment Bow Loch
 
 ![Illustration](//i.imgur.com/NUlvsah.png){: .img-responsive}
 
@@ -236,7 +236,7 @@ Trial 001 (Karl), X1, X2
 * **UBB**: Cost: 30BC/40DC - 1 Hit 2000% AoE (ATK+1000,BC Drop+50%), 2 turn Def Ignore Buff, 1 turn +200% Spark Dmg to Self
 
 {: .dark}
-##Otherworldly Princess Alice
+## Otherworldly Princess Alice
 
 ![Illustration](//i.imgur.com/gYYzyqz.png){: .img-responsive}
 
@@ -252,6 +252,6 @@ Trial 001 (Karl), X1, X2
 
 ---
 
-#Grand Quest
+# Grand Quest
 
 * Text added until mission 7.

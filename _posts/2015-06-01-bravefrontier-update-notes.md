@@ -14,7 +14,7 @@ This likely to start at about 07:00 PST and Super Rare Summon should be up as we
 
 <!--more-->
 
-##Tundra Scales Zerafalgar - BC
+## Tundra Scales Zerafalgar - BC
 
 * Water - Hits/DC 8/2 - Cost 40
 * **Stats (L)**: 6879 HP / 2431 ATK / 2205 DEF / 1941 REC - Imps: 1500 HP / 300 ATK / 300 DEF / 300 REC
@@ -24,7 +24,7 @@ This likely to start at about 07:00 PST and Super Rare Summon should be up as we
 * **SBB**: Cost: 24BC/32DC - 32 Hit 500% AoE (ATK+100), 3 turn +30% BC Drop Rate Buff, 3 turn 5 BC/turn
 * **UBB**: Cost: 28BC/40DC - 40 Hit 1000% AoE (ATK+100), -50% ATK {100%} for 3 turns
 
-##Flaring Massacre Rize
+## Flaring Massacre Rize
 
 * Thunder - Hits/DC 10/2 - Cost 40
 * **Stats (L)**: 6585 HP / 2582 ATK / 2170 DEF / 2124 REC - Imps: 1000 HP / 600 ATK / 300 DEF / 400 REC
@@ -34,7 +34,7 @@ This likely to start at about 07:00 PST and Super Rare Summon should be up as we
 * **SBB**: Cost: 28BC/19DC - 19 Hit 200-850% AoE depending on HP remaining (ATK+100), 2 turn Def Ignore Buff
 * **UBB**: Cost: 20BC/22DC - 22 Hit 1000-2500% AoE depending on HP remaining (ATK+100)
 
-##Demon Champion Raaga - Spark Buffer
+## Demon Champion Raaga - Spark Buffer
 
 * Light - Hits/DC 11/2 - Cost 40
 * **Stats (L)**: 6737 HP / 2424 ATK / 2322 DEF / 2019 REC - Imps: 1100 HP / 440 ATK / 440 DEF / 440 REC

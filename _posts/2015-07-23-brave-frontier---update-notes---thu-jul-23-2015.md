@@ -6,12 +6,12 @@ tags: []
 
 ---
 
-#Units
+# Units
 
 * Tridon/Ultor Evo Mat: Mecha God, Miracle Totem, Elemental Totem, Metal Mimic, Elemental Bulb
 
 {: .fire}
-##Herculean Ultor
+## Herculean Ultor
 ![Ultor 7*](//i.imgur.com/sOhEXAM.png){: .img-responsive}
 
 **Lord Stats/Imps**
@@ -41,7 +41,7 @@ BC Cost: 28 // Max BC Gen: 18
 * **7\* Lore**: *Even after the old Gods forsook the demigods, war raged on across the ruins of Athensphere within the Void. When it seemed as if all hope was lost, something stirred Ultor's soul. With every passing moment, his rage and thirst for battle grew stronger. During a raid on one of Gazia's secret hideouts, they were ambushed by a massive mechanical titan. A fierce battle ensued, resulting in the decimation of nearly the entire squad. The sight of his fallen men sent Ultor into a blinding rage. At that moment, it was as if Ultor were the manifestation of wrath itself. The soul of a flaming Titan could be seen towering behind Ultor, tearing apart Gazia's mechanical monstrosity. All that was left in the aftermath was a mountain of scrap metal with a red figure ablaze standing atop it. On that day, a Titan was born.*	
 
 {: .water}
-##Neptunian Tridon
+## Neptunian Tridon
 ![Tridon 7*](//i.imgur.com/jozsHgx.png){: .img-responsive}
 
 **Lord Stats/Imps**
@@ -70,7 +70,7 @@ BC Cost: 30 // Max BC Gen: 25
 
 * **7\* Lore**: *When the demigods of Athensphere proved to be beyond control, the old Gods cast the entire civilization into the Void, flinging their world into chaos. Cut off from all reinforcements, Gazia deployed a massive mechanical Leviathan to hunt Tridon down while he was vulnerable. The weakened Tridon was swallowed into the belly of the beast, where he became its prisoner and his powers were sealed. Tridon refused to surrender and give up hope, so he bid his time and slowly drained power off the Leviathan. After countless days passed siphoning power from the beast, Tridon unleashed all of the power he had accumulated. From within the Leviathan sprouted a three-headed Hydra made of pure energy. Using his newfound power, Tridon reduced the Leviathan into a mangled heap. Realizing his potential, a spark ignited within Tridon's soul. He realized that he could end the war...and perhaps lead Athensphere into a new age of glory.*	
 
-##Others
+## Others
 
 * Old unit revamp (7 months late). Details can be found on this old [Reddit thread](https://www.reddit.com/r/bravefrontier/comments/2m50am/update_notes_jp_13_november_2014/).
 * Bestie's batch has been added.
@@ -81,9 +81,9 @@ BC Cost: 30 // Max BC Gen: 25
 
 ---
 
-#Items
+# Items
 
-##Synced with JP's revamp
+## Synced with JP's revamp
 
 * Legend Stone - Now stacks to 99.
 * Forgebreaker (Deimos ES sphere) - Stat sphere: +20% All Stats, Fill 2 BC/turn
@@ -135,32 +135,32 @@ BC Cost: 30 // Max BC Gen: 25
 
 ---
 
-#Raid X2
+# Raid X2
 
-##Characters
+## Characters
 
 ![Centurion](//i.imgur.com/7ZTcelX.png){: .img-responsive}
 ![Phaeton](//i.imgur.com/Z3psycp.png){: .img-responsive}
 
-##Backgrounds
+## Backgrounds
 
-![BG #1](//i.imgur.com/i2MeJV4.jpg){: .img-responsive}
-![BG #2](//i.imgur.com/2q9745B.jpg){: .img-responsive}
+![BG # 1](//i.imgur.com/i2MeJV4.jpg){: .img-responsive}
+![BG # 2](//i.imgur.com/2q9745B.jpg){: .img-responsive}
 
-##Maps
+## Maps
 
-![Map #1](//i.imgur.com/XB5XMZu.jpg){: .img-responsive}
-![Map #2](//i.imgur.com/Ispxg2w.jpg){: .img-responsive}
-![Map #3](//i.imgur.com/pNXILol.jpg){: .img-responsive}
-![Map #4](//i.imgur.com/R9ircM3.jpg){: .img-responsive}
-![Map #5](//i.imgur.com/HMZDtM2.jpg){: .img-responsive}
-![Map #6](//i.imgur.com/iI3VQjw.jpg){: .img-responsive}
-![Map #7](//i.imgur.com/chg3ShP.jpg){: .img-responsive}
-![Map #8](//i.imgur.com/Rft55M5.jpg){: .img-responsive}
+![Map # 1](//i.imgur.com/XB5XMZu.jpg){: .img-responsive}
+![Map # 2](//i.imgur.com/Ispxg2w.jpg){: .img-responsive}
+![Map # 3](//i.imgur.com/pNXILol.jpg){: .img-responsive}
+![Map # 4](//i.imgur.com/R9ircM3.jpg){: .img-responsive}
+![Map # 5](//i.imgur.com/HMZDtM2.jpg){: .img-responsive}
+![Map # 6](//i.imgur.com/iI3VQjw.jpg){: .img-responsive}
+![Map # 7](//i.imgur.com/chg3ShP.jpg){: .img-responsive}
+![Map # 8](//i.imgur.com/Rft55M5.jpg){: .img-responsive}
 
-##Missions
+## Missions
 
-###RC1
+### RC1
 
 * An Ancient Land - *Mission orders from Akras Summoners’ Hall: Investigate site of incident. We have detected a massive tear to the void rifts of the vortex. According to the reports, a massive piece of land, big enough to fit Randall several times over, fell out of it into the sea. The mysterious appearance of the floating land masses and the giant rift tear poses a threat to the stability and safety of the region. All abled Summoners are to investigate, pinpoint the cause and close the rift.*
 	* Min 1 medal
@@ -172,7 +172,7 @@ BC Cost: 30 // Max BC Gen: 25
 	* Min 1 medal.
 	* **Medronomus**
 
-###RC2
+### RC2
 
 * A Chance Encounter - *Mission orders from Deimos: Search ruins for source of energy. Energy levels are spiking in location but the entrance is being shielded and channelled somewhere else. We have to take out whatever is guarding it and find the source of this huge energy spike. Hopefully we might find the answers we seek.*
 	* Min 2 medals.
@@ -181,7 +181,7 @@ BC Cost: 30 // Max BC Gen: 25
 	* Min 2 medals.
 	* **Laguna Rex** (Timber Nut, Shiny Nut, Water Eye, Red Drop, Heth Feather, Musa Feather)
 
-###RC3
+### RC3
 
 * The Land of Demi-Gods - *Mission orders from Deimos: Secure a camp for rebel . The rebels have been losing the fight while I was down below. They’ve withdrawn back into the forest and have been waging guerrilla warfare on Gazia’s troops. Now that I’m back with reinforcements we need to take back lost ground and secure a foothold.*
 	* Min 4 medals.
@@ -191,7 +191,7 @@ BC Cost: 30 // Max BC Gen: 25
 	* **Claudalus** (Blaze Pelt, Giant Claw, Flame Jewel, Demon Claw, Musa Feather) & **Melion** (Spirit Eye, Light Eye, Fujin Eye, Queen Jewel, God Stone) & **Phaeton** (Daze Claw, Lost Claw, Thunder Eye, Holy Light, Gold Drop)
 
 
-###RC4
+### RC4
 
 * Memoirs of a Valkyrie - *Mission orders from Zenia. This one remembers this land when it was a shining beacon of light, a symbol of peace and all we worked to achieved. It was a beautiful sight to behold. It pains this one to see it in flames and ruin now. The meadows and streets this one used to play in are now overrun by monsters, both humanoid and otherwise. Will you aid this one in ousting Gazia’s minions from my home?*
 	* Min 7 medals.
@@ -206,7 +206,7 @@ BC Cost: 30 // Max BC Gen: 25
 	* Min 5 medals.
 	* **Centurion** (Frozen Pelt, Tragedy Drop, Holy Light, Solid Flame, Cataract Ore, Fire Eye) and **Mistzug** (Daze Claw, Lost Claw, Thunder Eye, Holy Light, Gold Drop, Forge Stone, Angel Tear, Ghost Jewel, Phantom Eye, Grief Eye)
 
-###Spheres
+### Spheres
 
 * Forgebreaker - 100000 Karma, 1x Plasma Fragment [X2 Clear Reward], 1x Void Chunk [Dropped from RC4 X2 Exodus]
 * Obsidian Core Amplifier - 100000 Karma, 1x Obsidian Quartz [X2 Clear Reward], 1x Void Chunk [Dropped from RC4 X2 Exodus]

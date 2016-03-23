@@ -6,7 +6,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#FH14 - Starts 5/19/2015 2:00:00 AM PST
+# FH14 - Starts 5/19/2015 2:00:00 AM PST
 
 ----------------------
 

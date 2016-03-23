@@ -8,14 +8,14 @@ tags: []
 
 Official Changelog over [here](https://news.gumi.sg/bravefrontier/news/files/html/2015-08/SMAug27_1440605130.html).
 
-#New SBS 7* - Aurelia/Hadaron
+# New SBS 7* - Aurelia/Hadaron
 
 Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style="display:inline"} ![Miracle Totem](https://i.imgur.com/EpBmO7Z.png){: .img-responsive style="display:inline"} ![Elemental Totem](https://i.imgur.com/WyGaA2a.png){: .img-responsive style="display:inline"} ![Metal Mimic](https://i.imgur.com/3KRn6Ok.png){: .img-responsive style="display:inline"} ![Elemental Bulb](https://i.imgur.com/QUT5xlJ.png){: .img-responsive style="display:inline"}
 
 ![Rare Summon for SBS](https://i.imgur.com/yP2rkT9.png){: .img-responsive}
 
 {: .light}
-##Archangel Aurelia
+## Archangel Aurelia
 
 ![Aurelia Illustration](https://i.imgur.com/FF1ZcK3.png){: .img-responsive}
 
@@ -35,7 +35,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 * **Lore**: During the dark ages of Athensphere, the war slowly took its toll on the demigods. Having witnessed the endless carnage brought upon her people, Aurelia's soul wept in silence. Amidst the death and destruction, a dark seed was sown within Aurelia's bright soul. In time, her grief turned into spite towards the one who began the war. For the first time in her life, Aurelia felt a deep dark passion stirring within her. To end the ravages of war, she had to end the source of it all. With her newfound conviction, Aurelia picked up her harp and poured her soul into the birth of a new tune. A winged spirit emerged from within her, singing softly behind her ears an unholy melody that drained the life-force from anyone who had so successfully earned the ire of the benign demigod.
 
 {: .dark}
-##Deathless Hadaron
+## Deathless Hadaron
 
 ![Hadaron Illustration](https://i.imgur.com/bPYSXMR.png){: .img-responsive}
 
@@ -56,7 +56,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ---- 
 
-#Grand Quest X1 - The Tinkerer's Deceit
+# Grand Quest X1 - The Tinkerer's Deceit
 
 *The relics of Athensphere have yielded interesting results. Noel's thirst for knowledge has the summoner searching for a particular figure in the memory gear...*
 
@@ -64,11 +64,11 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ![GQ X1 Map](https://i.imgur.com/pD762GA.jpg){: .img-responsive}
 
-##Bosses
+## Bosses
 
 ![Draegar](https://i.imgur.com/TiyXL08.gif){: .img-responsive style="display:inline"} ![Phaeton](https://i.imgur.com/jnWQ0zd.gif){: .img-responsive style="display:inline"}
 
-##Mission Details
+## Mission Details
 
 * **Objective**: Find and rescue Gazia
 * **Failure modes**: Squad fell in battle, Zedus was knocked out, Ultor was knocked out, Aurelia was knocked out
@@ -84,54 +84,54 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
     * Beat Draegar - 7500 Zel?
     * Acquired Treasure (Boulevard) - 10000 Zel?
 
-##Portraits
+## Portraits
 
 <!--more-->
 
-###Aurelia
+### Aurelia
 
-![Portrait #1](https://i.imgur.com/yajJ6VZ.png){: .img-responsive}
-![Portrait #2](https://i.imgur.com/xrQgTKA.png){: .img-responsive}
-![Portrait #3](https://i.imgur.com/35vkrcV.png){: .img-responsive}
-![Portrait #4](https://i.imgur.com/rAIymw4.png){: .img-responsive}
-![Portrait #5](https://i.imgur.com/fM6b0WM.png){: .img-responsive}
-![Portrait #6](https://i.imgur.com/PlrrWQy.png){: .img-responsive}
+![Portrait # 1](https://i.imgur.com/yajJ6VZ.png){: .img-responsive}
+![Portrait # 2](https://i.imgur.com/xrQgTKA.png){: .img-responsive}
+![Portrait # 3](https://i.imgur.com/35vkrcV.png){: .img-responsive}
+![Portrait # 4](https://i.imgur.com/rAIymw4.png){: .img-responsive}
+![Portrait # 5](https://i.imgur.com/fM6b0WM.png){: .img-responsive}
+![Portrait # 6](https://i.imgur.com/PlrrWQy.png){: .img-responsive}
 
-![Thumbnail #1](https://i.imgur.com/yHUHEpt.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/cMLbGeX.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/14ayVjQ.png){: .img-responsive style="display:inline"} ![Thumbnail #4](https://i.imgur.com/lpKv1NF.png){: .img-responsive style="display:inline"} ![Thumbnail #5](https://i.imgur.com/HeNe8ad.png){: .img-responsive style="display:inline"} ![Thumbnail #6](https://i.imgur.com/CKcUz7d.png){: .img-responsive style="display:inline"}
+![Thumbnail # 1](https://i.imgur.com/yHUHEpt.png){: .img-responsive style="display:inline"} ![Thumbnail # 2](https://i.imgur.com/cMLbGeX.png){: .img-responsive style="display:inline"} ![Thumbnail # 3](https://i.imgur.com/14ayVjQ.png){: .img-responsive style="display:inline"} ![Thumbnail # 4](https://i.imgur.com/lpKv1NF.png){: .img-responsive style="display:inline"} ![Thumbnail # 5](https://i.imgur.com/HeNe8ad.png){: .img-responsive style="display:inline"} ![Thumbnail # 6](https://i.imgur.com/CKcUz7d.png){: .img-responsive style="display:inline"}
 
-###Ultor
+### Ultor
 
-![Portrait #1](https://i.imgur.com/SNxvLnX.png){: .img-responsive}
-![Portrait #2](https://i.imgur.com/wrx4BdH.png){: .img-responsive}
-![Portrait #3](https://i.imgur.com/kMaycwO.png){: .img-responsive}
-![Portrait #4](https://i.imgur.com/4UtKRUr.png){: .img-responsive}
-![Portrait #5](https://i.imgur.com/7YYuJ3x.png){: .img-responsive}
-![Portrait #6](https://i.imgur.com/XFG6nHJ.png){: .img-responsive}
+![Portrait # 1](https://i.imgur.com/SNxvLnX.png){: .img-responsive}
+![Portrait # 2](https://i.imgur.com/wrx4BdH.png){: .img-responsive}
+![Portrait # 3](https://i.imgur.com/kMaycwO.png){: .img-responsive}
+![Portrait # 4](https://i.imgur.com/4UtKRUr.png){: .img-responsive}
+![Portrait # 5](https://i.imgur.com/7YYuJ3x.png){: .img-responsive}
+![Portrait # 6](https://i.imgur.com/XFG6nHJ.png){: .img-responsive}
 
-![Thumbnail #1](https://i.imgur.com/UtuVx2H.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/UWx5qXu.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/4UnLZdO.png){: .img-responsive style="display:inline"} ![Thumbnail #4](https://i.imgur.com/6gOrwbl.png){: .img-responsive style="display:inline"} ![Thumbnail #5](https://i.imgur.com/tRwaCr0.png){: .img-responsive style="display:inline"} ![Thumbnail #6](https://i.imgur.com/AQb8Iwc.png){: .img-responsive style="display:inline"} 
+![Thumbnail # 1](https://i.imgur.com/UtuVx2H.png){: .img-responsive style="display:inline"} ![Thumbnail # 2](https://i.imgur.com/UWx5qXu.png){: .img-responsive style="display:inline"} ![Thumbnail # 3](https://i.imgur.com/4UnLZdO.png){: .img-responsive style="display:inline"} ![Thumbnail # 4](https://i.imgur.com/6gOrwbl.png){: .img-responsive style="display:inline"} ![Thumbnail # 5](https://i.imgur.com/tRwaCr0.png){: .img-responsive style="display:inline"} ![Thumbnail # 6](https://i.imgur.com/AQb8Iwc.png){: .img-responsive style="display:inline"} 
 
-###Zedus
+### Zedus
 
-![Portrait #1](https://i.imgur.com/gGLrRfd.png){: .img-responsive}
-![Portrait #2](https://i.imgur.com/tpmXyDg.png){: .img-responsive}
-![Portrait #3](https://i.imgur.com/fHrd1d1.png){: .img-responsive}
-![Portrait #4](https://i.imgur.com/iZaYqUC.png){: .img-responsive}
-![Portrait #5](https://i.imgur.com/Nq1TMyk.png){: .img-responsive}
-![Portrait #6](https://i.imgur.com/lnmDj8a.png){: .img-responsive}
+![Portrait # 1](https://i.imgur.com/gGLrRfd.png){: .img-responsive}
+![Portrait # 2](https://i.imgur.com/tpmXyDg.png){: .img-responsive}
+![Portrait # 3](https://i.imgur.com/fHrd1d1.png){: .img-responsive}
+![Portrait # 4](https://i.imgur.com/iZaYqUC.png){: .img-responsive}
+![Portrait # 5](https://i.imgur.com/Nq1TMyk.png){: .img-responsive}
+![Portrait # 6](https://i.imgur.com/lnmDj8a.png){: .img-responsive}
 
-![Thumbnail #1](https://i.imgur.com/N9bS2gf.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/MXiW3qD.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/d5ARw4P.png){: .img-responsive style="display:inline"} ![Thumbnail #4](https://i.imgur.com/dFmeLjs.png){: .img-responsive style="display:inline"} ![Thumbnail #5](https://i.imgur.com/YuIFnzs.png){: .img-responsive style="display:inline"} ![Thumbnail #6](https://i.imgur.com/I4hBar5.png){: .img-responsive style="display:inline"}
+![Thumbnail # 1](https://i.imgur.com/N9bS2gf.png){: .img-responsive style="display:inline"} ![Thumbnail # 2](https://i.imgur.com/MXiW3qD.png){: .img-responsive style="display:inline"} ![Thumbnail # 3](https://i.imgur.com/d5ARw4P.png){: .img-responsive style="display:inline"} ![Thumbnail # 4](https://i.imgur.com/dFmeLjs.png){: .img-responsive style="display:inline"} ![Thumbnail # 5](https://i.imgur.com/YuIFnzs.png){: .img-responsive style="display:inline"} ![Thumbnail # 6](https://i.imgur.com/I4hBar5.png){: .img-responsive style="display:inline"}
 
-###Gazia
+### Gazia
 
-![Portrait #1](https://i.imgur.com/2ZGDEVw.png){: .img-responsive}
-![Portrait #2](https://i.imgur.com/l1KA7WX.png){: .img-responsive}
-![Portrait #3](https://i.imgur.com/oXJEwop.png){: .img-responsive}
+![Portrait # 1](https://i.imgur.com/2ZGDEVw.png){: .img-responsive}
+![Portrait # 2](https://i.imgur.com/l1KA7WX.png){: .img-responsive}
+![Portrait # 3](https://i.imgur.com/oXJEwop.png){: .img-responsive}
 
-![Thumbnail #1](https://i.imgur.com/pWv2Yc5.png){: .img-responsive style="display:inline"} ![Thumbnail #2](https://i.imgur.com/J59RfsE.png){: .img-responsive style="display:inline"} ![Thumbnail #3](https://i.imgur.com/zXIfjWl.png){: .img-responsive style="display:inline"}
+![Thumbnail # 1](https://i.imgur.com/pWv2Yc5.png){: .img-responsive style="display:inline"} ![Thumbnail # 2](https://i.imgur.com/J59RfsE.png){: .img-responsive style="display:inline"} ![Thumbnail # 3](https://i.imgur.com/zXIfjWl.png){: .img-responsive style="display:inline"}
 
 ---
 
-#Misc
+# Misc
 
 * Andaria's/Zedus's ES sphere mats added.
     * Euryalis' Grace - A small gem used to forge Andaria's bow
@@ -142,7 +142,7 @@ Evo mats: ![Mecha God](https://i.imgur.com/aL62b9n.png){: .img-responsive style=
 
 ---
 
-##Grand Quest X1 Dialogue
+## Grand Quest X1 Dialogue
 
 * Noel: Ah! PLAYER_NAME! You're late! I've been waiting for you.
 * Noel: I've finally done it!

@@ -12,9 +12,9 @@ Discussion over on [reddit](https://www.reddit.com/r/bravefrontier/comments/3oub
 
 ---
 
-#Chain Chronicles Collab
+# Chain Chronicles Collab
 
-![Dungeon #1](http://i.imgur.com/jIWJcSv.png){: .img-responsive}
+![Dungeon # 1](http://i.imgur.com/jIWJcSv.png){: .img-responsive}
 
 * Lvl 1
   * As you investigate a magical laboratory, you feel a burning gaze on you. Behind you appears a mysterious figure out of thin air.
@@ -27,7 +27,7 @@ Discussion over on [reddit](https://www.reddit.com/r/bravefrontier/comments/3oub
   * 30 EN, 3500 XP, 7 Battles, 1 Gem First Clear Bonus
 
 {: .fire}
-##Universal Mage Aludra 6*
+## Universal Mage Aludra 6*
 
 ![6 Star Illustration](https://i.imgur.com/zs2ihKy.png){: .img-responsive}
 

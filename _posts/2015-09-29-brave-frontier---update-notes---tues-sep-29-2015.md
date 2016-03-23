@@ -12,11 +12,11 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#This is pre-release data, data subject to change.
+# This is pre-release data, data subject to change.
 
 ---
 
-#Elgifts
+# Elgifts
 
 ![Image](https://i.imgur.com/g10AfLs.png){: .img-responsive}
 ![Image](https://i.imgur.com/Maf4sXC.png){: .img-responsive}
@@ -25,19 +25,19 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 
 ---
 
-#Rakshult
+# Rakshult
 
 ![Image](https://i.imgur.com/MPkEBdg.png){: .img-responsive}
 
 ---
 
-#Alternate Art
+# Alternate Art
 
 Alternate art is now implemented for Michele, Quaid, Sefia, Feeva and Alice.
 
 ---
 
-#Challenge Arena
+# Challenge Arena
 
 ![CA Banner](https://i.imgur.com/reWSRwT.png){: .img-responsive}
 
@@ -58,12 +58,12 @@ Building on info over [here](https://www.reddit.com/r/bravefrontier/comments/3l5
 
 ---
 
-#Practice Mode
+# Practice Mode
 
 Various bits of text have been added.
 
 ---
 
-#Colosseum
+# Colosseum
 
 Various bits of text have been added.

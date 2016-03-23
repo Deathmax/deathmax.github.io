@@ -6,18 +6,18 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#Client Update - 1.3.2
+# Client Update - 1.3.2
 
 Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
-##Official Client Changelog
+## Official Client Changelog
 
 - Auto Battle improvement
 - Mega Parades
 - Bugfixes
 - iOS: Support for 64-bit devices
 
-##Official Content Changelog
+## Official Content Changelog
 
 * New Map: Bariura
 * New Arena Rank & Random Rule
@@ -33,7 +33,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 ----
 
-#New Map: Bariura
+# New Map: Bariura
 
 ![Name Image](//i.imgur.com/DQpWRiE.png){: .img-responsive}
 ![Map Image](//i.imgur.com/GavCoq4.jpg){: .img-responsive}
@@ -42,9 +42,9 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 ----
 
-#New Arena Rank & Random Rules
+# New Arena Rank & Random Rules
 
-###New Ranks (After Skywalker - 1.3 million ABP)
+### New Ranks (After Skywalker - 1.3 million ABP)
 
 {: .table}
 |Name|ABP Required|Reward|
@@ -85,7 +85,7 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 *Ranks capped at Radiant Saint at 2.294 mil.*
 
-###Random Rules
+### Random Rules
 
 * Empty BB Gauge Start
 * No BBs
@@ -105,15 +105,15 @@ Updates are now available on Google Play, Amazon Appstore and Apple App Store.
 
 ----
 
-#Grand Gaia Chronicles: Kikuri & Sefia
+# Grand Gaia Chronicles: Kikuri & Sefia
 
 ![Banner Image](//i.imgur.com/5ocW3qX.png){: .img-responsive}
 
-##Active now!
+## Active now!
 
-Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-gaia-chronicles-guide-updated-sefia-kikuri.249909/#post-2003321)
+Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-gaia-chronicles-guide-updated-sefia-kikuri.249909/# post-2003321)
 
-##New Spheres
+## New Spheres
 
 * **Holy Eight** (from level 1) - +30% ATK/DEF, +50% Crit Damage
 * **Scarlet Pin** (from level 2) - +30% HP/ATK, +50% All Weakness Damage
@@ -121,11 +121,11 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 
 ----
 
-#Imp Parades
+# Imp Parades
 
 ![Banner Image](//i.imgur.com/hpY6qFW.png){: .img-responsive}
 
-###Active now!
+### Active now!
 
 * Keys are now available in the Achievement Store for 8000 pts every week.
 * 15 energy/run
@@ -138,12 +138,12 @@ Guide is available over at [AppInvasion](http://appinvasion.com/threads/grand-ga
 
 ----
 
-#Mega Parades
+# Mega Parades
 
 ![Jewel Image](//i.imgur.com/PIQ134L.png){: .img-responsive}
 ![Ghost Image](//i.imgur.com/5bqsSJg.png){: .img-responsive}
 
-###Active now!
+### Active now!
 
 * 5 keys to activate for 1 hour.
 * 60 energy/run (for Metal), 50 energy/run (for Jewel)
@@ -157,26 +157,26 @@ This also brings about parade events, where Super versions require 1 key, and Me
 
 ----
 
-#Claire/Colt ES
+# Claire/Colt ES
 
 ES can now be activated if the other unit is in the same squad.
 
 ----
 
-#Duel-GX GGC
+# Duel-GX GGC
 
 ![Banner Image](//i.imgur.com/JG0B6YN.png){: .img-responsive}
 
 Partial data has been added (such as AI and spheres).
 
-##New Spheres
+## New Spheres
 
 * **White Armor** - +30% ATK/DEF, Invalidate Status Ailments, 100% Base/Buffed Element Weakness Resist
 * **DUEL Fragment** - +30% HP/ATK & +20% Crit, 30% Chance Ignore Def, 4-6 BC On Crit
 
 ----
 
-#Grand Quests
+# Grand Quests
 
 ![Icon](//i.imgur.com/wblgjtf.png){: .img-responsive}
 
@@ -184,6 +184,6 @@ Image assets translated.
 
 ----
 
-#Server-side fixes
+# Server-side fixes
 
 Server time no longer jumps back and forward.

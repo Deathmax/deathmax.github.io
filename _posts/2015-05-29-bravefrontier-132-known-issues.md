@@ -30,7 +30,7 @@ category: bravefrontier
   * No known fix.
 
 
-###Non-issues
+### Non-issues
 
 * Arena Random Rule setting is not applied.
   * Rules are applied randomly and not all matches will have a random rule active.

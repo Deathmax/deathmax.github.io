@@ -6,7 +6,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#BP Store Updated
+# BP Store Updated
 
 {: .table}
 |Milestone|Reward|
@@ -24,9 +24,9 @@ category: bravefrontier
 |25000|3 Almighty Imp Arton|
 |26000|3 Summon Tickets|
 
-#New Text Data
+# New Text Data
 
-##TEXT ONLY, RELEASE WILL BE WHENEVER GUMI FEELS LIKE IT
+## TEXT ONLY, RELEASE WILL BE WHENEVER GUMI FEELS LIKE IT
 
 * GQ
 * Windows Phone

@@ -7,7 +7,7 @@ category: bravefrontier
 
 {% include JB/setup %}
 
-#Lava 7* Batch
+# Lava 7* Batch
 
 ![Lava](//i.imgur.com/isbiS5c.gif){: .img-responsive style="display:inline"} ![Elimo](//i.imgur.com/FMengOt.gif){: .img-responsive style="display:inline"} ![Griel](//i.imgur.com/9kHJdHE.gif){: .img-responsive style="display:inline"} ![Sefia](//i.imgur.com/4YevMyu.gif){: .img-responsive style="display:inline"} ![Kikuri](//i.imgur.com/Xz8B2f1.gif){: .img-responsive style="display:inline"}
 
@@ -32,7 +32,7 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 ![Lava](//i.imgur.com/sNIsugX.png){: .img-responsive}
 
 {: .fire}
-##Phoenix Wings Lava
+## Phoenix Wings Lava
 
 * **Hits/DC**: 10/3
 * **Cost**: 40
@@ -46,7 +46,7 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 ![Elimo](//i.imgur.com/uk4APFF.png){: .img-responsive}
 
 {: .water}
-##Leviathan Sage Elimo
+## Leviathan Sage Elimo
 
 * **Hits/DC**: 8/3
 * **Cost**: 40
@@ -61,7 +61,7 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 ![Griel](//i.imgur.com/HJHlE68.png){: .img-responsive}
 
 {: .thunder}
-##Valkyrie Archangel Griel
+## Valkyrie Archangel Griel
 
 * **Hits/DC**: 11/3
 * **Cost**: 40
@@ -76,7 +76,7 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 ![Sefia](//i.imgur.com/eYFP9p1.png){: .img-responsive}
 
 {: .light}
-##Angelic Blades Sefia
+## Angelic Blades Sefia
 
 * **Hits/DC**: 14/3
 * **Cost**: 40
@@ -91,7 +91,7 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 ![Kikuri](//i.imgur.com/wa2aYy6.png){: .img-responsive}
 
 {: .dark}
-##Demonic Idol Kikuri
+## Demonic Idol Kikuri
 
 * **Hits/DC**: 16/3
 * **Cost**: 40
@@ -105,13 +105,13 @@ Lava/Elimo/Griel's rate up will be on the **June 9th**.
 
 ---
 
-#*Crimson Terror*{: .fire} (Seria EX Trial)
+# *Crimson Terror*{: .fire} (Seria EX Trial)
 
 Released now! Reddit Megathread over [here](//www.reddit.com/r/bravefrontier/comments/390715/crimson_terrortsundere_seria_ex_trial_megathread/).
 
 ---
 
-#Other Updates
+# Other Updates
 
 * New help topics.
 * Strings indicating a DoB entry + notice to minors to obtain parental permission for gem purchases.
