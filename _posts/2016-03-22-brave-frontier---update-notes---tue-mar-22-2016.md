@@ -31,6 +31,8 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **UBB**: Cost: 30BC/2DC - 18 Hit 1200-2000% AoE based on HP remaining (ATK+100), 3 turn +500% BB Mod, 3 turn +300% ATK when enemy has ailment buff
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: Thunder Mecha God, Miracle Totem, Metal Mimic, Dark Bulb, Fire Bulb
+* **Lore**: A young girl from the mysterious world of Paskua who looks suspiciously like a rabbit. Bonnie became infamous across Grand Gaia thanks to the immense firepower of her cannon, and her infallible shooting accuracy. Finally having gained the recognition she had so desired as a warrior, instead of being forever branded as just another cute face, she felt so relieved that she no longer felt the need to fight. However, one day as she was passing through a forest, she came across a blonde girl atop a giant rabbit who was fighting single-handedly against a ferocious beast to protect the people of a nearby village. At that moment Bonnie realized that fighting for others was just as important as fighting for herself, leading her to unload her trusty cannon to join the battle. She then modified it with hare-like speed, creating an entirely new machine in a matter of seconds. Legends say that the plasma blast she shot at the menacing beast was so powerful that it completely pulverized the monster, along with one of the mountains beyond the forest.
+* **Evo Dialogue**: All this time I've been fighting to<br>gain a reputation to be proud of.<br>Now the time has come to fight for a good cause!
 
 {:.light}
 # Eggstra Colorful Carrol
@@ -52,6 +54,8 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **UBB**: Cost: 30BC/2DC - 18 Hit 1200% Water, Earth, and Light AoE, +25% OD Gauge, +999 BC, 20000 HP Light Barrier
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: Light Mecha God, Miracle Totem, Metal Mimic, Water Bulb, Earth Bulb
+* **Lore**: A lovely rabbit tamer from the mysterious world of Paskua. Carrol was in the forest collecting carrots for Bianco when she came across some villagers that lived nearby. As generous as always, she immediately offered them some of the sweets in her basket full of colorful eggs only to hear them scream for help. Puzzled at their reaction, she glanced past them and saw a gigantic hare-like creature covered in a rich brown substance approaching in a frenzy. The sight of the beast surprised Bianco so that he hopped as high as he could, causing Carrol to drop her basket of eggs. All of the mystical colored eggs cracked as they hit the floor, releasing all of the magical force hidden within, and gifting Carrol with unimaginable powers in the process. Fueled by the energy from her precious eggs, Carrol faced the ferocious monster by herself until a girl with rabbit ears wielding an enormous cannon appeared to give her a hand. After they defeated the monster, the villagers showed their gratitude by presenting Carrol and her new friend with two baskets full of the most colorful eggs they had ever seen. The two ladies are believed to then have taken these tokens of appreciation to Paskua to share with their loved ones.
+* **Evo Dialogue**: Ta-dah! We are back and more colorful than ever! Wow! My pigtails are almost as long as Bianco's ears!
 
 
 ## Lop Blessing
@@ -79,7 +83,6 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
   * 1 Gem
   * Chromatic Blossom
 
-<!--
 ##Addition of various units
 
 * Immortal Phoenix Levarza
@@ -94,4 +97,3 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * Tartarus Sacrifice Radia
 * Tartarus Massacre Sirius
 * Tartarus Burial Melina
--->
