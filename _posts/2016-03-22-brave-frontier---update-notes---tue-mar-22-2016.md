@@ -25,9 +25,9 @@ Official changelog can be found [here](http://forums.gumi.sg/forum/news-boards/s
 * **Stats (L)**: 6720 HP / 2814 ATK / 2346 DEF / 2934 REC 
 * **Imps**: 1050 HP / 480 ATK / 440 DEF / 420 REC
 * **LS**: +50% BB Fill Rate, +25% Reduced BB Cost, +150% BB Mod
-* **ES**: +50% ATK when BB Gauge Full, +100% ATK when enemy has status ailment (for all allies?)
+* **ES**: +50% ATK when BB Gauge Full, +100% ATK when enemy has status ailment (description says for all allies, data says for herself)
 * **BB**: Cost: 25BC/2DC - 12 Hit 300% Fire, Thunder, and Dark AoE, 65% Chance to inflict any status ailment, 2 turn Def Ignore buff
-* **SBB**: Cost: 25BC/2DC - 15 Hit 300% (???) Fire, Thunder, and Dark AoE, 65% Chance to inflict any status ailment, 2 turn Fire/Thunder/Dark buff, 3 turn +200% BB Mod buff
+* **SBB**: Cost: 25BC/2DC - 15 Hit 540% Fire, Thunder, and Dark AoE, 65% Chance to inflict any status ailment, 2 turn Fire/Thunder/Dark buff, 3 turn +200% BB Mod buff
 * **UBB**: Cost: 30BC/2DC - 18 Hit 1200-2000% AoE based on HP remaining (ATK+100), 3 turn +500% BB Mod, 3 turn +300% ATK when enemy has ailment buff
 * **[Arena Type](https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/)**: 2
 * **Evo Mat**: Thunder Mecha God, Miracle Totem, Metal Mimic, Dark Bulb, Fire Bulb
