@@ -46,13 +46,13 @@ Known affected events are:
 
 Example using a script I wrote to display ticket info:
 
-![Trinity Hall June Event Password](/assets/imgs/tithall_juneevent_passwords.png)
+![Trinity Hall June Event Password](/assets/imgs/tithall_juneevent_passwords.png){:.img-responsive}
 
 ### XSS attacks
 
 Input is not sanitized, XSS attacks are possible. Potentially possible to gain access to society portals by stealing cookies.
 
-![Churchill Spring Ball XSS demonstration](/assets/imgs/qpay_xss.png)
+![Churchill Spring Ball XSS demonstration](/assets/imgs/qpay_xss.png){:.img-responsive}
 
 ### Permanently reserving tickets
 
