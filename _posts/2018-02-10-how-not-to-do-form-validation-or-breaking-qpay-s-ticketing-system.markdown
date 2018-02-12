@@ -24,6 +24,24 @@ The other implementation is to take the list of email addresses, and then **embe
 * Newnham College, list of all college students
 * Trinity Hall, list of all college students
 
+```js
+function custom_validate(studentnumber) {
+    var val = "sa***@cam.ac.uk,gb***@cam.ac.uk,jg***@cam.ac.uk,iv***@cam.ac.uk,sa***@cam.ac.uk,......";
+    val = val.toLowerCase();
+    var res = val.split(",");
+    if (studentnumber.length == 0) {
+        return false;
+    } else if ($.inArray(studentnumber.toLowerCase(), res) > -1) {
+        return true;
+    } else if (studentnumber.indexOf("honorarytulsmember") > -1) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
+```
+
 A newer implementation that I just saw implemented (on the Pembroke June Event page) was the landing page ([https://pembrokejuneevent2018.getqpay.com](https://pembrokejuneevent2018.getqpay.com)) has the following flow:
 
 1. Enter email address
@@ -48,6 +66,60 @@ Example using a script I wrote to display ticket info:
 
 ![Trinity Hall June Event Password](/assets/imgs/tithall_juneevent_passwords.png){:.img-responsive}
 
+```js
+var tickettypesArr = {
+    ...
+    "7259": {
+        "custom_fields": {
+            "desc": ["Student ID", "Password"],
+            "vals": [{
+                "mandatory": "false",
+                "type": "Text",
+                "fieldName": "Student ID"
+            }, {
+                "mandatory": "rt6-Y4y-2b7-KSP",
+                "type": "Text",
+                "fieldName": "Password"
+            }]
+        },
+        "names": {
+            "7259": {
+                "price": "120.00",
+                "name": "Alumni",
+                "membershiptypes": null,
+                "starttime": "2018-01-22 11:00:00"
+            }
+        },
+        "quantity": 75,
+        "numberleft": 69,
+        "starttime": "2018-01-22 11:00:00"
+    },
+    "7261": {
+        "custom_fields": {
+            "desc": ["Student ID", "Password"],
+            "vals": [{
+                "mandatory": "false",
+                "type": "Text",
+                "fieldName": "Student ID"
+            }, {
+                "mandatory": "-9-W6r+!pvnfeqZh",
+                "type": "Text",
+                "fieldName": "Password"
+            }]
+        },
+        "names": {
+            "7261": {
+                "price": "0.00",
+                "name": "VIP",
+                "membershiptypes": null,
+                "starttime": "2018-01-22 11:00:00"
+            }
+        },
+        "starttime": "2018-01-22 11:00:00"
+    }
+};
+```
+
 ### XSS attacks
 
 Input is not sanitized, XSS attacks are possible. Potentially possible to gain access to society portals by stealing cookies.
@@ -58,6 +130,10 @@ Input is not sanitized, XSS attacks are possible. Potentially possible to gain a
 
 If event has limited number of tickets, it is possible to permanently reserve any number of tickets by changing the `ticketholdingtime` parameter and adding as many elements to the `tickets[]` array.
 
+![Example of arbitrary ticket holding time](/assets/imgs/qpay_arbitary_time.png){:.img-responsive}
+
 ## Event ID Enumeration
 
 Event ids are sequentially numbered. It is possible to enumerate through all ~3100 events as of the writing of this post and discover all of QPay's events, even though QPay seems to treat the event URLs as a form of access control.
+
+Various bits of PoC can be found over at [https://github.com/cheahjs/qpay_bypass](https://github.com/cheahjs/qpay_bypass)
