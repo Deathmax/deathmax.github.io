@@ -24,6 +24,8 @@ The other implementation is to take the list of email addresses, and then **embe
 * Newnham College, list of all college students
 * Trinity Hall, list of all college students
 
+14/02/2018 Update: QPay appears to have scrubbed the emails from the events
+
 ```js
 function custom_validate(studentnumber) {
     var val = "sa***@cam.ac.uk,gb***@cam.ac.uk,jg***@cam.ac.uk,iv***@cam.ac.uk,sa***@cam.ac.uk,......";
@@ -39,7 +41,6 @@ function custom_validate(studentnumber) {
         return false;
     }
 }
-
 ```
 
 A newer implementation that I just saw implemented (on the Pembroke June Event page) was the landing page ([https://pembrokejuneevent2018.getqpay.com](https://pembrokejuneevent2018.getqpay.com)) has the following flow:
@@ -131,6 +132,12 @@ Input is not sanitized, XSS attacks are possible. Potentially possible to gain a
 If event has limited number of tickets, it is possible to permanently reserve any number of tickets by changing the `ticketholdingtime` parameter and adding as many elements to the `tickets[]` array.
 
 ![Example of arbitrary ticket holding time](/assets/imgs/qpay_arbitary_time.png){:.img-responsive}
+
+### Bypassing waiting list/ticket count restrictions
+
+Simply POST the right details to `/booking`. (eg, dropping the `waitinglist` parameter, modifying the `tickettype`)
+
+![Example of arbitrary ticket holding time, bypassing closed sales, bypassing email requirements](/assets/imgs/qpay_bypass_waitinglist.png){:.img-responsive}
 
 ## Event ID Enumeration
 
