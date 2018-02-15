@@ -135,7 +135,7 @@ If event has limited number of tickets, it is possible to permanently reserve an
 
 ### Bypassing waiting list/ticket count restrictions
 
-Simply POST the right details to `/booking`. (eg, dropping the `waitinglist` parameter, modifying the `tickettype`)
+Simply POST the right details to `/booking`. (eg, dropping the `waitinglist` parameter, modifying the `tickettype` parameter, etc)
 
 ![Example of arbitrary ticket holding time, bypassing closed sales, bypassing email requirements](/assets/imgs/qpay_bypass_waitinglist.png){:.img-responsive}
 
@@ -143,4 +143,4 @@ Simply POST the right details to `/booking`. (eg, dropping the `waitinglist` par
 
 Event ids are sequentially numbered. It is possible to enumerate through all ~3100 events as of the writing of this post and discover all of QPay's events, even though QPay seems to treat the event URLs as a form of access control.
 
-Various bits of PoC can be found over at [https://github.com/cheahjs/qpay_bypass](https://github.com/cheahjs/qpay_bypass)
+Various bits of PoC can be found over at [https://github.com/cheahjs/qpay_bypass](https://github.com/cheahjs/qpay_bypass), [userscript](https://openuserjs.org/scripts/jscheah/QPay_Ticket_Count_Viewer) for ticket details and removing client form validation.
