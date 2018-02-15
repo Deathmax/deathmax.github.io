@@ -135,12 +135,22 @@ If event has limited number of tickets, it is possible to permanently reserve an
 
 ### Bypassing waiting list/ticket count restrictions
 
-Simply POST the right details to `/booking`. (eg, dropping the `waitinglist` parameter, modifying the `tickettype` parameter, etc)
+Simply POST the right details to `/tickets` to get a ticket id, and then `/booking` with modified parameters. (eg, dropping the `waitinglist` parameter, modifying the `tickettype` parameter, etc)
 
 ![Example of arbitrary ticket holding time, bypassing closed sales, bypassing email requirements](/assets/imgs/qpay_bypass_waitinglist.png){:.img-responsive}
 
-## Event ID Enumeration
+### Event ID Enumeration
 
 Event ids are sequentially numbered. It is possible to enumerate through all ~3100 events as of the writing of this post and discover all of QPay's events, even though QPay seems to treat the event URLs as a form of access control.
 
-Various bits of PoC can be found over at [https://github.com/cheahjs/qpay_bypass](https://github.com/cheahjs/qpay_bypass), [userscript](https://openuserjs.org/scripts/jscheah/QPay_Ticket_Count_Viewer) for ticket details and removing client form validation.
+### Ticket ID Enumeration
+
+Ticket ids are sequentially numbered. Ticket QR codes are just ticket ids.
+
+15/02/2018 Update:
+
+## Disabling campus access to QPay
+
+Since most university networks are behind NATs, if QPay decides to ban your IP address, they may inadvertently ban the entire university/campus from accessing their site.
+
+Various bits of PoC can be found over at [https://github.com/cheahjs/qpay_bypass](https://github.com/cheahjs/qpay_bypass), and a [userscript](https://openuserjs.org/scripts/jscheah/QPay_Ticket_Count_Viewer) for ticket details and removing client form validation.
