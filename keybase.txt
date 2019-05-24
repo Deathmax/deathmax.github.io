@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jscheah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jscheah.me
+  * I am jscheah (https://keybase.io/jscheah) on keybase.
+  * I have a public key ASATpcemYV94J6RZ1QObPx3it0xFqq2IC_wrGiY61Q3Xqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013a5c7a6615f7827a459d5039b3f1de2b74c45aaad880bfc2b1a263ad50dd7aa0a",
+      "host": "keybase.io",
+      "kid": "012013a5c7a6615f7827a459d5039b3f1de2b74c45aaad880bfc2b1a263ad50dd7aa0a",
+      "uid": "dd7871eec3610ebbe2a1419bc3fe6719",
+      "username": "jscheah"
+    },
+    "merkle_root": {
+      "ctime": 1558705551,
+      "hash": "fdc85ca385b14e38ce3dd9e2de86dcba8e352d7682379f44e3cf9863ed86e0d9a32a3b075721b483c6b53092a5f33d5f63c73b50ed3f9340d14cdd1c6b1e0740",
+      "hash_meta": "e8087b37cdd66580e1b2244c4128107eee61a64f5250538545d517facb03244d",
+      "seqno": 5440559
+    },
+    "service": {
+      "entropy": "s+Nf3zXIWj2pp3/p4YsJ2fIS",
+      "hostname": "jscheah.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558705569,
+  "expire_in": 504576000,
+  "prev": "820f27f201956131ef9ec7d265c01e5c777a8607316e47bab6d09a37920b7342",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE6XHpmFfeCekWdUDmz8d4rdMRaqtiAv8KxomOtUN16oKp3BheWxvYWTESpcCCMQggg8n8gGVYTHvnsfSZcAeXHd6hgcxbke6ttCaN5ILc0LEIPHuiqJR8GDdqIjNHfQs68ejxjzVEeA3fNzadr2g8pjbAgHCo3NpZ8RAm6N96UrwXc+/bZjBe8xImOFsozl6505CsLAVd11+XRnkUXqWVcMYmg2DP6I6ZqR4ZegCLrOKNqLDWSkF0eIHAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMDka68xV2IFHF8DoqRZmS2FHyI6Cq3PnQHqs7oBRs7Uo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jscheah
+
+==================================================================
