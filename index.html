@@ -1,56 +1,639 @@
----
-layout: default
-title: Jun Siang Cheah
----
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Jun Siang Cheah</title>
+    
+    <meta name="author" content="Jun Siang Cheah">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap styles -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Optional theme -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- Sticky Footer -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+    <!-- Bootflat theme -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap-flat.min.css" rel="stylesheet">
+    
+    <!-- Custom styles -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+  </head>
+
+  <body>
+    <div id="wrap">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Jun Siang Cheah</a>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="//deathsnacks.com">Tools</a></li>
+              <li><a href="//github.com/cheahjs">GitHub</a></li>
+              <!--
+              
+              
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages">Pages</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+-->
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </nav>
+
+      <div class="container">
+        <!-- This loops through the paginated posts -->
+
   <div>
     <h1 style="text-align:center">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/programming/2017/05/20/migrating-to-dotnet-core">Experiences with migrating to .NET Core</a>
     </h1>
     <br>
     <p class="author">
-      <span class="date">Published on {{ post.date | date: "%B %e, %Y" }}</span>
+      <span class="date">Published on May 20, 2017</span>
     </p>
     <div class="content">
-      {{ post.excerpt }} {% capture content_words %} {{ post.content | number_of_words }} {% endcapture %} {% capture excerpt_words
-      %} {{ post.excerpt | number_of_words }} {% endcapture %} {% if excerpt_words != content_words %}
-      <br>
-      <p style="text-align: center">
-        <a class="btn btn-sm btn-default" href="{{ post.url }}" role="button">Read more
-          <i class="fa fa-arrow-circle-right"></i>
-        </a>
-      </p>
-      {% endif %}
+      <p>BfUpdater is the backend app that updates the <a href="https://github.com/Deathmax/bravefrontier_data/">bravefrontier_data</a> repo and <a href="https://reddit.com/r/bravefrontier">/r/bravefrontier</a>’s sidebar, and also acts as an IRC and Discord bot. The entire thing is written in C#, but a constant pain point was deploying to Mono. Take the <a href="https://github.com/RogueException/Discord.Net">Discord.Net</a> library for example. WebSockets as used by Discord.Net is broken by newer versions of Mono, requiring a downgrade of Mono, and newer versions of Discord.Net are completely non-functional on Mono regardless of workarounds.</p>
+
+<p>So, I decided on migrating the project to target .NET Core rather than the .NET Framework with Mono, starting off with copying the entire project into a new .NET Core project skeleton. Here were some areas of interest I encountered while migrating the project:</p>
+
+<h2 id="libraries">Libraries</h2>
+
+<p>Finding newer versions of libraries that were used that support .NET Core was ok for the most part. The only library that I used without .NET Core support was <code class="language-plaintext highlighter-rouge">SmartIrc4Net</code>, but since the #bravefrontier channel was pretty much dead, I just removed the IRC code completely and didn’t worry about switching to a new library.</p>
+
+<h2 id="api-changes">API Changes</h2>
+
+<p>This was where all the fun came from. The code made extensive use of <code class="language-plaintext highlighter-rouge">WebClient</code>, which is gone in .NET Core. So, after writing a bunch of extensions for <code class="language-plaintext highlighter-rouge">HttpClient</code> and a bit of regex search and replace later all the network related code was running again.</p>
+
+<p>One of the harder things to account for was the removal of <code class="language-plaintext highlighter-rouge">System.Diagnostics.StackTrace</code>, which I used for logging method names by looking for the log’s caller. Instead of trying to parse the output from <code class="language-plaintext highlighter-rouge">Environment.StackTrace</code>, I decided to make use of Microsoft’s <code class="language-plaintext highlighter-rouge">ILogger</code> and deal with the fact that my logs no longer have method-level names, but only class-level names.</p>
+   
     </div>
   </div>
   <hr>
-{% endfor %}
+
+  <div>
+    <h1 style="text-align:center">
+      <a href="/bravefrontier/2016/03/22/brave-frontier-update-notes-tue-mar-22-2016">Brave Frontier - Update Notes - Tue Mar 22 2016 - Easter Update</a>
+    </h1>
+    <br>
+    <p class="author">
+      <span class="date">Published on March 22, 2016</span>
+    </p>
+    <div class="content">
+      <p>Official changelog can be found <a href="http://forums.gumi.sg/forum/news-boards/server-status/281738-server-maintenance-march-22-22-00-pst">here</a>.</p>
+
+<p><a href="https://www.reddit.com/r/bravefrontier/comments/4blwdk/7_bonnie_and_carrol_info/">Reddit discussion thread here.</a></p>
+
+<hr />
+
+<h1 class="thunder" id="plasma-blaster-bonnie">Plasma Blaster Bonnie</h1>
+
+<p><img src="/assets/bf210316/unit_ills_full_840117.png" alt="Illustration" class="img-responsive" /></p>
+
+<p><img src="/assets/bf210316/bonnie_7_idle.gif" alt="Idle" class="img-responsive" style="display:inline" />
+<img src="/assets/bf210316/bonnie_7_atk.gif" alt="Attack" class="img-responsive" style="display:inline" /></p>
+
+<ul>
+  <li><strong>Hits/DC</strong>: 6/3</li>
+  <li><strong>Cost</strong>: 42</li>
+  <li><strong>Stats (L)</strong>: 6720 HP / 2814 ATK / 2346 DEF / 2934 REC</li>
+  <li><strong>Imps</strong>: 1050 HP / 480 ATK / 440 DEF / 420 REC</li>
+  <li><strong>LS</strong>: +50% BB Gauge Fill Rate, Reduce BB Cost 25%, +150% BB/SBB/UBB Mod</li>
+  <li><strong>ES</strong>: 100% ATK against Statused Targets, +50% ATK when BB Gauge is full</li>
+  <li><strong>BB</strong>: Cost: 25BC/2DC - 12 Hits, 300% AoE + Fire/Thunder/Dark Elements, 65% Poison/Curse/Paralyze/Injury/Sick/Weaken, 2 turn Def Ignore Buff</li>
+  <li><strong>SBB</strong>: Cost: 25BC/2DC - 15 Hits, 540% AoE + Fire/Thunder/Dark Elements, 65% Poison/Curse/Paralyze/Injury/Sick/Weaken, 3 turn Fire/Thunder/Dark Buff, 3 turn +200% BB/SBB/UBB Mod</li>
+  <li><strong>UBB</strong>: Cost: 30BC/2DC - 18 Hits, 1200-2000% AoE depending on HP remaining (ATK+100), 3 turn +500% BB/SBB/UBB Mod, 3 Turn 300% ATK Buff on Statused Targets</li>
+  <li><strong><a href="https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/">Arena Type</a></strong>: 2</li>
+  <li><strong>Evo Mat</strong>: Thunder Mecha God, Miracle Totem, Metal Mimic, Dark Bulb, Fire Bulb (Not available yet.)</li>
+  <li><strong>Lore</strong>: A young girl from the mysterious world of Paskua who looks suspiciously like a rabbit. Bonnie became infamous across Grand Gaia thanks to the immense firepower of her cannon, and her infallible shooting accuracy. Finally having gained the recognition she had so desired as a warrior, instead of being forever branded as just another cute face, she felt so relieved that she no longer felt the need to fight. However, one day as she was passing through a forest, she came across a blonde girl atop a giant rabbit who was fighting single-handedly against a ferocious beast to protect the people of a nearby village. At that moment Bonnie realized that fighting for others was just as important as fighting for herself, leading her to unload her trusty cannon to join the battle. She then modified it with hare-like speed, creating an entirely new machine in a matter of seconds. Legends say that the plasma blast she shot at the menacing beast was so powerful that it completely pulverized the monster, along with one of the mountains beyond the forest.</li>
+  <li><strong>Evo Dialogue</strong>: All this time I’ve been fighting to gain a reputation to be proud of. Now the time has come to fight for a good cause!</li>
+</ul>
+
+<h1 class="light" id="eggstra-colorful-carrol">Eggstra Colorful Carrol</h1>
+
+<p><img src="/assets/bf210316/unit_ills_full_850157.png" alt="Illustration" class="img-responsive" /></p>
+
+<p><img src="/assets/bf210316/carrol_7_idle.gif" alt="Idle" class="img-responsive" style="display:inline" />
+<img src="/assets/bf210316/carrol_7_move.gif" alt="Move" class="img-responsive" style="display:inline" />
+<img src="/assets/bf210316/carrol_7_atk.gif" alt="Attack" class="img-responsive" style="display:inline" /></p>
+
+<ul>
+  <li><strong>Hits/DC</strong>: 8/2</li>
+  <li><strong>Cost</strong>: 42</li>
+  <li><strong>Stats (L)</strong>: 6951 HP / 2362 ATK / 2601 DEF / 2123 REC</li>
+  <li><strong>Imps</strong>: 1100 HP / 440 ATK / 440 DEF / 440 REC</li>
+  <li><strong>LS</strong>: +25% BC/HC Drop Rate, Reduce BB Cost 25%, 4 BC/turn</li>
+  <li><strong>ES</strong>: Add Effect To BB/SBB (Cure Status/Debuffs), +15% BB Gauge Fill Rate, +15% HC Effectiveness</li>
+  <li><strong>BB</strong>: Cost: 25BC/2DC - 14 Hits, 300% AoE + Water/Earth/Light Elements, 3 Turn +130% ATK/DEF/REC, 3 turn 7 BC/turn</li>
+  <li><strong>SBB</strong>: Cost: 25BC/2DC - 16 Hits, 540% AoE + Water/Earth/Light Elements, 3 Turn +130% ATK/DEF/REC, 8% OD Fill, 5-7 BC on Hit for 3 turns, 3 turn Water/Earth/Light Buff</li>
+  <li><strong>UBB</strong>: Cost: 30BC/2DC - 18 Hits, 1200% AoE + Water/Earth/Light Elements, 25% OD Fill, Fill 999 BC, 0 Def 20000 Damage light Barrier (Absorb 100% Damage)</li>
+  <li><strong><a href="https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/">Arena Type</a></strong>: 2</li>
+  <li><strong>Evo Mat</strong>: Light Mecha God, Miracle Totem, Metal Mimic, Water Bulb, Earth Bulb (Not available yet.)</li>
+  <li><strong>Lore</strong>: A lovely rabbit tamer from the mysterious world of Paskua. Carrol was in the forest collecting carrots for Bianco when she came across some villagers that lived nearby. As generous as always, she immediately offered them some of the sweets in her basket full of colorful eggs only to hear them scream for help. Puzzled at their reaction, she glanced past them and saw a gigantic hare-like creature covered in a rich brown substance approaching in a frenzy. The sight of the beast surprised Bianco so that he hopped as high as he could, causing Carrol to drop her basket of eggs. All of the mystical colored eggs cracked as they hit the floor, releasing all of the magical force hidden within, and gifting Carrol with unimaginable powers in the process. Fueled by the energy from her precious eggs, Carrol faced the ferocious monster by herself until a girl with rabbit ears wielding an enormous cannon appeared to give her a hand. After they defeated the monster, the villagers showed their gratitude by presenting Carrol and her new friend with two baskets full of the most colorful eggs they had ever seen. The two ladies are believed to then have taken these tokens of appreciation to Paskua to share with their loved ones.</li>
+  <li><strong>Evo Dialogue</strong>: Ta-dah! We are back and more colorful than ever! Wow! My pigtails are almost as long as Bianco’s ears!</li>
+</ul>
+
+<h2 id="lop-blessing">Lop Blessing</h2>
+
+<p><img src="/assets/bf210316/sphere_thum_818937.png" alt="Lop Blessing Thumbnail" class="img-responsive" /></p>
+
+<p><em>Using the essence extracted from Chromatic Blossoms with a strange mechanical contraption Bonnie left behind, the top engineers of Randall crafted an exquisite enhancement charm. It unleashes energy in such great magnitudes that its wearer is said to become able to penetrate any foe’s armor.</em></p>
+
+<ul>
+  <li>Atk Boosting</li>
+  <li>+200% BB Mod, +50% Elemental Weakness Dmg</li>
+  <li>Recipe:
+    <ul>
+      <li>Chromatic Blossom - <em>A mysterious rainbow colored flower found deep in the forest where Bonnie headed. Rumors say the essence of this flower supplies the luminous energy for Bonnie’s cannon.</em> <img src="/assets/bf210316/item_thum_880218.png" alt="Chromatic Blossom Thumbnail" class="img-responsive" /></li>
+      <li>60 Choco Bunnies - <em>A pungent chocolate said to be only given to the pure-hearted young of Randall by the guardians in the skies. It is a rare and precious Item that should be cherished.</em> <img src="/assets/bf210316/item_thum_880217.png" alt="Choco Bunny Thumbnail" class="img-responsive" /></li>
+      <li>75 Rabbit’s Foot</li>
+      <li>60 Ascension Bells</li>
+      <li>25 Honor Drops</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="easter-madness-dungeon-easter-fanfare-lv-4">Easter Madness Dungeon, Easter Fanfare Lv. 4</h2>
+
+<p><em>Furry creatures led to wings of guardian for the kind hearted.</em></p>
+
+<ul>
+  <li>7 Battles</li>
+  <li>20 EN</li>
+  <li>2200 XP</li>
+  <li>Clear Rewards:
+    <ul>
+      <li>1 Gem</li>
+      <li>Chromatic Blossom</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="addition-of-various-units">Addition of various units</h2>
+
+<ul>
+  <li>Immortal Phoenix Levarza (name only)</li>
+  <li>Ocean Conqueror Mega (name only)</li>
+  <li>Paladin Crusader Sodis (name only)</li>
+  <li>Phantom Victor Zephyr (name only)</li>
+  <li>Blazing Dawn Owen (name only)</li>
+  <li>Effulgent Dusk Grahdens (name only)</li>
+  <li>Tartarus Blaze Berdette</li>
+  <li>Tartarus Flood Sareas</li>
+  <li>Tartarus Demolition Dure</li>
+  <li>Tartarus Sacrifice Radia</li>
+  <li>Tartarus Massacre Sirius</li>
+  <li>Tartarus Burial Melina</li>
+</ul>
+
+<h2 id="other-stuff">Other stuff</h2>
+
+<ul>
+  <li>Downloaded Colosseum/Omni Evolution assets.</li>
+</ul>
+   
+    </div>
+  </div>
+  <hr>
+
+  <div>
+    <h1 style="text-align:center">
+      <a href="/bravefrontier/2015/12/22/brave-frontier-update-notes-tue-dec-22-2015">Brave Frontier - Update Notes - Tue Dec 22 2015 - Christmas Update</a>
+    </h1>
+    <br>
+    <p class="author">
+      <span class="date">Published on December 22, 2015</span>
+    </p>
+    <div class="content">
+      <p>Official changelog can be found <a href="http://forums.gumi.sg/forum/news-boards/server-status/266824-server-maintenance-december-22-20-00-pst">here</a>.</p>
+
+<p><a href="https://www.reddit.com/r/bravefrontier/comments/3xx8ow/update_notes_tue_dec_22_2015_christmas_update/">Reddit discussion thread here.</a></p>
+
+<hr />
+
+<h1 id="rs-events">RS Events</h1>
+
+<h2 id="special-summon">Special Summon!</h2>
+
+<p><img src="/assets/bf221215/gacha_rare_bg_img_20151223_Frosty.png" alt="" class="img-responsive" /></p>
+
+<p>From 23 Dec, 07:00 PST ~ 30 Dec, 06:59 PST, enjoy SPECIAL SUMMON Minimum 5 stars and unlock ONE chance at FROSTY SUMMON for every 5 summons! Get Zeruiah through the Summon Gate for limited time.</p>
+
+<h2 id="frosty-summon">Frosty Summon!</h2>
+
+<p><img src="/assets/bf221215/gacha_rare_bg_img_20151223_xmas.png" alt="" class="img-responsive" /></p>
+
+<p>From 23 Dec, 7:00 PST ~ 30 Dec, 06:59 PST, enjoy minimum 5 stars and a limited pool of 15 Global Exclusive 7 stars potential units!</p>
+
+<p>Summon now!</p>
+
+<p>New Units: Zeruiah, Piany, Drevas and Reud are available through the Summon Gate. Zeruiah is only available in the Summon Gate for LIMITED TIME.</p>
+
+<p>Enjoy SPECIAL SUMMON for 5 gems!</p>
+
+<h1 id="christmas-dungeon---glittering-wintertide">Christmas Dungeon - Glittering Wintertide</h1>
+
+<p><img src="/assets/bf221215/sp_quest_banner_803001.png" alt="Christmas Dungeon Banner" class="img-responsive" /></p>
+
+<ul>
+  <li>Frozen Dreamland Lv. 2 - In a distant land, bright lights pulsate and melodious songs jingle away.
+    <ul>
+      <li>20 EN, 5 Battles, 1800 XP</li>
+    </ul>
+  </li>
+  <li>Frozen Dreamland Lv. 3 - The snowstorm picks up as you trudge your way towards the castle. Curiously, it seems to be nudging you forward.
+    <ul>
+      <li>25 EN, 5 Battles, 2200 XP</li>
+    </ul>
+  </li>
+  <li>Frozen Dreamland Lv. 4 - As you approach the artic castle, a shadowy figure watches over you from the top of the tower. What surprises await?.
+    <ul>
+      <li>30 EN, 7 Battles, 2600 XP</li>
+      <li>1 Gem Clear Bonus</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Both Glittering Wintertide and Winter Glades Blitz will be open for 1 week.</p>
+
+<h1 class="earth" id="eternal-preserver-zeruiah">Eternal Preserver Zeruiah</h1>
+
+<p><img src="/assets/bf221215/unit_ills_full_830117.png" alt="Illustration" class="img-responsive" /></p>
+
+<p>Other Illustrations: <a href="/assets/bf221215/unit_ills_full_830115.png">5*</a> | <a href="/assets/bf221215/unit_ills_full_830116.png">6*</a></p>
+
+<p><img src="/assets/bf221215/reindeer_idle.gif" alt="Idle" class="img-responsive" style="display:inline" />
+<img src="/assets/bf221215/reindeer_atk.gif" alt="Attack" class="img-responsive" style="display:inline" /></p>
+
+<ul>
+  <li><strong>Hits/DC</strong>: 10/5</li>
+  <li><strong>Cost</strong>: 42</li>
+  <li><strong>Stats (L)</strong>: 6725 HP / 2510 ATK / 2520 DEF / 2315 REC</li>
+  <li><strong>Imps</strong>: 1100 HP / 440 ATK / 440 DEF / 440 REC</li>
+  <li><strong>LS</strong>: +12% XP, +24% BC/HC Drop Rate, +7% Item Drop Rate, +15% Karma Drop Rate, +20%% Zel Drop Rate, +60% BB Fill Rate</li>
+  <li><strong>ES</strong>: +25% DMG Taken to HP (25% Chance), Reduce DMG 25% (25% Chance)</li>
+  <li><strong>BB</strong>: Cost: 25BC/30DC - 30 Hit 300% Earth and Water AoE (ATK+100), 3000-3300 Heal (+31.7% Healer REC), 3 turns +35% BC/HC Drop Rate Buff, Cure Status Ailments</li>
+  <li><strong>SBB</strong>: Cost: 40BC/40DC - 40 Hit 540% Earth and Water AoE (ATK+100), Fill Own BB Gauge, 3 turns +35% BC/HC Drop Rate, 3 turns +5% Item Drop Rate, 2 turn All Elements Buff</li>
+  <li><strong>UBB</strong>: Cost: 30BC - 3 turns +75% Mitigation, +25% Max HP, 3 turns Convert 100% REC to DEF, 3 turns +100% BC/HC Drop Rate, 3 turns +7% Item Drop Rate</li>
+  <li><strong><a href="https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/">Arena Type</a></strong>: 2</li>
+  <li><strong>Evo Mat</strong>: (Miracle Totem, 2x Earth Totems, Water Bulb, Earth Bulb) -&gt; (Earth Mecha God, Miracle Totem, Miracle Bulb, Earth Bulb, Legend Stone)</li>
+  <li><strong>5* Lore</strong>: In the snow-bound mountain region of the far North, there exists an impossibly lush and bountiful Vale. Legends tell that in ancient times, a gigantic floating tree drifted in the skies for a hundred years before disappearing. Frozen creeks transformed into flowing rivers, temperate vegetation sprang forth in a mystical miracle. The Vale became a bastion for various wildlife and a host of Fae spirits. The Fae were good-natured, innocent and made the woods ring with merriment everyday. However, a great danger loomed over them in the form of invading goblin hordes that were attracted by the food as well as magical energies of the Vale. The Fae were no match for the savagery of the goblins and were driven back. In their dark hour, they congregated at a massive tree that had sprouted at the center of the Vale and began chanting, thousands of voices soared in harmony. Their myriad of wills and desires for a savior and guardian culminated in a blinding pillar of turquoise light that sundered the clouds high above. The final manifestation of this bewitching event was a mythical deity brought to life. She was known as Zeruiah and all Fae unanimously bowed before her.</li>
+  <li><strong>6* Lore</strong>: Zeruiah was one with the Vale. With the Fae rallied behind, the deity turned wildlife, plants and the very elements against the goblin invaders. Trees uprooted into towering treants that smashed the puny humanoids by the dozens. Stags and boars charged and impaled any greenskins that survived the onslaught of mighty Earth and Water elementals. In one fell swoop, the goblin swarm was defeated and routed out of the Vale. Drawing on her divine powers, Zeruiah erected wards and summoned raging blizzards that would keep out evil monsters. For countless millennia, the Vale flourished and expanded under the protection and rule of Zeruiah. The Fae channeled and constructed majestic Vaults in which they stored all sorts of treasures, tomes and artifacts collected or crafted over the ages. Knowledge of these Vaults gradually leaked to the world outside and many civilizations sought to gain entry into the Vale, fueled by greed and curiosity. From historical records, none made it in.</li>
+  <li><strong>7* Lore</strong>: An Eternal Preserver of all the treasures and knowledge of the Vale in the far North, summoned at the behest of the Fae to rule over and protect the land. One day, Zeruiah discovered that a small girl had somehow gotten pass the wards and gained access to the Vale. After observing the girl for days, Zeruiah grew fascinated at how such a young human was able to command the snow and ice. The Fae and animals initially assisted the girl with sustenance at Zeruiah’s command, but eventually she was brought into the heart of the Vale. Despite her mistrust of humans, Zeruiah grew to love the girl, training and watching her grow up. Through this encounter, Zeruiah saw that not all humans were evil, and began opening up the Vale to druid tribes and scholars sent by Human kingdoms once every year - marked by a Fae festival called Hanukkah.</li>
+</ul>
+
+<h2 id="frozen-fantasy">Frozen Fantasy</h2>
+
+<p><img src="/assets/bf221215/sphere_thum_818903.png" alt="Frozen Fantasy Thumbnail" class="img-responsive" /></p>
+
+<p>Long deemed unconquerable by mere mortals. The stone was lost to the deep wintertide. In one of the coldest winters known to date, it was discovered by a duo who came across it in a forgotten cave, as if being called out by it. Both were immediately ensnared by its power and a great battle for ownership ensued. In the morning, only one walked out of the cave. The direction taken, however, was not towards home but deeper into the wintertide.</p>
+
+<ul>
+  <li>Status Boost</li>
+  <li>+30% HP/ATK, +40% DEF/REC, 75% Chance +3-6 BC when Attacked</li>
+  <li>Recipe:
+    <ul>
+      <li>Frozen Myth</li>
+      <li>99 Snow Flakes</li>
+      <li>65 Snow Crystals</li>
+      <li>60 Snow Gemstones</li>
+      <li>80 Miracle Frosts</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="grandt-and-elaina-buffs">Grandt and Elaina Buffs</h2>
+
+<h3 class="fire" id="grandt">Grandt</h3>
+<ul>
+  <li>Normal hit DC increased from 3 to 8 (Max BC Gen from 12 to 32).</li>
+  <li>BB - Max BC Gen increased from 12 to 48.</li>
+  <li>SBB - ATK Down chance increased from 30% to 50%.</li>
+  <li>SBB - HP% to ATK conversion increased from 10% to 15%.</li>
+  <li>UBB - ATK Down increased from -50% to -75%.</li>
+</ul>
+
+<h3 class="earth" id="elaina">Elaina</h3>
+<ul>
+  <li>Normal hit DC increased from 1 to 2 (Max BC Gen from 10 to 20).</li>
+  <li>BB - BB Fill/turn increased from 4 to 6.</li>
+  <li>SBB - BB Fill/turn increased from 5 to 6.</li>
+  <li>UBB - Attacks are now 1 frame faster to activate.</li>
+</ul>
+   
+    </div>
+  </div>
+  <hr>
+
+  <div>
+    <h1 style="text-align:center">
+      <a href="/bravefrontier/2015/12/01/brave-frontier-random-update-notes-tue-dec-01-2015">Brave Frontier - Random Update Notes - Tue Dec 01 2015</a>
+    </h1>
+    <br>
+    <p class="author">
+      <span class="date">Published on December  1, 2015</span>
+    </p>
+    <div class="content">
+      <p>Random things I found.</p>
+
+<p><img src="/assets/bf011215/area_plate_0023.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/area_plate_0024.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/area_plate_0025.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/area_plate_0026.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/areaselect_arena_btn.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/areaselect_colosseum_btn.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/sp_quest_banner_lithograph.png" alt="Image" class="img-responsive" />
+<img src="/assets/bf011215/sub_m_r_btn_practice_end_label1.png" alt="Image" class="img-responsive" /></p>
+   
+    </div>
+  </div>
+  <hr>
+
+  <div>
+    <h1 style="text-align:center">
+      <a href="/bravefrontier/2015/11/25/brave-frontier-update-notes-wed-nov-25-2015">Brave Frontier - Update Notes - Wed Nov 25 2015</a>
+    </h1>
+    <br>
+    <p class="author">
+      <span class="date">Published on November 25, 2015</span>
+    </p>
+    <div class="content">
+      <p>Official changelog can be found <a href="http://forums.gumi.sg/forum/news-boards/server-status/261229-server-maintenance-november-25-00-00-pst">here</a>.</p>
+
+<p><a href="https://www.reddit.com/r/bravefrontier/comments/3u6z75/update_notes_wed_25_nov_2015/">Reddit discussion thread here.</a></p>
+
+<hr />
+
+<h1 id="raid-x3-part-1">Raid X3 Part 1</h1>
+
+<h2 id="rare-summon">Rare Summon</h2>
+
+<p><img src="/assets/bf251115/gacha_rare_bg_img_201511_globalX3.png" alt="Rare Summon Gate" class="img-responsive" /></p>
+
+<h2 id="units">Units</h2>
+
+<h3 class="fire" id="infernal-ravager-korzan">Infernal Ravager Korzan</h3>
+
+<p><img src="/assets/bf251115/unit_ills_full_810317.png" alt="Illustration" class="img-responsive" /></p>
+
+<p><img src="/assets/bf251115/unit_810317_idle.gif" alt="Idle" class="img-responsive" style="display:inline" />
+<img src="/assets/bf251115/unit_810317_atk.gif" alt="Attack" class="img-responsive" style="display:inline" /></p>
+
+<ul>
+  <li><strong>Hits/DC</strong>: 13/3</li>
+  <li><strong>Cost</strong>: 42</li>
+  <li><strong>Stats (L)</strong>: 6973 HP / 3101 ATK / 2357 DEF / 1901 REC</li>
+  <li><strong>Imps</strong>: 1000 HP / 600 ATK / 400 DEF / 300 REC</li>
+  <li><strong>LS</strong>: +40% ATK/HP, +175% Crit Dmg, 3-6 BC when Attacked, +50% ATK when BB Gauge Full</li>
+  <li><strong>ES</strong>: Negate Elemental Weakness, +200% BB Mod</li>
+  <li><strong>BB</strong>: Cost: 26BC/16DC - 16 Hit 250-500% based on HP lost AoE (ATK+100), 2 turns Def Ignore, 3 turns +150% ATK +60% Crit Chance, 40% BB Fill Self</li>
+  <li><strong>SBB</strong>: Cost: 27BC/19DC - 19 Hit 400-800% based on HP lost AoE (ATK+100), 3 turns +75% Crit Dmg, 3 turns convert 20% HP to ATK, +10% Max HP</li>
+  <li><strong>UBB</strong>: Cost: 25BC/30DC - 2 Hit 1200-3000% based on HP lost AoE (ATK+100), 3 turns +300% Crit Dmg, 3 turns convert 50% HP to ATK, +100% Max HP Self</li>
+  <li><strong><a href="https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/">Arena Type</a></strong>: 3</li>
+  <li><strong>Evo Mat</strong>: (Miracle Totem, Fire Totem, 2x Dragon Mimic, Fire Bulb) -&gt; (Fire Mecha God, 2x Miracle Totem, Metal Mimic, Fire Bulb)</li>
+  <li><strong>Lore</strong>: A notorious ravager from the world of Eneroth. Years of endless rampaging did not earn him any solace. Despite coming to be feared as one of Eneroth’s mightiest warriors, Korzan’s soul was left as empty as before. Determine to find a new purpose in life, he set off to seek a mysterious band of hunters rumored to consist of both Deva and Morokai. He was convinced that the person capable of uniting the people of two warring nations might be able to provide the answers he sought. Upon arriving at their camp, he discovered that their camp was attacked by a trio of Emperor Devil Scorpions, one of the deadliest beasts to roam the Baldemar Badlands. Following his battle instincts, Korzan jumped into the fray and quickly slayed one of the three scorpions. Ready to take on his next prey, he was stunned to find the other two scorpions defeated. Upon their carcass stood a warrior. On her head were the horns of the Morokai and on her back spanned the unmistakable wings of the Deva. One look into her eyes was enough for Korzan to understand the difference in power between them. He thought to himself that perhaps this person could be the one to help him find his destiny.</li>
+  <li><strong>ES Sphere</strong>: Vulcan Axe - Status Boost - +30% ATK/HP/Crit Chance, +50% ATK when BB Gauge Full
+    <ul>
+      <li><strong>Sphere Lore</strong>: Korzan’s treasured Vulcan Axe is a weapon like no other. Forged from orihalcum, the bone and crystallized heart of an Elder Magma Salamander, the Vulcan Axe was commissioned by Overlord Azurai to celebrate the birth of his son. The soul of the beast lived on within the weapon, but only a warrior worthy of its fiery might could call forth its true power. Although known for their extraordinary strength, the only known Morokai to have ever wielded the Vulcan Axe effectively were Overlord Azurai, and Korzan himself. In battle, the flames of the Salamander would engulf the weapon, making it capable of melting both metal and rock in a matter of seconds.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="water" id="boreal-tempest-haile">Boreal Tempest Haile</h3>
+
+<p><img src="/assets/bf251115/unit_ills_full_820317.png" alt="Illustration" class="img-responsive" /></p>
+
+<p><img src="/assets/bf251115/unit_820317_idle.gif" alt="Idle" class="img-responsive" style="display:inline" />
+<img src="/assets/bf251115/unit_820317_atk.gif" alt="Attack" class="img-responsive" style="display:inline" /></p>
+
+<ul>
+  <li><strong>Hits/DC</strong>: 16/3</li>
+  <li><strong>Cost</strong>: 42</li>
+  <li><strong>Stats (L)</strong>: 6774 HP / 2650 ATK / 2381 DEF / 2336 REC</li>
+  <li><strong>Imps</strong>: 1100 HP / 440 ATK / 440 DEF / 440 REC</li>
+  <li><strong>LS</strong>: +30% ATK/DEF/REC, +25% HP, 50% BB Fill Rate, +25% HC/BC Drop, +150% BB Mod</li>
+  <li><strong>ES</strong>: +20% All Stats, 8 BC when attacking</li>
+  <li><strong>BB</strong>: Cost: 30BC/18DC - 18 Hit 290% AoE (ATK+100), 3 turns +6 BC/turn, 3 turns +130% ATK/DEF/REC, 3 turns +50% BB Fill Rate</li>
+  <li><strong>SBB</strong>: Cost: 26BC/20DC - 20 Hit 540% AoE (ATK+100), +8 BC, 3 turns +200% BB Mod, 50% Chance for 1 turn -50% ATK/DEF</li>
+  <li><strong>UBB</strong>: Cost: 25BC/22DC - 22 Hit 1200% AoE (ATK+100), 3 turns +50 BC/turn, 3 turns +200% ATK/DEF/REC, 2 turns +500% BB Mod</li>
+  <li><strong><a href="https://www.reddit.com/r/bravefrontier/comments/340vh5/arena_ai_for_global_units_v2/">Arena Type</a></strong>: 2</li>
+  <li><strong>Evo Mat</strong>: (Miracle Totem, Water Totem, 2x Dragon Mimic, Water Bulb) -&gt; (Water Mecha God, 2x Miracle Totem, Metal Mimic, Water Bulb)</li>
+  <li><strong>Lore</strong>: A renegade Deva battlemage from the world of Eneroth. After her defeat at the hands of the Destroyer, Haile was rescued by a band of Morokai hunters. She was surprised to discover that there were Deva living among them, and not as slaves, but as equals. Raised to fear the Morokai as the mortal enemies of the Deva, Haile was initially wary of those around her. However, the secluded lifestyle she had experienced behind the confines of the city walls made her encounter with the Morokai pique her curiosity. Choosing to seek a deeper understanding of the Morokai as she had once done to unravel the mysteries of magic, Haile came to embrace a different set of ideals and way of life. While her temperament remained unchanged, she now used her abilities to protect her new ideals and to save others from becoming mere casualties of war, regardless of their origins. Now known as the renegade “Ardent Ice Queen,” Haile continued to disrupt the war efforts of both nations, hoping that her actions would help usher in a new era of peace.</li>
+  <li><strong>ES Sphere</strong>: Glacies Staff - Status Boost - +20% All Stats, 5-10% Reduced BB BC Use, +100% BB Mod
+    <ul>
+      <li><strong>Sphere Lore</strong>: The Glacies Staff used by Haile has been heavily modified to suit her aggressive style of combat. The staff is forged entirely from mithril, an extremely durable but lightweight material found only within the mountain mines of Myrranthia. The crystal lacrima embedded into the staff is said to be the frozen tear of a legendary Ice Serpent, an incredibly rare resource that provides un-paralleled efficacy when channeling magic. In the hands of a novice the staff would rapidly deplete its bearer’s mana, possibly killing them in the process. However, in the right hands it is capable of greatly reducing the casting time of spells while simultaneously magnifying its owner’s powers.</li>
+    </ul>
+  </li>
+</ul>
+
+   
+      <br>
+      <p style="text-align: center">
+        <a class="btn btn-sm btn-default" href="/bravefrontier/2015/11/25/brave-frontier-update-notes-wed-nov-25-2015" role="button">Read more
+          <i class="fa fa-arrow-circle-right"></i>
+        </a>
+      </p>
+      
+    </div>
+  </div>
+  <hr>
+
 
 <!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
+
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
+  
     <span>&laquo; Prev</span>
-  {% endif %}
+  
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+  
+    
+      <em>1</em>
+    
+  
+    
+      <a href="/page2">2</a>
+    
+  
+    
+      <a href="/page3">3</a>
+    
+  
+    
+      <a href="/page4">4</a>
+    
+  
+    
+      <a href="/page5">5</a>
+    
+  
+    
+      <a href="/page6">6</a>
+    
+  
+    
+      <a href="/page7">7</a>
+    
+  
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
+  
+    <a href="/page2">Next &raquo;</a>
+  
 </div>
-{% endif %}
+
+      </div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p>&copy; 2024 Jun Siang Cheah
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. <a href="/privacy" target="_blank">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
+
+    
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-60732665-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+      window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on this website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+    </script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+  </body>
+</html>
+

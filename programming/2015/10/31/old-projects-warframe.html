@@ -1,0 +1,295 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Old Projects - Warframe</title>
+    
+    <meta name="author" content="Jun Siang Cheah">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap styles -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Optional theme -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- Sticky Footer -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+    <!-- Bootflat theme -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/css/bootstrap-flat.min.css" rel="stylesheet">
+    
+    <!-- Custom styles -->
+    <link href="https://jscheah.me/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+  </head>
+
+  <body>
+    <div id="wrap">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Jun Siang Cheah</a>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="//deathsnacks.com">Tools</a></li>
+              <li><a href="//github.com/cheahjs">GitHub</a></li>
+              <!--
+              
+              
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages">Pages</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+-->
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </nav>
+
+      <div class="container">
+        
+<div class="page-header">
+  <h1 style="text-align:center">Old Projects - Warframe </h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="date">
+      <span>31 October 2015</span>
+    </div>
+    <div class="content">
+      <p>This will be a series of posts where I log various old projects that I’ve done and probably abandoned.</p>
+
+<h2 id="irc-bot">IRC Bot</h2>
+
+<p>This was a Lua script with HexChat running on the clan/alliance chat channels for Warbros in the game’s IRC server. If you want details on how to connect, don’t ask me.</p>
+
+<!--more-->
+
+<h3 id="clan-motd-in-chat">Clan MOTD in Chat</h3>
+
+<p>The bot’s original purpose was to regular dump the clan’s MOTD in chat so members would actually read the MOTD and follow any instructions given.</p>
+
+<h3 id="member-invasion-status">Member Invasion Status</h3>
+
+<p>When invasions were first introduced with The Gradivus Dilemma event, the clan was aiming for the top of the leaderboards. The bot would check each clan member’s status and notify the clan when someone was supporting the opposing faction and causing the clan scores to drop. The bot also tracks ETAs to completion and kept a log of progress (which was how we discovered DE was manipulating invasion goals on the fly and certain nodes had discrepencies in them).</p>
+
+<h3 id="alertinvasion-notifications">Alert/Invasion Notifications</h3>
+
+<p>This was actually the inspiration for DE to implement global notifications in chat (yay for DE staff being in clan chat). Notifications are posted in chat whenever a new alert/invasion is detected (up to 5 minutes before it is live).</p>
+
+<h3 id="ghost-notifications">Ghost Notifications</h3>
+
+<p>Since the IRC server was configured to time out users after 5 minutes, it was very common for players to login and have _1/_2 in their names, breaking invite functionality/PMs. When the player’s ghost timed out, a message was sent to request the player to relog.</p>
+
+<p>This is no longer an issue because ghosts are automatically killed.</p>
+
+<h3 id="cicero-crisis-management">Cicero Crisis Management</h3>
+
+<p>Since the Cicero Crisis event required farming mats from the different cycles, the bot will give the current day/night cycle to ease farming.</p>
+
+<p>The bot also checked clan members’ event scores, and anyone without max scores would be announced when they came online since DE changed clan scoring from total scores to average personal scores. Any member without max score would drag the clan score down and I believe were kicked prior to the event ending.</p>
+
+<p>The bot also dumped member leaderboards for the event for the clan, and other clans (discovering clans that were exploiting to get points beyond what was allowed). Members could also check on the event status without logging in.</p>
+
+<h3 id="mod-drop-tables">Mod Drop Tables</h3>
+
+<p>Players could query the bot for the drop locations of any mod.</p>
+
+<h3 id="player-count-logs">Player Count Logs</h3>
+
+<p>Since there was still a minority of players not on the Steam version of the game, I wanted finer granularity for player counts. Luckily, I can just query the IRC server for the current player count.</p>
+
+<h3 id="dark-sector-status">Dark Sector Status</h3>
+
+<p>Players could query the bot for the current progress of dark sector conflicts. Used when the clan/alliance had a rail up.</p>
+
+<hr />
+
+<h2 id="wardroid---pre-release">WarDroid - Pre-Release</h2>
+
+<p>Prior to the current version of WarDroid, there was another version that connected to the game server with your credentials that allowed you to manage your account such as claiming items from the foundry (starting builds were in the pipeline until it was shut down), claiming extractor resources, and viewing clan details (management similarly was under development).</p>
+
+<p><img src="https://i.imgur.com/1VuXaZH.png" alt="Sidebar" class="img-responsive" /></p>
+
+<p><img src="https://i.imgur.com/eFyuMKW.png" alt="Foundry # 1" class="img-responsive" style="display:inline" />
+<img src="https://i.imgur.com/y2domQd.png" alt="Foundry # 2" class="img-responsive" style="display:inline" />
+<img src="https://i.imgur.com/CNvlBJZ.png" alt="Foundry # 3" class="img-responsive" style="display:inline" /></p>
+
+<p><img src="https://i.imgur.com/CNvlBJZ.png" alt="Extractor # 1" class="img-responsive" style="display:inline" />
+<img src="https://i.imgur.com/ZfqIlp6.png" alt="Extractor # 2" class="img-responsive" style="display:inline" />
+<img src="https://i.imgur.com/ZfqIlp6.png" alt="Extractor # 3" class="img-responsive" style="display:inline" /></p>
+
+<p><img src="https://i.imgur.com/iopaD7k.png" alt="Clan" class="img-responsive" /></p>
+
+<p>This was also when Glen changed worldState from a private API to a publicly available resource (+ RSS feeds) that people are using now.</p>
+
+    </div>
+  
+    <hr>
+    <ul class="pagination">
+    
+      <li class="prev"><a href="/bravefrontier/2015/10/15/brave-frontier-update-notes-thurs-oct-15-2015" title="Brave Frontier - Update Notes - Thurs Oct 15 2015">&laquo; Previous</a></li>
+    
+      <li><a href="/archive.html">Archive</a></li>
+    
+      <li class="next"><a href="/bravefrontier/2015/11/25/brave-frontier-update-notes-wed-nov-25-2015" title="Brave Frontier - Update Notes - Wed Nov 25 2015">Next &raquo;</a></li>
+    
+    </ul>
+    <hr>
+    
+  </div>
+</div>
+
+
+      </div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p>&copy; 2024 Jun Siang Cheah
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. <a href="/privacy" target="_blank">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
+
+    
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-60732665-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://jscheah.me/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+      window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on this website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+    </script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+  </body>
+</html>
+
