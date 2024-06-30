@@ -29,7 +29,7 @@ export function Portfolio() {
             <h2 className="text-3xl font-bold mb-4 md:text-4xl lg:text-5xl">Public Projects</h2>
             <div className="flex flex-wrap -mx-4 justify-center">
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Palworld screenshot"
                     className="w-full h-48 object-cover"
@@ -46,7 +46,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">Python</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Python library for parsing and generating save files for the game Palworld.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
@@ -58,7 +58,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Screenshot of palservers.xyz"
                     className="w-full h-48 object-cover"
@@ -77,7 +77,7 @@ export function Portfolio() {
                       <Badge variant="secondary">Postgres</Badge>
                       <Badge variant="secondary">Go</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       A server list for the game Palworld.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
@@ -90,7 +90,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Screenshot of the settings page for arcdps-squad-ready-plugin"
                     className="w-full h-48 object-cover"
@@ -107,7 +107,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">C++</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Plugin for the game Guild Wars 2 that enables sound notifications for squad readiness.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
@@ -119,7 +119,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Screenshot of arcdps-chat-log"
                     className="w-full h-48 object-cover"
@@ -136,7 +136,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">Rust</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Plugin for the game Guild Wars 2 that enables users to log chat messages and provide audio
                       accessibility options.
                     </p>
@@ -149,7 +149,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Project"
                     className="w-full h-48 object-cover"
@@ -166,7 +166,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">Go</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Proof of concept for using wintun to intercept network traffic on Windows.
                       Used as part of a security test against a proprietary game networking protocol.
                     </p>
@@ -179,7 +179,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Screenshot of the news page"
                     className="w-full h-48 object-cover"
@@ -197,7 +197,7 @@ export function Portfolio() {
                       <Badge variant="secondary">Go</Badge>
                       <Badge variant="secondary">C#</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Website that scrapes news from the game Final Fantasy Brave Exvius and posts them to Discord.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
@@ -209,7 +209,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Project"
                     className="w-full h-48 object-cover"
@@ -226,7 +226,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">Python</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Tool for parsing data such as unit stats and skills from the game Brave Frontier.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
@@ -238,7 +238,7 @@ export function Portfolio() {
                 </div>
               </div>
               <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
-                <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div className="bg-gray-900 rounded-lg shadow-lg overflow-hidden">
                   <img
                     alt="Logo of TShock"
                     className="w-full h-48 object-cover"
@@ -255,7 +255,7 @@ export function Portfolio() {
                     <div className="flex flex-wrap gap-2 mb-4">
                       <Badge variant="secondary">C#</Badge>
                     </div>
-                    <p className="text-gray-600 mb-4">
+                    <p className="text-gray-300 mb-4">
                       Formerly a maintainer for TShock, a server modification for the game Terraria that adds
                       extensibility and administration features.
                     </p>
