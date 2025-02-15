@@ -30,15 +30,14 @@ export function Portfolio() {
             <div className="text-center">
               <p>I do lots of backend things - with lots of experience with cloud-native infrastructure and
                 DevSecOps.</p>
-              <p>Tech stacks that I'm familiar with include:
-                <ul>
-                  <li>Go</li>
-                  <li>Python</li>
-                  <li>Kubernetes</li>
-                  <li>Terraform</li>
-                  <li>Vault</li>
-                </ul>
-              </p>
+              <p>Tech stacks that I&apos;m familiar with include:</p>
+              <ul>
+                <li>Go</li>
+                <li>Python</li>
+                <li>Kubernetes</li>
+                <li>Terraform</li>
+                <li>Vault</li>
+              </ul>
             </div>
           </div>
           <div className="mb-8 md:mb-12 lg:mb-16">
@@ -187,7 +186,7 @@ export function Portfolio() {
                       Used as part of a security test against a proprietary game networking protocol.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
-                          href="https://github.com/cheahjs/arcdps-chat-log" target="_blank">
+                          href="https://github.com/cheahjs/wintun-mitm" target="_blank">
                       Learn More
                       <ArrowRightIcon className="ml-2 h-5 w-5"/>
                     </Link>
@@ -276,7 +275,7 @@ export function Portfolio() {
                       extensibility and administration features.
                     </p>
                     <Link className="inline-flex items-center text-blue-500 hover:text-blue-600"
-                          href="https://github.com/cheahjs/bfdb" target="_blank">
+                          href="https://github.com/Pryaxis/TShock" target="_blank">
                       Learn More
                       <ArrowRightIcon className="ml-2 h-5 w-5"/>
                     </Link>
